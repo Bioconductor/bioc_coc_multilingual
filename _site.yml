@@ -1,8 +1,18 @@
 name: "bioc-coc"
 navbar:
-  title: "Bioconductor code of conduct"
+  title: "Bioconductor Code of Conduct"
   left:
     - text: "Home"
       href: index.html
+    - text: Languages
+      menu:
+      - text: "English, United States"
+        href: en-US.html
+      - text: "French, France"
+        href: fr-FR.html
+      - text: "Japanese, Japan"
+        href: jp-JP.html
+      - text: "Portuguese, Brazil"
+        href: pt-BR.html
     - text: "About"
       href: about.html
