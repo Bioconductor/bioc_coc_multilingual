@@ -279,19 +279,18 @@ jobs:
       #     tags: latest
 
       - name: Compile the website
-        if: github.ref == 'refs/heads/main' && runner.os == 'Linux'
         run: |
           rmarkdown::render_site(encoding = 'UTF-8')
         shell: Rscript {0}
 
       # deploy needs rsync? Seems so.
       - name: Install deploy dependencies
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push' && runner.os == 'Linux'
         run: |
           apt-get update && apt-get -y install rsync
 
       - name: Deploy 🚀
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push' && runner.os == 'Linux'
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
