@@ -1,0 +1,8 @@
+name: "bioc-coc"
+navbar:
+  title: "Bioconductor code of conduct"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
