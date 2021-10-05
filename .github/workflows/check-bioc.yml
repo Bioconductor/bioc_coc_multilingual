@@ -23,6 +23,8 @@
 on:
   push:
   pull_request:
+    branches:
+      - main
 
 name: R-CMD-check-bioc
 
