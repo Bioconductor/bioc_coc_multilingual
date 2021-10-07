@@ -1,5 +1,5 @@
 ---
-title: "Bioconductor Code of Conduct (French, France)"
+title: "Project-wide Code of Conduct statement for Bioconductor (French, France)"
 ---
 
 TODO.
