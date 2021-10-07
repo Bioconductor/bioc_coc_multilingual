@@ -1,8 +1,6 @@
 ---
-title: "Bioconductor Code of Conduct (English, United States)"
+title: "Project-wide Code of Conduct statement for Bioconductor (English, United States)"
 ---
-
-# ![](/images/icons/magnifier.gif) Project-wide Code of Conduct statement for Bioconductor
 
 (Adapted from the [BioC 2020 Code of Conduct][1])
 

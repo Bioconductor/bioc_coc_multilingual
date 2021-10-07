@@ -1,10 +1,10 @@
 ---
-title: "Bioconductor Code of Conduct"
+title: "Project-wide Code of Conduct statement for Bioconductor"
 ---
 
 Welcome to the Bioconductor community!
 
-This website hosts translations of the Bioconductor Code of Conduct.
+This website hosts translations of the project-wide Code of Conduct statement for Bioconductor.
 
 ## Languages (alphabetical)
 

@@ -1,5 +1,5 @@
 ---
-title: "Bioconductor Code of Conduct (Japanese, Japan)"
+title: "Project-wide Code of Conduct statement for Bioconductor (Japanese, Japan)"
 ---
 
 TODO.

@@ -2,4 +2,4 @@
 title: "About This Website"
 ---
 
-This website provides community-contributed translations of the Bioconductor Code of Conduct, originally written in [English, United States](en-US.html). 
+This website provides community-contributed translations of the project-wide Code of Conduct statement for [Bioconductor](https://bioconductor.org/), originally written in [English, United States](en-US.html). 
