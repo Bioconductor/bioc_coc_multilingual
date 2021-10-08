@@ -10,6 +10,8 @@ navbar:
         href: en-US.html
       - text: "French, France"
         href: fr-FR.html
+      - text: "Italian, Italy"
+        href: it-IT.html
       - text: "Japanese, Japan"
         href: jp-JP.html
       - text: "Portuguese, Brazil"
