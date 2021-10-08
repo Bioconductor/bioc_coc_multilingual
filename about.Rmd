@@ -21,3 +21,7 @@ This website provides community-contributed translations of the project-wide Cod
 #### `r emo::ji("Brazil")` Portuguese, Brazil
 
 - [Daniela Cassol](https://github.com/dcassol)
+
+#### `r emo::ji("Spain")` Spanish, Spain
+
+n/a

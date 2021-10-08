@@ -14,6 +14,8 @@ navbar:
         href: jp-JP.html
       - text: "Portuguese, Brazil"
         href: pt-BR.html
+      - text: "Spanish, Spain"
+        href: es-ES.html
     - text: "About"
       href: about.html
 # for output, see https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html#a-simple-example

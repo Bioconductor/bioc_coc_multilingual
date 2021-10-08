@@ -14,3 +14,4 @@ This website hosts translations of the project-wide Code of Conduct statement fo
 | `r emo::ji("France")` | French, France | [fr-FR](fr-FR.html) |
 | `r emo::ji("Japan")` | Japanese, Japan | [jp-JP](jp-JP.html) |
 | `r emo::ji("Brazil")` | Portuguese, Brazil | [pt-BR](pt-BR.html) |
+| `r emo::ji("Spain")` | Spanish, Spain | [es-ES](es-ES.html) |
