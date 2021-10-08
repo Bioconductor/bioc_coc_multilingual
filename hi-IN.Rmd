@@ -1,0 +1,5 @@
+---
+title: "`r emo::ji('India')` Project-wide Code of Conduct statement for Bioconductor (Hindi, India)"
+---
+
+TODO.

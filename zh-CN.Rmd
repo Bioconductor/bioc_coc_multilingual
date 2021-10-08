@@ -1,0 +1,5 @@
+---
+title: "`r emo::ji('China')` Project-wide Code of Conduct statement for Bioconductor (Chinese, China)"
+---
+
+TODO.

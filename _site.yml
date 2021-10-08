@@ -6,10 +6,16 @@ navbar:
       href: index.html
     - text: Languages
       menu:
+      - text: "Chinese, China"
+        href: zh-CN.html
       - text: "English, United States"
         href: en-US.html
       - text: "French, France"
         href: fr-FR.html
+      - text: "German, Germany"
+        href: de-DE.html
+      - text: "Hindi, India"
+        href: hi-IN.html
       - text: "Italian, Italy"
         href: it-IT.html
       - text: "Japanese, Japan"
