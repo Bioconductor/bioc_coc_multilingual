@@ -1,5 +1,5 @@
 ---
-title: "Project-wide Code of Conduct statement for Bioconductor (English, United States)"
+title: "`r emo::ji('United_States')` Project-wide Code of Conduct statement for Bioconductor (English, United States)"
 ---
 
 (Adapted from the [BioC 2020 Code of Conduct][1])
@@ -33,7 +33,7 @@ Sexual language and imagery are not appropriate in presentations, communications
 Any person/s violating the Code of Conduct may be sanctioned or expelled temporarily or permanently from an electronic platform or event at the discretion of the Code of Conduct committee.
 
 
-### Examples of unacceptable harassment, intimidation, and bullying behavior.
+### Examples of unacceptable harassment, intimidation, and bullying behavior
 
 Harassment includes, but is not limited to:
 

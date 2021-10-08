@@ -1,5 +1,5 @@
 ---
-title: "Code de bonne conduite applicable à l’intégralité du projet Bioconductor (French, France)"
+title: "`r emo::ji('France')` Code de bonne conduite applicable à l'intégralité du projet Bioconductor (French, France)"
 ---
 
 (Adapté du [Code de bonne conduite pour la conférence BioC 2020][1], traduit de l'[Anglais, Américain](en-US.html))
@@ -33,7 +33,7 @@ Le langage sexuel et l'imagerie sont inappropriés dans les présentations, les 
 Toute personne qui enfreint le Code de conduite peut être sanctionnée ou expulsée temporairement ou définitivement d'une plate-forme électronique ou d'un événement à la discrétion du comité du code de conduite.
 
 
-### Exemples de harcèlement, d'intimidation et d'intimidation inacceptables.
+### Exemples de harcèlement, d'intimidation et d'intimidation inacceptables
 
 Le harcèlement inclut, mais ne se limite pas à :
 

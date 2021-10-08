@@ -1,5 +1,5 @@
 ---
-title: "Project-wide Code of Conduct statement for Bioconductor (Japanese, Japan)"
+title: "`r emo::ji('Japan')` Project-wide Code of Conduct statement for Bioconductor (Japanese, Japan)"
 ---
 
 ([BioC 2020 の行動規範] から改作[1]、 [英語](en-US.html) から翻訳)
