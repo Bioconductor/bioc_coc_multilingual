@@ -11,3 +11,5 @@ Suggests:
     rmarkdown,
     BiocStyle,
     emo
+Remotes:  
+    hadley/emo
