@@ -15,7 +15,7 @@ title: "`r emo::ji('Japan')` Project-wide Code of Conduct statement for Biocondu
 
 * 「アイデア、コード、専門知識」の共有を促進する科学へのオープンなアプローチ
 * コラボレーション
-* diversity and inclusivity
+* 多様性と(人種や性別などにかかわらず)あらゆる人を受け入れようとすること
 * 親切で居心地の良い環境
 * コミュニティへの貢献
 
