@@ -8,7 +8,9 @@ This website hosts translations of the project-wide Code of Conduct statement fo
 
 ## Languages (alphabetical)
 
-- [English, United States](en-US.html)
-- [French, France](fr-FR.html)
-- [Japanese, Japan](jp-JP.html)
-- [Portuguese, Brazil](pt-BR.html)
+|          Flag           | Language       | Link               |
+| :---------------------: | :------------- | :------------------|
+| `r emo::ji("United_States")` | English, United States | [en-US](en-US.html) |
+| `r emo::ji("France")` | French, France | [fr-FR](fr-FR.html) |
+| `r emo::ji("Japan")` | Japanese, Japan | [jp-JP](jp-JP.html) |
+| `r emo::ji("Brazil")` | Portuguese, Brazil | [pt-BR](pt-BR.html) |

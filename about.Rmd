@@ -3,3 +3,21 @@ title: "About This Website"
 ---
 
 This website provides community-contributed translations of the project-wide Code of Conduct statement for [Bioconductor](https://bioconductor.org/), originally written in [English, United States](en-US.html). 
+
+### Contributors (by language, alphabetical)
+
+#### `r emo::ji("United_States")` English, United States
+
+- [BioC 2020 Organizing committee](https://bioc2020.bioconductor.org/organizers)
+
+#### `r emo::ji("France")` French, France
+
+- [Kevin Rue-Albrecht](https://github.com/kevinrue)
+
+#### `r emo::ji("Japan")` Japanese, Japan
+
+- [Kozo Nishida](https://github.com/kozo2)
+
+#### `r emo::ji("Brazil")` Portuguese, Brazil
+
+- [Daniela Cassol](https://github.com/dcassol)
