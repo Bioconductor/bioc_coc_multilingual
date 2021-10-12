@@ -26,9 +26,9 @@ n/a
 
 n/a
 
-#### `r emo::ji("Italy")` Italian, Italy
+#### `r emo::ji("Italy")` Italiano, Italia
 
-n/a
+- [Dario Righelli](https://github.com/drighelli)
 
 #### `r emo::ji("Japan")` Japanese, Japan
 
