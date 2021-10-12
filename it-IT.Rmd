@@ -95,7 +95,7 @@ Diamo valore alla tua presenza e partecipazione agli eventi di Bioconductor e al
 
 ###  Commissione del Codice di Buon Comportamento
 
-* (Chair) Saskia Freytag <sas.freytag@gmail.com>
+* (Presidentessa) Saskia Freytag <sas.freytag@gmail.com>
 * Yagoub Adam <yagoub@alumni.usp.br>
 * Leonardo Collado-Torres <lcolladotor@gmail.com>
 * Aedín Culhane <aedin@ds.dfci.harvard.edu>
