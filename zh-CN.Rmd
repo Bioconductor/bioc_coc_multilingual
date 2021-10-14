@@ -2,4 +2,11 @@
 title: "`r emo::ji('China')` Project-wide Code of Conduct statement for Bioconductor (Chinese, China)"
 ---
 
-TODO.
+(改编自[BioC 2020行为准则][1]，由[英语版](en-US.html) 翻译而来)
+
+# 行为准则
+
+**1.0.1版本（2020年11月25日）**
+
+* 此为项目内的首版行为准则，由先前的会议文档扩展而来
+
