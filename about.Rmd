@@ -38,6 +38,10 @@ n/a
 
 - [Daniela Cassol](https://github.com/dcassol)
 
+#### `r emo::ji("Russia")` Russian, Russian Federation
+
+n/a
+
 #### `r emo::ji("Spain")` Spanish, Spain
 
 n/a
