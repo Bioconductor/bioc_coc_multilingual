@@ -1,0 +1,5 @@
+---
+title: "`r emo::ji('Russia')` Project-wide Code of Conduct statement for Bioconductor (Russian, Russian Federation)"
+---
+
+TODO.
