@@ -8,7 +8,7 @@ This website provides community-contributed translations of the project-wide Cod
 
 #### `r emo::ji("China")` Chinese, China
 
-n/a
+- [Xueyi Dong](https://github.com/XueyiDong)
 
 #### `r emo::ji("United_States")` English, United States
 
