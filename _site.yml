@@ -32,6 +32,7 @@ navbar:
 output:
   html_document:
     #highlight: textmate
-    #include:
-    #  after_body: footer.html
+    include:
+      in_header: header.html
+      # after_body: footer.html
     css: styles.css
