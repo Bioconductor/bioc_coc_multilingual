@@ -25,7 +25,7 @@ In linea con questi valori, Bioconductor si dedica a creare una comunità accogl
 * posizione intellettuale: approcci all'analisi dati, preferenze nella scelta di software, stile del codice, prospettive scientifiche, ecc.
 * livello di carriera
 
-Partecipando a questa comunità, tu acconsenti a non avere comportamenti contrari a questi valori ad ogni evento sponsorizzato da Bioconductor (di persona o in virtuale, incluso, ma non limitato a, presentazioni, seminari, sessioni poster, attività sociali) o canali di comunicazione elettronica (incluso, ma non limitato a, il canale Slack \"community-bioc\", il sito di supporto, i forum online e le comunicazioni sui social media).
+Partecipando a questa comunità, tu acconsenti a non avere comportamenti contrari a questi valori ad ogni evento sponsorizzato da Bioconductor (di persona o in virtuale, incluso, ma non limitato a, presentazioni, seminari, sessioni poster, attività sociali) o canali di comunicazione elettronica (incluso, ma non limitato al, workspace Slack \"community-bioc\", il sito di supporto, i forum online e le comunicazioni sui social media).
 
 Non tolleriamo molestie, intimidazioni, o bullismo dei membri della comunità.
 Linguaggio e immagini a sfondo sessuale non sono appropriate nelle presentazioni, comunicazioni o siti online, incluse le chat private o pubbliche.
@@ -39,9 +39,9 @@ L'aggressione include, ma non si limita a:
 
 * Fare commenti in chat, di gruppo o individalmente, al fine di sminuire o umiliare un'altra persona
 * Condividendo online immagini a sfondo sessuale
-* Molestie/Denigrazioni a sfondo pornografico o registrate
+* Molestie/denigrazioni a sfondo pornografico o registrate
 * Interruzione prolungata di presentazioni o altri eventi
-* Sgradite/Indesiderate attenzioni sessuali
+* Sgradite/indesiderate attenzioni sessuali
 * Sostenendo o incoraggiando alcuno dei comportamenti sovradescritti
 
 Intimidazione e bullismo includono, ma non sono limitati a:
@@ -50,7 +50,7 @@ Intimidazione e bullismo includono, ma non sono limitati a:
 * Deridere o insultare intelletto, lavoro, prospettive o domande/commenti di un'altra persona
 * Deridere genere, identità di genere ed espressione, orientamento sessuale, disabilità, apparenza fisica, corporatura, età, religione, o qualasiasi altro attributo nel contesto di una discussione scientifica
 * Deliberatamente far sentire una persona non benvenuta
-* Comportamenti di \"trolling\" (intenzionalmente provocatori o messaggi offensivi)
+* Comportamenti di \"trolling\" (messaggi intenzionalmente provocatori o offensivi)
 * Il continuo invio di messaggi fuori dal contesto
 
 
@@ -69,7 +69,7 @@ Ci aspettiamo che ogni membro della comunità di Bioconductor si attenga al Codi
 
 Se qualcuno fa sentire te o chiunque altro non al sicuro o non benvenuto, sei pregato di riportarlo il prima possibile. La segnalazione può essere sia in forma anonima che personale. Tutte le segnalazioni saranno riviste dalla Commissione del Codice di Buona Condotta e verranno trattate in maniera confidenziale.
 
-#### Elettronicamente
+#### Segnalazione per via Elettronica
 
 Puoi fare una segnalazione anonima o non-anonima al seguente link:
 <https://tinyurl.com/bioccomplaint>.
@@ -79,7 +79,7 @@ Se non ti senti a tuo agio a fare una segnalazione alla Commissione del Codice d
 
 Noi non possiamo ricontattarti in maniera diretta a seguito di una segnalazione anonima, ma la investigheremo appieno e prenderemo provvedimenti ogni qualvolta sarà necessario al fine di prevenire una recidiva.
 
-#### Segnalazione Personale (per ogni evento Bioconductor: di persona o virtuale)
+#### Segnalazione Personale (per ogni evento Bioconductor: in persona o virtuale)
 
 Puoi effettuare una segnalazione ad ogni membro della Commissione del Codice di Buona Condotta presente a un evento.
 
@@ -95,7 +95,7 @@ Diamo valore alla tua presenza e partecipazione agli eventi di Bioconductor e al
 
 ###  Commissione del Codice di Buon Comportamento
 
-* (Presidentessa) Saskia Freytag <sas.freytag@gmail.com>
+* (Presidente) Saskia Freytag <sas.freytag@gmail.com>
 * Yagoub Adam <yagoub@alumni.usp.br>
 * Leonardo Collado-Torres <lcolladotor@gmail.com>
 * Aedín Culhane <aedin@ds.dfci.harvard.edu>
