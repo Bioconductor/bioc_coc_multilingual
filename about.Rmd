@@ -8,7 +8,7 @@ This website provides community-contributed translations of the project-wide Cod
 
 #### `r emo::ji("China")` Chinese, China
 
-n/a
+- [Xueyi Dong](https://github.com/XueyiDong)
 
 #### `r emo::ji("United_States")` English, United States
 
@@ -37,6 +37,10 @@ n/a
 #### `r emo::ji("Brazil")` Portuguese, Brazil
 
 - [Daniela Cassol](https://github.com/dcassol)
+
+#### `r emo::ji("Russia")` Russian, Russian Federation
+
+- [Mikhail Dozmorov](https://github.com/mdozmorov)
 
 #### `r emo::ji("Spain")` Spanish, Spain
 
