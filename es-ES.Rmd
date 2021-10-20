@@ -1,5 +1,119 @@
 ---
-title: "`r emo::ji('Spain')` Project-wide Code of Conduct statement for Bioconductor (Spanish, Spain)"
+title: "`r emo::ji('Spain')` Declaración del Código de Conducta del Proyecto Bioconductor (Español, España)"
 ---
 
-TODO.
+(Adaptado del [BioC 2020 Code of Conduct][1])
+
+# Código de Conducta
+
+**Versión 1.0.1 (25 de noviembre del 2020)**
+
+* Código de Conducta inicial del proyecto, ampliado a partir de documentos previos elaborados para conferencias.
+
+### Los valores de la comunidad Bioconductor
+
+* una aproximación abierta a la ciencia que promueve compartir ideas, código y conocimientos
+* colaboración
+* diversidad e inclusividad
+* un entorno amable y acogedor
+* contribuciones de toda la comunidad
+
+En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporcionar una experiencia acogedora, alentadora y colegial, libre the acoso, intimidación y abuso, independientemente de:
+
+* la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, tamaño corporal, raza, edad, religión, etc.
+* la posición intelectual: aproximaciones al análisis de datos, preferencias de software, estilo de programación, perspectiva científica, etc.
+* la etapa profesional.
+
+La participación en esta comunidad implica el compromiso de no tomar parte en ningún comportamiento contrario a estos valores en ningun evento esponsorizado por Bioconductor (en persona o virtual, incluyendo pero no limitado a charlas, workshops, sesiones de póster, actividades sociales) or canal de comunicación electrónico (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online y comunicaciones en medios sociales).
+
+No toleramos el acoso, la indimidación, o el abuso de miembros de la comunidad.
+El lenguaje y la iconografia sexuales no son apropiados en presentaciones, comunicaciones o sedes online, incluyendo chats.
+
+Cualquier persona que viole el Código de Conducta puede ser sancionada o expulsada temporal o permanentemente de una plataforma electrónica o evento a la discreción del Comité del Código de Conducta.
+
+
+### Ejemplos de comportamientos inaceptables de acoso, intimidación y abuso
+
+El acoso incluye, pero no está limitado a:
+
+* Hacer comentarios en chats, a una audiencia o personalmente, que degradan o menosprecian a otra persona
+* Compartir imagenes sexuales online
+* Fotografias o grabaciones que representen un acoso
+* Disrupción sostenida de charlas u otros eventos
+* Atención sexual no deseada
+* Promover o alentar cualquiera de los comportamientos anteriores
+
+La intimidación y el abuso incluyen, pero no están limitados a:
+
+* Comportamiento agresivo o intimidatorio
+* Burlarse de, o insultar, el intelecto, trabajo, perspectiva o pregunta/comentario de otra persona
+* Hacer referencia al género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, edad, religión, u otros atributos personales de alguien en el contexto de una discusión científica
+* Hacer sentir deliberadamente a alguien que no es bienvenido
+* Comportamiento ofensivo (mensajes ofensivos deliberadamente provocadores)
+* Publicar mensajes fuera de tema de forma sostenida
+
+### Aplicación
+
+Cualquiera a quien se le pida cesar un comportamiento intimidatorio o de acoso debe cumplir con esa
+demanda inmediatamente.
+
+Si una persona, o personas, contravienen el Código de Conducta, el Comité del Código de Conducta se
+reserva el derecho para actuar de la manera que asegure un entorno acogedor para todos los miembros de la comunidad.
+Esto incluye advertir o expulsar al presunto infractor, temporal o permanentemente, del evento y/o
+plataformas electrónicas bajo el control de Bioconductor.
+
+El comité del Código de Conducta puede tomar decisiones para remediar cualquier situación diseñada para,
+o con el claro impacto de, dañar un evento o plataforma de comunicación electrónica o hacer el entorno
+hostil para cualquier miembro de la comunidad.
+
+Esperamos que todo el mundo en la comunidad Bioconductor cumpla con el Código de Conducta cuando participa
+en eventos de Bioconductor y plataformas de comunicación online.
+
+### Denuncias
+
+Si alguien hace sentir inseguro o no bienvenido a cualquier otra persona, por favor denúncialo tan pronto
+como sea posible. Puedes denunciar anónima o personalmente. Todas las denuncias serán revisadas por el
+Comité del Código de Conducta y serán mantenidas de forma confidencial.
+
+#### Electrónicamente
+
+Puedes hacer una denuncia anónima o no-anónima a través del siguiente enlace:
+<https://tinyurl.com/bioccomplaint>.
+Esta página contiene una caja de texto libre que será re-enviada al Comité del Código de Conducta. Alternativamente, puedes
+enviar un mensaje de correo electrónico al Comité del Código de Conducta (<code-of-conduct@bioconductor.org>).
+Si te sientes incómodo denunciando al Comité del Código de Conducta como grupo, puedes contactar cualquier
+miembro del comité por correo electrónico o a través de un mensaje directo en el canal de Slack community-bioc.
+Por favor, incluye capturas de pantalla o copias de todas las conversaciones electrónicas relevantes siempre
+que sea posible (no tienes que comprometer tu anonimidad!).
+
+No podemos hacer un seguimiento contigo directamente de una denuncia anónima, pero la investigaremos a fondo
+y tomaremos la decisión que sea necesaria para prevenir que vuelva a ocurrir.
+
+### Personalmente (en cualquier evento Bioconductor: en persona o virtual)
+
+Puedes formular personalmente una denuncia ante cualquier miembro del Comité del Código de Conducta presente en un evento.
+
+Cuando recibimos personalmente una denuncia, nos aseguraremos que lo hacemos en un entorno seguro de forma que no pueda ser escuchada.
+Puede ocurrir que necesitemos involucrar personal adicional del evento para garantizar que la denuncia se gestiona apropiadamente.
+Una vez en un entorno seguro, te pediremos que nos cuentes que ha pasado.
+Esto puede resultar incómodo, pero lo gestionaremos tan respetuosamente como sea posible y puedes traer un acompañante que te apoye.
+No se te pedirá confrontarte a nadie, y no diremos a nadie quien eres.
+
+Nuestro equipo te ayudará encantado a encontrar el apoyo relevante (por ejemplo, ayudándote a contactar la seguridad del hotel/sede del evento, autoridades locales de orden público, servicios de apoyo locales, proporcionar escolta, o en cualquier otro caso ayudarte a sentirte segura o seguro durante el evento).
+
+Apreciamos tu asistencia y participación en eventos de Bioconductor y en nuestra comunidad.
+
+### Comité del Código de Conducta
+
+* (Chair) Saskia Freytag <sas.freytag@gmail.com>
+* Yagoub Adam <yagoub@alumni.usp.br>
+* Leonardo Collado-Torres <lcolladotor@gmail.com>
+* Aedín Culhane <aedin@ds.dfci.harvard.edu>
+* Laurent Gatto <laurent.gatto@gmail.com>
+* Stephanie Hicks <shicks19@jhu.edu>
+* Johannes Rainer <johannes.rainer@eurac.edu>
+* Matthew Ritchie <mritchie@wehi.edu.au>
+* Charlotte Soneson <charlottesoneson@gmail.com>
+* Levi Waldron <lwaldron.research@gmail.com>
+
+[1]: https://bioc2020.bioconductor.org/code_of_conduct
