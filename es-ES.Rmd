@@ -54,8 +54,7 @@ La intimidación y el abuso incluyen, pero no están limitados a:
 
 ### Aplicación
 
-Cualquiera a quien se le pida cesar un comportamiento intimidatorio o de acoso debe cumplir con esa
-demanda inmediatamente.
+Se espera que cualquiera a quien se le pida cesar un comportamiento intimidatorio o de acoso  cese inmediatamente.
 
 Si una persona, o personas, contravienen el Código de Conducta, el Comité del Código de Conducta se
 reserva el derecho para actuar de la manera que asegure un entorno acogedor para todos los miembros de la comunidad.
@@ -81,12 +80,12 @@ Puedes hacer una denuncia anónima o no-anónima a través del siguiente enlace:
 <https://tinyurl.com/bioccomplaint>.
 Esta página contiene una caja de texto libre que será re-enviada al Comité del Código de Conducta. Alternativamente, puedes
 enviar un mensaje de correo electrónico al Comité del Código de Conducta (<code-of-conduct@bioconductor.org>).
-Si te sientes incómodo denunciando al Comité del Código de Conducta como grupo, puedes contactar cualquier
+Si te sientes incómodo informando al Comité del Código de Conducta como grupo, puedes contactar cualquier
 miembro del comité por correo electrónico o a través de un mensaje directo en el canal de Slack community-bioc.
 Por favor, incluye capturas de pantalla o copias de todas las conversaciones electrónicas relevantes siempre
 que sea posible (no tienes que comprometer tu anonimidad!).
 
-No podemos hacer un seguimiento contigo directamente de una denuncia anónima, pero la investigaremos a fondo
+No podemos hacer un seguimiento de una denuncia anónima contigo, pero la investigaremos a fondo
 y tomaremos la decisión que sea necesaria para prevenir que vuelva a ocurrir.
 
 ### Personalmente (en cualquier evento Bioconductor: en persona o virtual)
