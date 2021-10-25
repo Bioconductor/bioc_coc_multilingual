@@ -20,7 +20,7 @@ title: "`r emo::ji('Spain')` Declaración del Código de Conducta del Proyecto B
 
 En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporcionar una experiencia acogedora, alentadora y colegial, libre de acoso, intimidación y abuso, independientemente de:
 
-* la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, complexión, raza, edad, religión, etc.
+* la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, complexión física, raza, edad, religión, etc.
 * la posición intelectual: aproximaciones al análisis de datos, preferencias de software, estilo de programación, perspectiva científica, etc.
 * la etapa profesional.
 
@@ -47,7 +47,7 @@ La intimidación y el abuso incluyen, pero no están limitados a:
 
 * Comportamientos agresivos o intimidatorios
 * Insultar o burlarse del intelecto, trabajo, perspectiva o pregunta/comentario de otra persona
-* Hacer referencia al género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, complexión, raza, edad, religión, u otros atributos personales de alguien en el contexto de una discusión científica
+* Hacer referencia al género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, complexión física, raza, edad, religión, u otros atributos personales de alguien en el contexto de una discusión científica
 * Hacer sentir a alguien de forma deliberada que no es bienvenido
 * Comportamiento ofensivo (mensajes ofensivos con intención de provocar)
 * Publicación continua de mensajes sin relación al tema
