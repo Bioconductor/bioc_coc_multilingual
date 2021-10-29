@@ -4,7 +4,7 @@ title: "Project-wide Code of Conduct statement for Bioconductor"
 
 Welcome to the [Bioconductor](https://bioconductor.org/) community!
 
-This website hosts translations of the project-wide Code of Conduct statement for [Bioconductor](https://bioconductor.org/).
+This website hosts translations of the project-wide Code of Conduct statement for the [Bioconductor](https://bioconductor.org/) project.
 
 ## Languages (alphabetical)
 
