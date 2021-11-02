@@ -47,3 +47,4 @@ n/a
 - [Robert Castelo](https://github.com/rcastelo)
 - [Lluís Revilla](https://github.com/llrs)
 - [Mireia Ramos-Rodríguez](https://github.com/mireia-bioinfo)
+- [Estefania Mancini](https://github.com/estepi)
