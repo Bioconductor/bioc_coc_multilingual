@@ -1,5 +1,5 @@
 ---
-title: "`r emo::ji('France')` Code de bonne conduite applicable à l'intégralité du projet Bioconductor (French, France)"
+title: "`r emo::ji('France')` Code de bonne conduite applicable à l'intégralité du projet Bioconductor (Français, France)"
 ---
 
 (Adapté du [Code de bonne conduite pour la conférence BioC 2020][1], traduit de l'[Anglais, Américain](en-US.html))
