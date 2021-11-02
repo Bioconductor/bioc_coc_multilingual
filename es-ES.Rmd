@@ -12,22 +12,22 @@ title: "`r emo::ji('Spain')` Declaración del Código de Conducta del Proyecto B
 
 ### Los valores de la comunidad Bioconductor
 
-* una aproximación abierta a la ciencia que promueve compartir ideas, código y conocimientos
+* un acercamiento abierto a la ciencia que promueve compartir ideas, código y conocimientos
 * colaboración
-* diversidad e inclusividad
+* diversidad e inclusión
 * un entorno amable y acogedor
 * contribuciones de toda la comunidad
 
-En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporcionar una experiencia acogedora, alentadora y colegial, libre de acoso, intimidación y abuso, independientemente de:
+En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporcionar una experiencia acogedora, alentadora y respetuosa, libre de acoso, intimidación y abuso, independientemente de:
 
 * la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, complexión física, raza, edad, religión, etc.
 * la posición intelectual: aproximaciones al análisis de datos, preferencias de software, estilo de programación, perspectiva científica, etc.
 * la etapa profesional.
 
-La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento esponsorizado por Bioconductor (en persona o virtual, incluyendo pero no limitado a charlas, workshops, sesiones de póster, actividades sociales) o canal de comunicación electrónico (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online y comunicaciones en medios sociales).
+La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento auspiciado por Bioconductor (en persona o virtual, incluyendo pero no limitado a charlas, talleres, sesiones de póster, actividades sociales) o canal de comunicación electrónico (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online y comunicaciones en medios sociales).
 
 No toleramos el acoso, la indimidación, o el abuso de miembros de la comunidad.
-El lenguaje y la iconografía sexuales no son apropiados en presentaciones, comunicaciones o sedes online, incluyendo chats.
+El lenguaje y la iconografía sexuales no son apropiados en presentaciones, comunicaciones o plataformas online, incluyendo chats.
 
 Cualquier persona que viole el Código de Conducta puede ser sancionada o expulsada temporal o permanentemente de una plataforma electrónica o evento a discreción del Comité del Código de Conducta.
 
@@ -88,7 +88,7 @@ que sea posible (no hace falta que comprometas tu anonimidad!).
 Si tu denuncia es anónima no podremos contactar contigo para hacer el seguimiento, pero la investigaremos a fondo
 y tomaremos la decisión que sea necesaria para prevenir que vuelva a ocurrir.
 
-### Personalmente (en cualquier evento Bioconductor: en persona o virtual)
+#### Personalmente (en cualquier evento Bioconductor: en persona o virtual)
 
 Puedes formular una denuncia personalmente ante cualquier miembro del Comité del Código de Conducta presente en un evento.
 
