@@ -8,15 +8,15 @@ This website hosts translations of the project-wide Code of Conduct statement fo
 
 ## Languages (alphabetical)
 
-|          Flag           | Language       | Link               |
-| :---------------------: | :------------- | :------------------|
-| `r emo::ji("China")` | Chinese, China | [zh-CN](zh-CN.html) |
-| `r emo::ji("United_States")` | English, United States | [en-US](en-US.html) |
-| `r emo::ji("France")` | French, France | [fr-FR](fr-FR.html) |
-| `r emo::ji("Germany")` | German, Germany | [de-DE](de-DE.html) |
-| `r emo::ji("India")` | Hindi, India | [hi-IN](hi-IN.html) |
-| `r emo::ji("Italy")` | Italian, Italy | [it-IT](it-IT.html) |
-| `r emo::ji("Japan")` | Japanese, Japan | [jp-JP](jp-JP.html) |
-| `r emo::ji("Brazil")` | Portuguese, Brazil | [pt-BR](pt-BR.html) |
-| `r emo::ji("Russia")` | Russian, Russian Federation | [ru-RU](ru-RU.html) |
-| `r emo::ji("Spain")` | Spanish, Spain | [es-ES](es-ES.html) |
+|          Flag           | Language       | Version | Link               |
+| :---------------------: | :------------- | :-----: | :------------------|
+| `r emo::ji("China")` | Chinese, China | 1.0.1 | [zh-CN](zh-CN.html) |
+| `r emo::ji("United_States")` | English, United States | 1.0.1 | [en-US](en-US.html) |
+| `r emo::ji("France")` | French, France | 1.0.1 | [fr-FR](fr-FR.html) |
+| `r emo::ji("Germany")` | German, Germany | - | [de-DE](de-DE.html) |
+| `r emo::ji("India")` | Hindi, India | - | [hi-IN](hi-IN.html) |
+| `r emo::ji("Italy")` | Italian, Italy | 1.0.1 | [it-IT](it-IT.html) |
+| `r emo::ji("Japan")` | Japanese, Japan | 1.0.1 | [jp-JP](jp-JP.html) |
+| `r emo::ji("Brazil")` | Portuguese, Brazil | - | [pt-BR](pt-BR.html) |
+| `r emo::ji("Russia")` | Russian, Russian Federation | 1.0.1 | [ru-RU](ru-RU.html) |
+| `r emo::ji("Spain")` | Spanish, Spain | 1.0.1 | [es-ES](es-ES.html) |

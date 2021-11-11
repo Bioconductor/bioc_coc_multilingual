@@ -3,3 +3,6 @@
 ^\.github$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^BioconductorCodeOfConduct\.Rcheck$
+^BioconductorCodeOfConduct.*\.tar\.gz$
+^BioconductorCodeOfConduct.*\.tgz$
