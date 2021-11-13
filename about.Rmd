@@ -37,7 +37,7 @@ n/a
 
 #### `r emo::ji("Brazil")` Portuguese, Brazil
 
-- [Daniela Cassol](https://github.com/dcassol)
+- **Maintainer:** [Daniela Cassol](https://github.com/dcassol)
 
 #### `r emo::ji("Russia")` Russian, Russian Federation
 
