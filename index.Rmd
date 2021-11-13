@@ -17,6 +17,6 @@ This website hosts translations of the project-wide Code of Conduct statement fo
 | `r emo::ji("India")` | Hindi, India | - | [hi-IN](hi-IN.html) |
 | `r emo::ji("Italy")` | Italian, Italy | 1.0.1 | [it-IT](it-IT.html) |
 | `r emo::ji("Japan")` | Japanese, Japan | 1.0.1 | [jp-JP](jp-JP.html) |
-| `r emo::ji("Brazil")` | Portuguese, Brazil | - | [pt-BR](pt-BR.html) |
+| `r emo::ji("Brazil")` | Portuguese, Brazil | 1.0.1 | [pt-BR](pt-BR.html) |
 | `r emo::ji("Russia")` | Russian, Russian Federation | 1.0.1 | [ru-RU](ru-RU.html) |
 | `r emo::ji("Spain")` | Spanish, Spain | 1.0.1 | [es-ES](es-ES.html) |
