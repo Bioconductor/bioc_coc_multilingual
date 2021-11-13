@@ -13,6 +13,7 @@ This website provides community-contributed translations of the project-wide Cod
 #### `r emo::ji("United_States")` English, United States
 
 - [BioC 2020 Organizing committee](https://bioc2020.bioconductor.org/organizers)
+- **Maintainer:** [Bioconductor Code of Conduct Committee](https://www.bioconductor.org/about/code-of-conduct/)
 
 #### `r emo::ji("France")` Français, France
 
