@@ -16,7 +16,7 @@ This website provides community-contributed translations of the project-wide Cod
 
 #### `r emo::ji("France")` Français, France
 
-- [Kevin Rue-Albrecht](https://github.com/kevinrue)
+- **Maintainer:** [Kevin Rue-Albrecht](https://github.com/kevinrue)
 
 #### `r emo::ji("Germany")` German, Germany
 
