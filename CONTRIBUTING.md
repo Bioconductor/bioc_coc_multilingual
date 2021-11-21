@@ -1,3 +1,5 @@
+# Contributing to the Multilingual Bioconductor Code of Conduct
+
 ## New language
 
 - Identify the language code that will be used to name files.
