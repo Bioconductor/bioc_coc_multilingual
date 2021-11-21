@@ -26,6 +26,8 @@ navbar:
         href: ru-RU.html
       - text: "Spanish, Spain"
         href: es-ES.html
+    - text: "Contribute"
+      href: contributing.html
     - text: "About"
       href: about.html
 # for output, see https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html#a-simple-example
