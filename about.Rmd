@@ -21,7 +21,8 @@ This website provides community-contributed translations of the project-wide Cod
 
 #### `r emo::ji("Germany")` German, Germany
 
-n/a
+- **Maintainer:** [Helena L. Crowell](https://github.com/HelenaLC)
+- [Lukas M. Weber](https://github.com/lmweber)
 
 #### `r emo::ji("India")` Hindi, India
 
