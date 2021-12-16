@@ -1,5 +1,97 @@
 ---
-title: "`r emo::ji('Germany')` Project-wide Code of Conduct statement for Bioconductor (German, Germany)"
+title: "`r emo::ji('Germany')` Projektweite Erklärung zum Verhaltenskodex von Bioconductor (Deutsch, Deutschland)"
 ---
 
-TODO.
+(Adaptiert vom [Verhaltenskodex der BioC 2020 Konferenz][1], übersetzt aus dem [US-Englisch](en-US.html)en)
+
+# Verhaltenskodex
+
+## Version 1.0.2 (27. July, 2021)
+
+_Erster projektweiter Verhaltenskodex, erweitert von vorherigen konferenzspezifischen Dokumenten_
+
+Die Bioconductor-Gemeinschaft legt Wert auf eine offene Herangehensweise an die Wissenschaft, welche fördert: 
+
+* das Teilen von Ideen, Code und Expertise 
+* Kollaboration
+* Diversität und Inklusivität
+* ein freundliches und einladendes Umfeld
+* Gemeinschaftsbeiträge
+
+Im Einklang mit diesen Werten ist Bioconductor dazu bestrebt, eine einladende, unterstützende, kollegiale Erfahrung frei von Belästigung, Einschüchterung und Mobbing zu bieten, unabhängig von:
+
+* Identität: Geschlecht, Geschlechtsidentität und Ausdruck der Geschlechtlichkeit, sexuelle Orientierung, Erscheinungsbild, Ethnizität, Körpergröße, Rasse, Alter, Religion, Sprache usw.
+* intellektueller Position: Herangehensweisen an Datenanalyse, Softwarepräferenzen, Programmierstil, wissenschaftliche Sichtweise, Karrierestadium usw. 
+
+Mit der Teilnahme an dieser Gemeinschaft stimmen Sie zu, sich an keinen durch Bioconductor geförderten Veranstaltungen (in Person oder virtuell, einschließlich von, jedoch nicht beschränkt auf, Vorträge, Workshops, Postersessions, soziale Aktivitäten) oder elektronischen Kommunikationskanälen (einschließlich von, jedoch nicht beschränkt auf, \"community-bioc\" Slack, die Supportseite, Onlineforen und Social Media Kommunikation) entgegen diesen Werte zu verhalten.
+
+Wir tolerieren keine Belästigung, Einschüchterung oder Mobbing von Mitgliedern der Gemeinschaft. Sexuelle Sprache und Symbolik sind in Präsentationen, Kommunikation oder Onlineplattformen, (inklusive Chats) unangebracht.
+
+Jede Person, die gegen den Verhaltenskodex verstößt, kann im Ermessen des Verhaltenskodex-Ausschusses bestraft oder vorübergehend oder dauerhaft von einer elektronischen Plattform oder Veranstaltung ausgeschlossen werden. 
+
+#### _Beispiele von inakzeptablen Verhaltens von Belästigung, Einschüchterung und Mobbing_
+
+Belästigung schließt ein, ist jedoch nicht beschränkt auf:
+
+* Abgeben von Kommentaren (gegenüber einem Publikum oder persönlich), die eine andere Person herabsetzen oder erniedrigen
+* Teilen von sexuellen Bildern online
+* belästigende Fotografie oder Aufnahmen
+* anhaltende Störung von Vorträgen oder anderen Veranstaltungen
+* unwillkommene sexuelle Aufmerksamkeit
+* Befürworten oder Ermutigen jeglicher der obig genannten Verhaltensweisen 
+
+Einschüchterung und Mobbing schließen ein, sind jedoch nicht beschränkt auf:
+
+* aggressives oder tyrannisierendes Verhalten
+* Intellekt, Arbeit, Ansicht oder Frage/Anmerkung einer anderen Person zu verspotten oder beleidigen
+* im Rahmen einer wissenschaftlichen Diskussion auf jemandes Geschlecht, Geschlechtsidentität und Ausdruck von Geschlechtlichkeit, sexuelle Orientierung, Behinderung, Erscheinungsbild, Körpergröße, Rasse, Alter, Religion oder andere persönliche Eigenschaften Bezug zu nehmen
+* jemandem wissentlich das Gefühl zu geben, unwillkommen zu sein
+* \"Troll\"-Verhalten (absichtlich hetzerische oder beleidigende Nachrichten)
+* anhaltende nicht zum Thema gehörende Beiträge 
+
+## Durchsetzung
+
+Von ein jedem, der gebeten wird, belästigendes oder einschüchterndes Verhalten zu unterlassen, wird erwartet, dem umgehend nachzukommen.
+
+Wenn eine Person dem Verhaltenskodex zuwiderhandeln, behält sich der Verhaltenskodex-Ausschuss das Recht vor, jegliche Maßnahmen zu ergreifen, die ein einladendes Umfeld für alle Gemeinschaftsmitglieder sicherstellt. Dies schließt das Warnen des mutmaßlichen Missetäters oder dessen vorübergehenden/dauerhaften Ausschluss von der Veranstaltung und/oder elektronischen Plattformen unter der Kontrolle von Bioconductor mit ein. 
+
+Der Verhaltenskodex-Ausschuss kann Maßnahmen ergreifen, um alles, was dazu gedacht oder die eindeutige Auswirkung hat, eine Veranstaltung oder elektronische Kommunikationsplattform zu stören oder das Umfeld für andere Mitglieder feindselig zu machen, zu unterbinden.
+
+Wir erwarten, dass ein jeder in der Bioconductor-Gemeinschaft während der Teilnahme an Bioconductor-Veranstaltungen und Internet-Kommunikationsplattformen dem Verhaltenskodex entspricht. 
+
+## Berichterstattung
+
+Wenn jemand Sie oder Dritte nicht sicher oder willkommen fühlen lässt, melden sie es bitte so bald wie möglich. Bericht erstatten können Sie entweder anonym oder persönlich. Alle Meldungen werden vom Verhaltenskodex-Ausschuss überprüft und vertraulich behandelt.
+
+#### _Elektronisch_
+
+Eine anonyme oder de-anonymisierte Meldung können sie über folgenden Link machen: <https://tinyurl.com/bioccomplaint>. Hierbei handelt es sich um eine Textbox freier Form, welche an den Verhaltenskodex-Ausschuss weitergeleitet wird. Alternativ können sie eine E-Mail an den Verhaltenskodex-Ausschuss versenden (<code-of-conduct@bioconductor.org>). Sollte es ihnen unangenehm sein, den Verhaltenskodex-Ausschuss als Gruppe zu kontaktieren, können sie ein jedes individuelles Mitglied per E-Mail oder persönliche Nachricht im \"community-bioc\" Slack kontaktieren. Bitte fügen sie, wann immer möglich, Screenshots/Kopien aller relevanten elektronischen Konversationen bei (Sie müssen ihre Anonymität nicht gefährden).
+
+Bei einer anonymen Bericht können wir uns nicht direkt bei ihnen melden, werden diesen jedoch vollständig untersuchen und jegliche Maßnahmen ergreifen, die notwendig sind, um ein Wiederauftreten zu verhindern.
+
+#### _Persönliche Meldung (für alle Bioconductor-Veranstaltungen: in Person oder virtuell)_
+
+Eine persönliche Meldung können sie gegenüber einem jeden Mitglied des Verhaltenskodex-Ausschusses machen, welches bei der Veranstaltung anwesend ist.
+
+Im Falle einer persönlichen Berichterstattung werden wir garantieren, dass Sie sicher sind und nicht überhört werden können. Ggf. beziehen wir anderes Veranstaltungspersonal mit ein, um sicher zu stellen, dass ihr Bericht ordnungsgemäß gehandhabt wird. Sobald ein sicheres Umfeld gewährleistet ist, werden wie Sie bitten, uns zu schildern, was sich zugetragen hat. Die kann beunruhigend sein; wir werden damit jedoch so respektvoll wie möglich umgehen und Sie dürfen jemanden zur Unterstützung dabei haben. Sie werden nicht danach gefragt werden, irgendjemanden zu konfrontieren und wir werden niemandem mitteilen, wer Sie sind.
+
+Unser Team hilft Ihnen gerne dabei, die passende Unterstützung zu erhalten (z.B. dadurch, Ihnen dabei zu helfen, Hotel/Veranstaltungsort-Sicherheit, örtliche Rechtschutzbehörde, oder unterstützende Dienstleistungen zu kontaktieren, Begleitpersonen bereitzustellen oder Ihnen anderweitig beizustehen, sich über die Dauer der Veranstaltung sicher zu fühlen). 
+
+Wir schätzen Ihre Teilnahme an und Mitwirkung bei Bioconductor-Veranstaltungen und in unserer Gemeinschaft.
+
+### Verhaltenskodex-Ausschuss
+
+* (Chair) Saskia Freytag <sas.freytag@gmail.com> (until 2023)
+* Yagoub Adam <yagoub@alumni.usp.br> (until 2022)
+* Leonardo Collado-Torres <lcolladotor@gmail.com> (until 2022)
+* Laurent Gatto <laurent.gatto@gmail.com> (until 2023)
+* Michael Love <michaelisaiahlove@gmail.com> (until 2024)
+* Federico Marini <fede.maro@gmail.com> (until 2024)
+* Sowmya Parthiban <sowmyaparthiban@gmail.com> (until 2024)
+* Anna Quaglieri <anna.quaglieri16@gmail.com> (until 2024)
+* Johannes Rainer <johannes.rainer@eurac.edu> (until 2023)
+* Lluís Revilla <lluis.revilla@gmail.com> (until 2024)
+* Charlotte Soneson <charlottesoneson@gmail.com> (until 2023)
+
+[1]: https://bioc2020.bioconductor.org/code_of_conduct
+
