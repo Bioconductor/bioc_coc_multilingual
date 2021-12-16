@@ -2,7 +2,7 @@
 title: "`r emo::ji('Germany')` Projektweite Erklärung zum Verhaltenskodex von Bioconductor (Deutsch, Deutschland)"
 ---
 
-(Adaptiert vom [BioC 2020 Verhaltenskodex][1])
+(Adaptiert vom [Verhaltenskodex der BioC 2020 Konferenz][1], übersetzt aus dem [US-Englisch](en-US.html)en)
 
 # Verhaltenskodex
 
