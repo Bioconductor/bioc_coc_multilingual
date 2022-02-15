@@ -30,7 +30,7 @@ n/a
 
 #### `r emo::ji("Italy")` Italiano, Italia
 
-- [Dario Righelli](https://github.com/drighelli)
+- **Maintainer:** [Dario Righelli](https://github.com/drighelli)
 
 #### `r emo::ji("Japan")` Japanese, Japan
 
