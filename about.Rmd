@@ -34,7 +34,7 @@ n/a
 
 #### `r emo::ji("Japan")` Japanese, Japan
 
-- [Kozo Nishida](https://github.com/kozo2)
+- **Maintainer:** [Kozo Nishida](https://github.com/kozo2)
 
 #### `r emo::ji("Brazil")` Portuguese, Brazil
 
