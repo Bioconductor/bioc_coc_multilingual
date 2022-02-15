@@ -20,7 +20,7 @@ Contribute at <https://github.com/Bioconductor/bioc_coc_multilingual>.
   + Maintain the styling. Maintain the level of section headers. Do not replace section headers with font styling (e.g., bold, italic).
   + In the title, replace `emo::ji('United_States')` by the emoji for the country of the language.
     * If you cannot find a suitable emoji, open an issue on this repository to discuss options.
-  + In the title, the language name should be written in the language itself.
+  + In the title, the language name should be written in the language itself, not necessarily English.
 
 - Update the file `index.Rmd` as needed, following these rules:
   + Insert a row to the new language in alphabetical order (latin alphabet), e.g. Chinese -> English -> French
@@ -28,12 +28,14 @@ Contribute at <https://github.com/Bioconductor/bioc_coc_multilingual>.
   + Make sure that you indicate the correct version of the code of conduct that you have translated.
   + Set the link to `[xx-XX](xx-XX.html)`, replacing `xx-XX` by the language code identified above.
 
+For instance:
+
 ```
 | `r emo::ji("United_States")` | English, United States | 1.0.1 | [en-US](en-US.html) |
 ```
 
 - Update the file `about.Rmd` as needed, following these rules:
-  + Add a level 4 section header with the flag of the country, name of the language, and flag of the country.
+  + Add a level 4 section header with the flag of the country, name of the language, and name of the country.
     * If you cannot find a suitable emoji for the flag, open an issue on this repository to discuss options.
   + The name and country of the language should be written in English, not the language itself.
   + One author should be prefix with `**Maintainer:**` and associated with a hyperlink that may be used to contact them.
