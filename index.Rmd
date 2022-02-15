@@ -2,16 +2,35 @@
 title: "Project-wide Code of Conduct statement for Bioconductor"
 ---
 
-Welcome to the [Bioconductor](https://bioconductor.org/) community!
+Welcome to the [_Bioconductor_](https://bioconductor.org/) community!
 
-This website hosts translations of the project-wide Code of Conduct statement for the [Bioconductor](https://bioconductor.org/) project.
+## Purpose
+
+This website hosts the original English version of the project-wide Code of
+Conduct statement for the [_Bioconductor_](https://bioconductor.org/) project -
+maintained by the _Bioconductor_ Code of Conduct committee - as well as
+translations contributed by volunteer community members.
+To contribute new translations or updates, please read the
+[contributing guidelines](contribute.html).
+
+These living documents are intended for reference and use during
+[_Bioconductor_](https://bioconductor.org/) in-person events (e.g., conferences)
+and online communications (e.g., [Slack workspace][bioc-slack],
+[support forum][bioc-support-forum]).
+Organisers and moderators are encouraged to feature a prominent link to these
+documents (including version number) on the website or online platform
+associated with the relevant [_Bioconductor_](https://bioconductor.org/) events
+and communications.
+
+In case of conflict or out-of-date translations, the
+[latest English version](en-US.html)) rules.
 
 ## Languages (alphabetical)
 
 |          Flag           | Language       | Version | Link               |
 | :---------------------: | :------------- | :-----: | :------------------|
 | `r emo::ji("China")` | Chinese, China | 1.0.1 | [zh-CN](zh-CN.html) |
-| `r emo::ji("United_States")` | English, United States | 1.0.2 | [en-US](en-US.html) |
+| `r emo::ji("United_States")` | **English, United States (original version)** | 1.0.2 | [en-US](en-US.html) |
 | `r emo::ji("France")` | French, France | 1.0.1 | [fr-FR](fr-FR.html) |
 | `r emo::ji("Germany")` | German, Germany | 1.0.2 | [de-DE](de-DE.html) |
 | `r emo::ji("India")` | Hindi, India | - | [hi-IN](hi-IN.html) |
@@ -20,3 +39,6 @@ This website hosts translations of the project-wide Code of Conduct statement fo
 | `r emo::ji("Brazil")` | Portuguese, Brazil | 1.0.1 | [pt-BR](pt-BR.html) |
 | `r emo::ji("Russia")` | Russian, Russian Federation | 1.0.1 | [ru-RU](ru-RU.html) |
 | `r emo::ji("Spain")` | Spanish, Spain | 1.0.1 | [es-ES](es-ES.html) |
+
+[bioc-slack]: https://bioc-community.herokuapp.com/
+[bioc-support-forum]: https://support.bioconductor.org/
