@@ -42,7 +42,7 @@ n/a
 
 #### `r emo::ji("Russia")` Russian, Russian Federation
 
-- [Mikhail Dozmorov](https://github.com/mdozmorov)
+- **Maintainer:** [Mikhail Dozmorov](https://github.com/mdozmorov)
 
 #### `r emo::ji("Spain")` Spanish, Spain
 
