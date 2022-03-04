@@ -35,7 +35,7 @@ Linguaggio e immagini a sfondo sessuale non sono appropriate nelle presentazioni
 Chiunque violi il Codice di Buona Condotta può essere sanzionato o espulso temporaneamente o permanentemente dalla piattaforma elettronica o da un evento a discrezione della Commissione del Codice di Buona Condotta.
 
 
-### _Esempi inaccettabili di comportamento denigratorio, molesto, intimidatorio, e bullismo_
+#### _Esempi inaccettabili di comportamento denigratorio, molesto, intimidatorio, e bullismo_
 
 L'aggressione include, ma non si limita a:
 
@@ -73,7 +73,7 @@ Se qualcuno fa sentire te o chiunque altro non al sicuro o non benvenuto, sei pr
 La segnalazione può essere sia in forma anonima che personale. 
 Tutte le segnalazioni saranno riviste dalla Commissione del Codice di Buona Condotta e verranno trattate in maniera confidenziale.
 
-### _Segnalazione per via Elettronica_
+#### _Segnalazione per via Elettronica_
 
 Puoi fare una segnalazione anonima o non-anonima al seguente link:
 <https://tinyurl.com/bioccomplaint>.
@@ -83,7 +83,7 @@ Se non ti senti a tuo agio a fare una segnalazione alla Commissione del Codice d
 
 Noi non possiamo ricontattarti in maniera diretta a seguito di una segnalazione anonima, ma la investigheremo appieno e prenderemo provvedimenti ogni qualvolta sarà necessario al fine di prevenire una recidiva.
 
-### _Segnalazione Personale (per ogni evento Bioconductor: in persona o virtuale)_
+#### _Segnalazione Personale (per ogni evento Bioconductor: in persona o virtuale)_
 
 Puoi effettuare una segnalazione ad ogni membro della Commissione del Codice di Buona Condotta presente a un evento.
 
@@ -97,7 +97,7 @@ Il nostro gruppo sarà felice di aiutarti e di offrirti il supporto necessario (
 
 Diamo valore alla tua presenza e partecipazione agli eventi di Bioconductor e alla nostra comunità.
 
-##  Commissione del Codice di Buon Comportamento
+###  Commissione del Codice di Buon Comportamento
 
 * (Presidente) Saskia Freytag <sas.freytag@gmail.com>
 * Yagoub Adam <yagoub@alumni.usp.br>
