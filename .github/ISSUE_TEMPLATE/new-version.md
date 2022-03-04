@@ -1,5 +1,5 @@
 ---
-name: New version
+name: New version of translated documents requested
 about: Request translators to update translation to match latest English version.
 title: Translation requested for new version [X.X.X]
 labels: ''
