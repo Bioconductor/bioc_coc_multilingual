@@ -26,12 +26,15 @@ navbar:
         href: ru-RU.html
       - text: "Spanish, Spain"
         href: es-ES.html
+    - text: "Contribute"
+      href: contribute.html
     - text: "About"
       href: about.html
 # for output, see https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html#a-simple-example
 output:
   html_document:
     #highlight: textmate
-    #include:
-    #  after_body: footer.html
+    include:
+      in_header: header.html
+      # after_body: footer.html
     css: styles.css
