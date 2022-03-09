@@ -303,7 +303,9 @@ $(document).ready(function () {
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        
+        <li>
+  <a href="http://bioconductor.org/">Bioconductor.org</a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -322,87 +324,98 @@ $(document).ready(function () {
 <h2>Repository</h2>
 <p>Contribute at <a href="https://github.com/Bioconductor/bioc_coc_multilingual" class="uri">https://github.com/Bioconductor/bioc_coc_multilingual</a>.</p>
 </div>
-<div id="new-language" class="section level2">
-<h2>New language</h2>
+<div id="version-control" class="section level2">
+<h2>Version control</h2>
+<div id="overview" class="section level3">
+<h3>Overview</h3>
+<p>The <em>Bioconductor Code of Conduct Policy</em> uses version numbering rules to reflect the different nature of updates to the original version of the <em>Bioconductor Code of Conduct Policy</em> - maintained by the <em>Bioconductor Code of Conduct Committee</em> - from translations and fixes to translations and fixes in other languages.</p>
+<pre class="r"><code>knitr::include_graphics(&quot;img/contribute-version-control.svg&quot;)</code></pre>
+<p><img src="img/contribute-version-control.svg" /><!-- --></p>
+</div>
+<div id="original-language-us-english" class="section level3">
+<h3>Original language (US English)</h3>
+<p>The original (US English) version of the <em>Bioconductor Code of Conduct Policy</em> increments the <strong>minor</strong> component of the version number at each update.</p>
+<p>The <strong>patch</strong> component of the version number should be always kept as <code>0</code>.</p>
+<p>The <strong>major</strong> component of the version number is reserved for substantial reworks of the contents and/or structure of the document.</p>
+</div>
+<div id="translated-languages" class="section level3">
+<h3>Translated languages</h3>
+<p>Translated versions of the <em>Bioconductor Code of Conduct Policy</em> in other languages are initially marked with the exact same version number as the original US English that they were translated from.</p>
+<p>If fixes are needed to improve the translation of a specific version of the <em>Bioconductor Code of Conduct Policy</em>, the <strong>patch</strong> component of the version number should be incremented for each fix applied to the translated document.</p>
+</div>
+</div>
+<div id="files" class="section level2">
+<h2>Files</h2>
+<p>Each language - from the original US English to every translated language - is represented by an <code>.Rmd</code> file in the top-level directory of this repository. Those files contains the latest translation of the <em>Bioconductor Code of Conduct Policy</em> in each language.</p>
+<p>Files are named using language tags used to distinguish regional variants of languages where applicable. Language tags are currently obtained from <a href="https://www.techonthenet.com/js/language_tags.php">this website</a>. Please open an issue on the repository if you cannot find a language tag for a proposed translation of the <em>Bioconductor Code of Conduct Policy</em>.</p>
+<p>Importantly, the <code>index.Rmd</code> file lists all the languages currently supported, as well as the latest version available for each language. This file must be manually updated at each update of any language.</p>
+</div>
+<div id="processes" class="section level2">
+<h2>Processes</h2>
+<div id="updates-to-the-original-version-us-english" class="section level3">
+<h3>Updates to the original version (US English)</h3>
+<p>The original version of the <em>Bioconductor Code of Conduct Policy</em> is written in American English and maintained by the <em>Bioconductor Code of Conduct Committee</em>.</p>
+<p>To contribute updates to the original version, you may either:</p>
+<ol style="list-style-type: decimal">
+<li>Request an update through a <a href="https://github.com/Bioconductor/bioc_coc_multilingual/issues/new/choose">GitHub Issue</a>.</li>
+<li>Propose a <a href="https://github.com/Bioconductor/bioc_coc_multilingual/pulls">GitHub Pull Request</a>.</li>
+</ol>
+<p>In either case, the <em>Bioconductor Code of Conduct Committee</em> will examine your proposed changes, and decide whether to implement them in a new version of the <em>Bioconductor Code of Conduct Policy</em>.</p>
+<p>In a GitHub issue (option 1), you are expected to describe the nature of the changes that you would like to propose.</p>
+<p>In a pull request (option 2), you are expected to fork the GitHub repository, write those changes yourself, and open a pull request that will be reviewed to discuss and make a decision about those changes.</p>
+</div>
+<div id="update-an-existing-translated-version-from-a-newer-original-us-english-version" class="section level3">
+<h3>Update an existing translated version from a newer original (US English) version</h3>
+<p>When the original (i.e., US English) <em>Bioconductor Code of Conduct Policy</em> is updated to a new version, this new version is expected to be translated into every other language at the earliest convenience of volunteer contributors, replacing earlier version of those translations.</p>
+<p>Volunteer contributors are expected to examine the updates in the original version (e.g., <code>git diff</code>), and apply those changes to the translated language.</p>
+<p>Remember to update the version number of the translation to the exact version number of the corresponding US English version, in the translated document as well as the <code>index.Rmd</code> file.</p>
+</div>
+<div id="add-a-new-translated-language-from-the-latest-original-us-english-version" class="section level3">
+<h3>Add a new translated language from the latest original (US English) version</h3>
+<p>If you wish to add a new language to list of translations, you will need to create a new <code>.Rmd</code> file for that language, and add a row in the <code>index.Rmd</code> file for that new language.</p>
+<p>First, identify a tag for the new language on <a href="https://www.techonthenet.com/js/language_tags.php">this website</a>. If you cannot find a suitable language tag; please open a <a href="https://github.com/Bioconductor/bioc_coc_multilingual/issues/new/choose">GitHub issue</a> to discuss possible solutions.</p>
+<p>Once you have identified a language tag, make a copy of the latest version of the <code>en-US.Rmd</code> file to the new <code>.Rmd</code> file for your chosen language. For instance, if the language tag was <code>xx-XX</code>, you could run the following command in a Terminal:</p>
+<pre><code>cp en-US.Rmd xx-XX.Rmd</code></pre>
+<p>Then, open the new file and edit as needed. Here are a few rules for traceability and convenience:</p>
 <ul>
-<li><p>Identify the language code that will be used to name files.</p>
+<li>Maintain a 1-to-1 mapping between original lines and translated lines; i.e. do not split or merge lines between original and translated files.</li>
+<li>Maintain the styling and formatting; e.g., maintain the level of section headers.</li>
+<li>In the title, the language and country names should be written in the translated language itself, not necessarily English.</li>
+</ul>
+<p>Once your translation is completed, remember to update the <code>index.Rmd</code> file as needed. In particular, new languages will need to be represented by a new line in the table of translations available. Here are a few rules, for clarity and convenience:</p>
 <ul>
-<li>Go to <a href="https://www.techonthenet.com/js/language_tags.php" class="uri">https://www.techonthenet.com/js/language_tags.php</a></li>
-<li>Use the table to identify the language code, e.g. <code>fr-FR</code> for “French, France”.</li>
-<li>If you cannot find a suitable language code, open an issue on this repository to discuss options or identify a better reference of language codes.</li>
-</ul></li>
-<li><p>Copy the current version of the <code>en-US.Rmd</code> file in the root directory of this repository to a new file <code>xx-XX.Rmd</code>, replacing <code>xx-XX</code> by the language code identified above.</p></li>
-<li><p>Edit the new file as needed, following these rules:</p>
-<ul>
-<li>Maintain a 1-to-1 mapping between original lines and translated lines, i.e. do not split or merge lines between the original files and the translated file.</li>
-<li>Maintain the styling. Maintain the level of section headers. Do not replace section headers with font styling (e.g., bold, italic).</li>
-<li>In the title, replace <code>emo::ji('United_States')</code> by the emoji for the country of the language.
-<ul>
-<li>If you cannot find a suitable emoji, open an issue on this repository to discuss options.</li>
-</ul></li>
-<li>In the title, the language name should be written in the language itself, not necessarily English.</li>
-</ul></li>
-<li><p>Update the file <code>index.Rmd</code> as needed, following these rules:</p>
-<ul>
-<li>Insert a row to the new language in alphabetical order (latin alphabet), e.g. Chinese -&gt; English -&gt; French</li>
 <li>The name and country of the language should be written in English, not the language itself.</li>
-<li>Make sure that you indicate the correct version of the code of conduct that you have translated.</li>
-<li>Set the link to <code>[xx-XX](xx-XX.html)</code>, replacing <code>xx-XX</code> by the language code identified above.</li>
-</ul></li>
+<li>Insert the row for the new language in alphabetical order (latin alphabet); e.g. [C]hinese -&gt; [E]nglish -&gt; [F]rench</li>
+<li>Indicate the correct version of the code of conduct that you have translated.</li>
+<li>Double-check that the link URL works and the link text matches.</li>
 </ul>
 <p>For instance:</p>
-<pre><code>| 🇺🇸 | English, United States | 1.0.1 | [en-US](en-US.html) |</code></pre>
+<pre><code>| 🇫🇷 | French, France | 1.0.1 | [en-US](fr-FR.html) |</code></pre>
+<p>At this point, you also want to add the new translated language to the navigation bar, under the <code>Languages</code> menu. To do this, open the <code>_site.yml</code> file and edited as needed. Here are a few rules and reminders:</p>
 <ul>
-<li>Update the file <code>about.Rmd</code> as needed, following these rules:
-<ul>
-<li>Add a level 4 section header with the flag of the country, name of the language, and name of the country.
-<ul>
-<li>If you cannot find a suitable emoji for the flag, open an issue on this repository to discuss options.</li>
-</ul></li>
-<li>The name and country of the language should be written in English, not the language itself.</li>
-<li>One author should be prefix with <code>**Maintainer:**</code> and associated with a hyperlink that may be used to contact them.</li>
-</ul></li>
-</ul>
-<p>For instance:</p>
-<pre><code>#### 🇺🇸 English, United States
-
-- [BioC 2020 Organizing committee](https://bioc2020.bioconductor.org/organizers)
-- **Maintainer:** [Bioconductor Code of Conduct Committee](https://www.bioconductor.org/about/code-of-conduct/)</code></pre>
-<ul>
-<li>Update the file <code>_site.yml</code> as needed, following these rules:
-<ul>
-<li>Insert a link to the new language in alphabetical order (latin alphabet), e.g. Chinese -&gt; English -&gt; French</li>
+<li>Insert a link to the new language in alphabetical order (latin alphabet); e.g. [C]hinese -&gt; [E]nglish -&gt; [F]rench</li>
 <li>The text of the link should be written in English, not the language itself.</li>
-<li>The link should point to <code>xx-XX.html</code>, replacing <code>xx-XX</code> by the language code identified above.</li>
-</ul></li>
 </ul>
 <p>For instance:</p>
-<pre><code>      - text: &quot;English, United States&quot;
-        href: en-US.html</code></pre>
-<p>If you have any doubt, open an issue on this repository to discuss options.</p>
-</div>
-<div id="existing-language" class="section level2">
-<h2>Existing language</h2>
-<div id="fixes" class="section level3">
-<h3>Fixes</h3>
-<p>Fixes comprises edits and suggestions related to a specific version of the code of conduct. For updates to a newer version of the code of conduct, see below.</p>
+<pre><code>      - text: &quot;French, France&quot;
+        href: fr-FR.html</code></pre>
+<p>Finally - having gone through all this -, you are more than entitled to take credit for your contribution! Open the <code>about.Rmd</code> file and edit as needed, to add yourself as a contributor to the repository.</p>
+<p>Each language should also declare a maintainer. That person will be considered the primary point of contact for future requests for translations and fixes. If you worked alone on the translation, then you may consider yourself the <em>de facto</em> maintainer. If you worked as a group, please choose one person for the official role.</p>
+<p>Here are a few rules and guidelines:</p>
 <ul>
-<li>Open an issue or a pull request, tagging the maintainer of the language (listed in the file <code>about.Rmd</code>).</li>
+<li>The name and country of the language should be written in English, not the language itself.</li>
+<li>One author should be prefixed with <code>**Maintainer:**</code></li>
+<li>Contributors should be associated with a hyperlink that may be used to identify and contact them.</li>
 </ul>
-</div>
-<div id="new-version" class="section level3">
-<h3>New version</h3>
-<p>New versions refer to the process of replacing an earlier translation of the code of conduct by a translation of a more recent version of the code of conduct.</p>
-<ul>
-<li>Open an issue or a pull request, tagging the maintainer of the language (listed in the file <code>about.Rmd</code>).
-<ul>
-<li>Make sure that the version number for that language has been updated in all relevant places:
-<ul>
-<li>the file <code>xx-XX.Rmd</code></li>
-<li>the file <code>index.Rmd</code></li>
-</ul></li>
-</ul></li>
-</ul>
+<p>For instance:</p>
+<pre><code>#### 🇩🇪 German, Germany
+
+- **Maintainer:** [Helena L. Crowell](https://github.com/HelenaLC)
+- [Lukas M. Weber](https://github.com/lmweber)</code></pre>
+<p>One more thing - there is always something -, open the <code>.github/ISSUE_TEMPLATE/new-version.md</code> and add a line for the new language.</p>
+<p>That line should contain the markdown syntax for an unticked checkbox (<code>[ ]</code>), the name of the language (in English), and the GitHub handles for the maintainer, as well as any contributor willing to be notified when a request for a new translation is made.</p>
+<pre><code>- [ ] German: @HelenaLC, @lmweber</code></pre>
+<p>Now you are ready to open that pull request, and watch the new translation appear on the website as soon as the pull request is approved and built!</p>
 </div>
 </div>
 
