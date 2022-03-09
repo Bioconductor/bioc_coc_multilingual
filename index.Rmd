@@ -6,12 +6,10 @@ Welcome to the [_Bioconductor_](https://bioconductor.org/) community!
 
 ## Purpose
 
-This website hosts the original English version of the project-wide Code of
+This website hosts the official English version of the project-wide Code of
 Conduct statement for the [_Bioconductor_](https://bioconductor.org/) project -
 maintained by the _Bioconductor_ Code of Conduct committee - as well as
 translations contributed by volunteer community members.
-To contribute new translations or updates, please read the
-[contributing guidelines](contribute.html).
 
 These living documents are intended for reference and use during
 [_Bioconductor_](https://bioconductor.org/) in-person events (e.g., conferences)
@@ -24,6 +22,9 @@ and communications.
 
 In case of conflict or out-of-date translations, the
 [latest English version](en-US.html)) rules.
+
+To contribute new translations or updates, please read the
+[contributing guidelines](contribute.html).
 
 ## Languages (alphabetical)
 
