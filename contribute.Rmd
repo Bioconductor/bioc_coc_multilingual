@@ -6,6 +6,8 @@ title: "Contribute"
 
 Contribute at <https://github.com/Bioconductor/bioc_coc_multilingual>.
 
+---
+
 ## Version control
 
 ### Overview
@@ -16,7 +18,7 @@ _Bioconductor Code of Conduct Policy_ - maintained by the
 _Bioconductor Code of Conduct Committee_ - from translations and fixes to
 translations and fixes in other languages.
 
-```{r}
+```{r, echo=FALSE, fig.align='center', out.height='400px'}
 knitr::include_graphics("img/contribute-version-control.svg")
 ```
 
@@ -40,6 +42,8 @@ If fixes are needed to improve the translation of a specific version of the
 _Bioconductor Code of Conduct Policy_, the **patch** component of the version
 number should be incremented for each fix applied to the translated document.
 
+---
+
 ## Files
 
 Each language - from the original US English to every translated language - is
@@ -56,6 +60,8 @@ for a proposed translation of the _Bioconductor Code of Conduct Policy_.
 Importantly, the `index.Rmd` file lists all the languages currently supported,
 as well as the latest version available for each language.
 This file must be manually updated at each update of any language.
+
+---
 
 ## Processes
 
