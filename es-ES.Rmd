@@ -10,7 +10,6 @@ title: "`r emo::ji('Spain')` Declaración del Código de Conducta del Proyecto B
 
 _Código de Conducta inicial del proyecto, ampliado a partir de documentos previos elaborados específicamente para conferencias_
 
-### Los valores de la comunidad Bioconductor
 La comunidad Bioconductor pone en valor un acercamiento abierto a la ciencia que promueve
 
 * compartir ideas, código, software y conocimientos
@@ -24,9 +23,8 @@ En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporc
 * la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, complexión física, raza, edad, religión, idioma, etc.
 * la posición intelectual: aproximaciones al análisis de datos, preferencias de software, estilo de programación, perspectiva científica, etapa profesional, etc.
 
-La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento auspiciado por Bioconductor (en persona o virtual, incluyendo pero no limitado a charlas, talleres, sesiones de póster, actividades sociales) o canal de comunicación electrónico (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online, la revisión de paquetes y comunicaciones en medios sociales).
-
-Además, exigimos a todos los participantes utilizar cuentas identificables en los foros online de Bioconductor. Las cuentas que no se adhieran a este requisito después de una solicitud para desanonimizarlas pueden ser eliminadas.
+La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento (en persona o virtual, incluyendo pero no limitado a charlas, talleres, sesiones de póster, actividades sociales) o canal de comunicación electrónico (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online, la revisión de paquetes y comunicaciones en medios sociales) auspiciado por Bioconductor.
+Además, requerimos a todos los participantes utilizar cuentas identificables en los foros online de Bioconductor. Las cuentas que no se adhieran a este requisito después de una solicitud para desanonimizarlas pueden ser eliminadas.
 
 No toleramos el acoso, la indimidación, o el abuso de miembros de la comunidad.
 El lenguaje y la iconografía sexuales no son apropiados en presentaciones, comunicaciones o plataformas online, incluyendo chats.
@@ -48,9 +46,9 @@ El acoso incluye, pero no está limitado a:
 La intimidación y el abuso incluyen, pero no están limitados a:
 
 * Comportamientos agresivos o intimidatorios
-* Insultar o burlarse del intelecto, trabajo, perspectiva o pregunta/comentario
+* Insultar o burlarse del intelecto, trabajo, perspectiva o pregunta/comentario de otra persona
 * Hacer referencia al género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, complexión física, raza, edad, religión, u otros atributos personales de alguien en el contexto de una discusión científica
-* Hacer sentir a alguien de forma deliberada que no es bienvenido
+* Hacer sentir a alguien que no es bienvenido de forma deliberada
 * Comportamiento ofensivo (mensajes ofensivos o con intención de provocar)
 * Publicación continua de mensajes sin relación al tema
 
@@ -68,7 +66,7 @@ o con el claro impacto de, dañar un evento o plataforma de comunicación electr
 hostil para cualquier miembro de la comunidad.
 
 Esperamos que todo el mundo en la comunidad Bioconductor cumpla con el Código de Conducta cuando participa
-en eventos de Bioconductor y plataformas de comunicación online.
+en eventos y plataformas de comunicación online de Bioconductor.
 
 ## Denuncias
 
@@ -81,7 +79,7 @@ Comité del Código de Conducta y serán gestionadas de forma confidencial.
 Puedes hacer una denuncia anónima o no-anónima a través del siguiente enlace: <https://forms.gle/gEWHBWnXvZbEdFsq5>.
 Esta página contiene una caja de texto libre que será re-enviada al Comité del Código de Conducta.
 Alternativamente, puedes enviar un mensaje por correo electrónico al Comité del Código de Conducta
-(<code-of-conduct@bioconductor.org>). Si te sientes incómodo informando al Comité del Código de Conducta como grupo,
+(<code-of-conduct@bioconductor.org>). Si te sientes incómodo denunciando ante el Comité del Código de Conducta como grupo,
 puedes contactar con cualquier miembro del comité por correo electrónico o a través de un mensaje directo en el canal
 de Slack community-bioc. Por favor, incluye capturas de pantalla o copias de todas las conversaciones electrónicas
 relevantes siempre que sea posible (no hace falta que comprometas tu anonimidad!).
