@@ -6,25 +6,27 @@ title: "`r emo::ji('Spain')` Declaración del Código de Conducta del Proyecto B
 
 # Código de Conducta
 
-**Versión 1.0.1 (25 de noviembre del 2020)**
+## Versión 1.0.2 (27 de julio del 2021)
 
-* Código de Conducta inicial del proyecto, ampliado a partir de documentos previos elaborados para conferencias.
+_Código de Conducta inicial del proyecto, ampliado a partir de documentos previos elaborados específicamente para conferencias_
 
 ### Los valores de la comunidad Bioconductor
+La comunidad Bioconductor pone en valor un acercamiento abierto a la ciencia que promueve
 
-* un acercamiento abierto a la ciencia que promueve compartir ideas, código y conocimientos
+* compartir ideas, código, software y conocimientos
 * colaboración
 * diversidad e inclusión
 * un entorno amable y acogedor
 * contribuciones de toda la comunidad
 
-En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporcionar una experiencia acogedora, alentadora y respetuosa, libre de acoso, intimidación y abuso, independientemente de:
+En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporcionar una experiencia acogedora, alentadora y colegial, libre de acoso, intimidación y abuso, independientemente de:
 
-* la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, complexión física, raza, edad, religión, etc.
-* la posición intelectual: aproximaciones al análisis de datos, preferencias de software, estilo de programación, perspectiva científica, etc.
-* la etapa profesional.
+* la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, complexión física, raza, edad, religión, idioma, etc.
+* la posición intelectual: aproximaciones al análisis de datos, preferencias de software, estilo de programación, perspectiva científica, etapa profesional, etc.
 
-La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento auspiciado por Bioconductor (en persona o virtual, incluyendo pero no limitado a charlas, talleres, sesiones de póster, actividades sociales) o canal de comunicación electrónico (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online y comunicaciones en medios sociales).
+La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento auspiciado por Bioconductor (en persona o virtual, incluyendo pero no limitado a charlas, talleres, sesiones de póster, actividades sociales) o canal de comunicación electrónico (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online, la revisión de paquetes y comunicaciones en medios sociales).
+
+Además, exigimos a todos los participantes utilizar cuentas identificables en los foros online de Bioconductor. Las cuentas que no se adhieran a este requisito después de una solicitud para desanonimizarlas pueden ser eliminadas.
 
 No toleramos el acoso, la indimidación, o el abuso de miembros de la comunidad.
 El lenguaje y la iconografía sexuales no son apropiados en presentaciones, comunicaciones o plataformas online, incluyendo chats.
@@ -32,7 +34,7 @@ El lenguaje y la iconografía sexuales no son apropiados en presentaciones, comu
 Cualquier persona que viole el Código de Conducta puede ser sancionada o expulsada temporal o permanentemente de una plataforma electrónica o evento a discreción del Comité del Código de Conducta.
 
 
-### Ejemplos de comportamientos inaceptables de acoso, intimidación y abuso
+#### _Ejemplos de comportamientos inaceptables de acoso, intimidación y abuso_
 
 El acoso incluye, pero no está limitado a:
 
@@ -46,15 +48,15 @@ El acoso incluye, pero no está limitado a:
 La intimidación y el abuso incluyen, pero no están limitados a:
 
 * Comportamientos agresivos o intimidatorios
-* Insultar o burlarse del intelecto, trabajo, perspectiva o pregunta/comentario de otra persona
+* Insultar o burlarse del intelecto, trabajo, perspectiva o pregunta/comentario
 * Hacer referencia al género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, complexión física, raza, edad, religión, u otros atributos personales de alguien en el contexto de una discusión científica
 * Hacer sentir a alguien de forma deliberada que no es bienvenido
-* Comportamiento ofensivo (mensajes ofensivos con intención de provocar)
+* Comportamiento ofensivo (mensajes ofensivos o con intención de provocar)
 * Publicación continua de mensajes sin relación al tema
 
-### Aplicación
+## Aplicación
 
-Se espera que cualquier persona a quien se le pida cesar un comportamiento intimidatorio o de acoso cese inmediatamente.
+Se espera que cualquier persona a quien se le pida cesar un comportamiento intimidatorio o de acoso lo cumpla inmediatamente.
 
 Si una persona, o personas, contravienen el Código de Conducta, el Comité del Código de Conducta se
 reserva el derecho a actuar de la forma que asegure un entorno acogedor para todos los miembros de la comunidad.
@@ -68,34 +70,33 @@ hostil para cualquier miembro de la comunidad.
 Esperamos que todo el mundo en la comunidad Bioconductor cumpla con el Código de Conducta cuando participa
 en eventos de Bioconductor y plataformas de comunicación online.
 
-### Denuncias
+## Denuncias
 
-Si alguien hace te hace sentir inseguro o no bienvenido, u observas este tipo de comportamiento dirigido a otra persona, por favor denúncialo tan pronto
+Si alguien te hace a ti, o a cualquier otra persona, sentir inseguro o no bienvenido, por favor denúncialo tan pronto
 como sea posible. Puedes denunciar de forma anónima o personalmente. Todas las denuncias serán revisadas por el
 Comité del Código de Conducta y serán gestionadas de forma confidencial.
 
-#### Electrónicamente
+#### _Electrónicamente_
 
-Puedes hacer una denuncia anónima o no-anónima a través del siguiente enlace:
-<https://tinyurl.com/bioccomplaint>.
-Esta página contiene una caja de texto libre que será re-enviada al Comité del Código de Conducta. Alternativamente, puedes
-enviar un mensaje por correo electrónico al Comité del Código de Conducta (<code-of-conduct@bioconductor.org>).
-Si te sientes incómodo informando al Comité del Código de Conducta como grupo, puedes contactar con cualquier
-miembro del comité por correo electrónico o a través de un mensaje directo en el canal de Slack community-bioc.
-Por favor, incluye capturas de pantalla o copias de todas las conversaciones electrónicas relevantes siempre
-que sea posible (no hace falta que comprometas tu anonimidad!).
+Puedes hacer una denuncia anónima o no-anónima a través del siguiente enlace: <https://forms.gle/gEWHBWnXvZbEdFsq5>.
+Esta página contiene una caja de texto libre que será re-enviada al Comité del Código de Conducta.
+Alternativamente, puedes enviar un mensaje por correo electrónico al Comité del Código de Conducta
+(<code-of-conduct@bioconductor.org>). Si te sientes incómodo informando al Comité del Código de Conducta como grupo,
+puedes contactar con cualquier miembro del comité por correo electrónico o a través de un mensaje directo en el canal
+de Slack community-bioc. Por favor, incluye capturas de pantalla o copias de todas las conversaciones electrónicas
+relevantes siempre que sea posible (no hace falta que comprometas tu anonimidad!).
 
-Si tu denuncia es anónima no podremos contactar contigo para hacer el seguimiento, pero la investigaremos a fondo
+No podemos hacer un seguimiento de una denuncia anónima directamente contigo, pero la investigaremos a fondo
 y tomaremos la decisión que sea necesaria para prevenir que vuelva a ocurrir.
 
-#### Personalmente (en cualquier evento Bioconductor: en persona o virtual)
+#### _Personalmente (en cualquier evento Bioconductor: en persona o virtual)_
 
 Puedes formular una denuncia personalmente ante cualquier miembro del Comité del Código de Conducta presente en un evento.
 
 Cuando recibimos una denuncia personalmente, nos aseguraremos de que lo hacemos en un entorno seguro que evite que pueda ser escuchada.
 En algunos casos necesitaremos involucrar personal adicional del evento para garantizar que la denuncia sea gestionada apropiadamente.
 Una vez en un entorno seguro, te pediremos que nos cuentes qué ha pasado.
-Sabemos que este proceso puede resultar incómodo, por lo que lo gestionaremos de la forma más respetuosa posible y, además, puedes traer un acompañante que te dé apoyo.
+Sabemos que este proceso puede resultar incómodo, por lo que lo gestionaremos de la forma más respetuosa posible y puedes traer un acompañante que te dé apoyo.
 No se te pedirá confrontar a nadie, y no le diremos a nadie quién eres.
 
 Nuestro equipo estará encantado de ayudarte a encontrar el apoyo oportuno (por ejemplo, ayudándote a contactar con la seguridad del hotel/sede del evento, autoridades locales de orden público, servicios de apoyo locales, proporcionar escolta, o en cualquier otro caso ayudarte a sentirte segura o seguro durante el evento).
@@ -104,15 +105,16 @@ Apreciamos tu asistencia y participación en eventos de Bioconductor y en nuestr
 
 ### Comité del Código de Conducta
 
-* (Chair) Saskia Freytag <sas.freytag@gmail.com>
-* Yagoub Adam <yagoub@alumni.usp.br>
-* Leonardo Collado-Torres <lcolladotor@gmail.com>
-* Aedín Culhane <aedin@ds.dfci.harvard.edu>
-* Laurent Gatto <laurent.gatto@gmail.com>
-* Stephanie Hicks <shicks19@jhu.edu>
-* Johannes Rainer <johannes.rainer@eurac.edu>
-* Matthew Ritchie <mritchie@wehi.edu.au>
-* Charlotte Soneson <charlottesoneson@gmail.com>
-* Levi Waldron <lwaldron.research@gmail.com>
+* (Chair) Saskia Freytag <sas.freytag@gmail.com> (hasta 2023)
+* Yagoub Adam <yagoub@alumni.usp.br> (hasta 2022)
+* Leonardo Collado-Torres <lcolladotor@gmail.com> (hasta 2022)
+* Laurent Gatto <laurent.gatto@gmail.com> (hasta 2023)
+* Michael Love <michaelisaiahlove@gmail.com> (hasta 2024)
+* Federico Marini <fede.maro@gmail.com> (hasta 2024)
+* Sowmya Parthiban <sowmyaparthiban@gmail.com> (hasta 2024)
+* Anna Quaglieri <anna.quaglieri16@gmail.com> (hasta 2024)
+* Johannes Rainer <johannes.rainer@eurac.edu> (hasta 2023)
+* Lluís Revilla <lluis.revilla@gmail.com> (hasta 2024)
+* Charlotte Soneson <charlottesoneson@gmail.com> (hasta 2023)
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
