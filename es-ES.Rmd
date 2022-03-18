@@ -18,7 +18,7 @@ La comunidad Bioconductor pone en valor un acercamiento abierto a la ciencia que
 * un entorno amable y acogedor
 * contribuciones de toda la comunidad
 
-En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporcionar una experiencia acogedora, alentadora y colegial, libre de acoso, intimidación y abuso, independientemente de:
+En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporcionar una experiencia acogedora, alentadora y respetuosa, libre de acoso, intimidación y abuso, independientemente de:
 
 * la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, complexión física, raza, edad, religión, idioma, etc.
 * la posición intelectual: aproximaciones al análisis de datos, preferencias de software, estilo de programación, perspectiva científica, etapa profesional, etc.
