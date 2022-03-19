@@ -10,13 +10,13 @@ title: "`r emo::ji('Spain')` Declaración del Código de Conducta del Proyecto B
 
 _Código de Conducta inicial del proyecto, ampliado a partir de documentos previos elaborados específicamente para conferencias_
 
-La comunidad Bioconductor pone en valor un acercamiento abierto a la ciencia que promueve
+La comunidad Bioconductor valora un acercamiento abierto a la ciencia que promueve
 
 * compartir ideas, código, software y conocimientos
 * colaboración
 * diversidad e inclusión
 * un entorno amable y acogedor
-* contribuciones de toda la comunidad
+* contribuciones de la comunidad
 
 En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporcionar una experiencia acogedora, alentadora y respetuosa, libre de acoso, intimidación y abuso, independientemente de:
 
