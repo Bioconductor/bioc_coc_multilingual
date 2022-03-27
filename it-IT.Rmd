@@ -99,15 +99,16 @@ Diamo valore alla tua presenza e partecipazione agli eventi di Bioconductor e al
 
 ###  Commissione del Codice di Buon Comportamento
 
-* (Presidente) Saskia Freytag <sas.freytag@gmail.com>
-* Yagoub Adam <yagoub@alumni.usp.br>
-* Leonardo Collado-Torres <lcolladotor@gmail.com>
-* Aedín Culhane <aedin@ds.dfci.harvard.edu>
-* Laurent Gatto <laurent.gatto@gmail.com>
-* Stephanie Hicks <shicks19@jhu.edu>
-* Johannes Rainer <johannes.rainer@eurac.edu>
-* Matthew Ritchie <mritchie@wehi.edu.au>
-* Charlotte Soneson <charlottesoneson@gmail.com>
-* Levi Waldron <lwaldron.research@gmail.com>
+* (Presidente) Saskia Freytag <sas.freytag@gmail.com> (fino al 2023)
+* Yagoub Adam <yagoub@alumni.usp.br> (fino al 2022)
+* Leonardo Collado-Torres <lcolladotor@gmail.com> (fino al 2022)
+* Laurent Gatto <laurent.gatto@gmail.com> (fino al 2023)
+* Michael Love <michaelisaiahlove@gmail.com> (fino al 2024)
+* Federico Marini <fede.maro@gmail.com> (fino al 2024)
+* Sowmya Parthiban <sowmyaparthiban@gmail.com> (fino al 2024)
+* Anna Quaglieri <anna.quaglieri16@gmail.com> (fino al 2024)
+* Johannes Rainer <johannes.rainer@eurac.edu> (fino al 2023)
+* Lluís Revilla <lluis.revilla@gmail.com> (fino al 2024)
+* Charlotte Soneson <charlottesoneson@gmail.com> (fino al 2023)
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
