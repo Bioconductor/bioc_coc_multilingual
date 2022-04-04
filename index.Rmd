@@ -41,5 +41,13 @@ To contribute new translations or updates, please read the
 | `r emo::ji("Russia")` | Russian, Russian Federation | 1.0.2 | [ru-RU](ru-RU.html) |
 | `r emo::ji("Spain")` | Spanish, Spain | 1.0.2 | [es-ES](es-ES.html) |
 
+## Code of Conduct (English, United States)
+
+This is the latest version of the original project-wide Code of Conduct statement for Bioconductor.
+Linked from [en-US](en-US.html).
+
+```{r, child='en-US.Rmd'}
+```
+
 [bioc-slack]: https://bioc-community.herokuapp.com/
 [bioc-support-forum]: https://support.bioconductor.org/
