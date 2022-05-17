@@ -8,24 +8,24 @@ title: "`r emo::ji('Italy')` Project-wide Codice di Buon Condotta per Bioconduct
 
 ## Versione 1.0.2 (27 Luglio, 2021)
 
-_Codice di Buona Condotta iniziale, esteso dai precedenti documenti specificamente redatti per le conferenze pregresse._
+_Codice di Buona Condotta iniziale, esteso dai precedenti documenti specificamente redatti per le conferenze precedenti._
 
 
-I valori della Comunità di Bioconductor
+I valori della Comunità di Bioconductor comprendono
 un approccio aperto alla scienza che provuome 
 
 * la condivisione di idee, codice software ed esperienze
-* collaborazion2
+* collaborazione
 * diversità ed inclusività 
 * un ambiente caloroso e accogliente
 * contributi alla comunità
 
 In linea con questi valori, Bioconductor si dedica a creare una comunità accogliente, solidale, un'esperienza collegiale assente da molestie, intimidazioni e bullismo indipendentemente da:
 
-* identità: genere, identità di genere ed espressione, orientamento sessuale, disabilità, apparenza fisica, etnia, corporatura, età, religione, ecc.
-* posizione intellettuale: approcci all'analisi dati, preferenze nella scelta di software, stile del codice, prospettive scientifiche, fase della carriera, ecc.
+* identità: genere, identità e espressione di genere, orientamento sessuale, disabilità, apparenza fisica, etnia, corporatura, età, religione, lingua, ecc.
+* opinioni intellettuali: approcci all'analisi dati, preferenze nella scelta di software, stile del codice, posizioni scientifiche, fase della carriera, ecc.
 
-Partecipando a questa comunità, acconsenti a non avere comportamenti contrari a questi valori ad ogni evento sponsorizzato da Bioconductor (di persona o in virtuale, incluso, ma non limitato a presentazioni, seminari, sessioni poster, attività sociali) o canali di comunicazione elettronica (incluso, ma non limitato al workspace Slack \"community-bioc\", il sito di supporto, i forum online e le comunicazioni sui social media).
+Partecipando a questa comunità, acconsenti a non avere comportamenti contrari a questi valori ad ogni evento sponsorizzato da Bioconductor (in presenza o virtuale, inclusi, ma non limitatatamente a presentazioni, seminari, sessioni poster, attività sociali) o canali di comunicazione elettronica (inclusi, ma non limitatamente al _workspace_ Slack \"community-bioc\", il sito di supporto, i forum online e le comunicazioni sui social media).
 
 Inoltre, richiediamo a tutti i partecipanti di avere account identificabili nei forum online di Bioconductor. Gli account che non aderiscono a ciò dopo la richiesta di de-anonimizzazione potranno essere cancellati. 
 
@@ -37,21 +37,21 @@ Chiunque violi il Codice di Buona Condotta può essere sanzionato o espulso temp
 
 #### _Esempi inaccettabili di comportamento denigratorio, molesto, intimidatorio, e bullismo_
 
-L'aggressione include, ma non si limita a:
+La molestia include, ma non si limita a:
 
-* Fare commenti in chat, di gruppo o individalmente, al fine di sminuire o umiliare un'altra persona
-* Condividendo online immagini a sfondo sessuale
-* Molestie/denigrazioni a sfondo pornografico o registrate
+* Fare commenti in chat, di gruppo o individualmente, al fine di sminuire o umiliare un'altra persona
+* Condividere online immagini a sfondo sessuale
+* Fotografie o registrazioni indesiderate
 * Interruzione prolungata di presentazioni o altri eventi
 * Sgradite/indesiderate attenzioni sessuali
-* Sostenendo o incoraggiando alcuno dei comportamenti sovradescritti
+* Sostenere o incoraggiare uno o più comportamenti qui descritti
 
 Intimidazione e bullismo includono, ma non sono limitati a:
 
 * Comportamenti aggressivi o intimidatori
 * Deridere o insultare intelletto, lavoro, prospettive o domande/commenti di un'altra persona
-* Deridere genere, identità di genere ed espressione, orientamento sessuale, disabilità, apparenza fisica, corporatura, età, religione, o qualasiasi altro attributo nel contesto di una discussione scientifica
-* Deliberatamente far sentire una persona non benvenuta
+* Deridere il genere, l'identità e l'espressione di genere, l'orientamento sessuale, le disabilità, l'apparenza fisica, la corporatura, l'età, la religione, o qualasiasi altro attributo nel contesto di una discussione scientifica
+* Far sentire deliberatamente una persona non benvenuta
 * Comportamenti di \"trolling\" (messaggi intenzionalmente provocatori o offensivi)
 * Il continuo invio di messaggi fuori dal contesto
 
@@ -61,17 +61,17 @@ Intimidazione e bullismo includono, ma non sono limitati a:
 Ci si aspetta che chiunque riceva la richiesta di fermare un comportamento discriminatorio, molesto o intimidatorio la soddisfi immediatamente.
 
 Se una o più persone contravvengono al Codice di Buona Condotta la Commissione del Codice di Buona Condotta si ritiene in diritto di agire in qualunque modo al fine di assicurare un ambiente confortevole per tutti i membri della comunità.
-Questo include l'avvertire il presunto offensore o l'espulsione temporanea/permanente dall'evento e/o dalle piattaforme elettroniche sotto il controllo di Bioconductor.
+Questo include l'avvertire il presunto colpevole o l'espulsione temporanea/permanente dall'evento e/o dalle piattaforme elettroniche sotto il controllo di Bioconductor.
 
-La Commissione del Codice di Buona Condotta può agire in modo da porre rimedio a qulasiasi cosa designata a, o con il chiaro impatto di, disturbare un evento o una piattaforma di comunicazione elettronica o da rendere l'ambiente ostile per qualsiasi membro della comunità.
+La Commissione del Codice di Buona Condotta può agire in modo da porre rimedio a qulasiasi cosa progettata per, o con il chiaro impatto di, disturbare un evento o una piattaforma di comunicazione elettronica o da rendere l'ambiente ostile per qualsiasi membro della comunità.
 
-Ci aspettiamo che ogni membro della comunità di Bioconductor si attenga al Codice di Buona Condotta durante la partecipazione ad eventi di Bioconductor e sulle piattaforme elettroniche online.
+Ci aspettiamo che ogni membro della comunità di Bioconductor si attenga al Codice di Buona Condotta durante la partecipazione agli eventi di Bioconductor e sulle piattaforme elettroniche online.
 
 ## Segnalazione
 
 Se qualcuno fa sentire te o chiunque altro non al sicuro o non benvenuto, sei pregato di riportarlo il prima possibile. 
 La segnalazione può essere sia in forma anonima che personale. 
-Tutte le segnalazioni saranno riviste dalla Commissione del Codice di Buona Condotta e verranno trattate in maniera confidenziale.
+Tutte le segnalazioni saranno valutate dalla Commissione del Codice di Buona Condotta e verranno trattate in maniera confidenziale.
 
 #### _Segnalazione per via Elettronica_
 
@@ -81,16 +81,16 @@ Dove è presente un box di testo in formato libero che verrà inviato alla Commi
 In alternativa puoi inviare una email alla Commissione del Codice di Buona Condotta (<code-of-conduct@bioconductor.org>).
 Se non ti senti a tuo agio a fare una segnalazione alla Commissione del Codice di Buona Condotta come gruppo, puoi contattare un qualsiasi membro della Commissione del Codice di Buona Condotta tramite email o con un messaggio privato sul canale Slack \"community-bioc\". Per favore includi \"screenshots\"/copie di tutte le conversazioni rilevanti ogni volta possibile (non c'è bisogno di compromettere il tuo anonimato!).
 
-Noi non possiamo ricontattarti in maniera diretta a seguito di una segnalazione anonima, ma la investigheremo appieno e prenderemo provvedimenti ogni qualvolta sarà necessario al fine di prevenire una recidiva.
+Non possiamo ricontattarti in maniera diretta a seguito di una segnalazione anonima, ma la investigheremo appieno e prenderemo provvedimenti ogni qualvolta sarà necessario al fine di prevenire una recidiva.
 
 #### _Segnalazione Personale (per ogni evento Bioconductor: in persona o virtuale)_
 
 Puoi effettuare una segnalazione ad ogni membro della Commissione del Codice di Buona Condotta presente a un evento.
 
-Quando viene fatta una segnalazione personale, ci occuperemo personalmente di farti sentire al sicuro e che non possa essere origliato.
+Quando viene fatta una segnalazione personale, ci occuperemo personalmente di farti sentire al sicuro e che la tua segnalazione non sia origliata.
 Potremmo coinvolgere altri membri dello staff al fine di assicurare che la tua segnalazione sia trattata in maniera opportuna.
 Una volta al sicuro, ascolteremo ciò che hai da riportare su ciò che è successo.
-Per quanto possa risultare sconvolgente, lo tratteremo nel modo più rispettoso possibile, e potrai portare qualcuno a tuo supporto.
+Per quanto possa risultare emozionalmente difficile, tratteremo la tua segnalazione nel modo più rispettoso possibile, e potrai portare qualcuno a tuo supporto.
 Non ti verrà chiesto di confrontarti con nessuno, e non diremo a nessuno chi sei.
 
 Il nostro gruppo sarà felice di aiutarti e di offrirti il supporto necessario (ad esempio aiutarti a contattare hotel o altri luoghi sicuri, forze dell'ordine locali, servizi di supporto locali, fornire accompagnatori, o altrimenti assisterti per farti sentire al sicuro durante la durata dell'evento).
