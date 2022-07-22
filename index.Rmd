@@ -21,7 +21,7 @@ associated with the relevant [_Bioconductor_](https://bioconductor.org/) events
 and communications.
 
 In case of conflict or out-of-date translations, the
-[latest English version](en-US.html)) rules.
+[latest English version](en-US.html) rules.
 
 To contribute new translations or updates, please read the
 [contributing guidelines](contribute.html).
