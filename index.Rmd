@@ -31,7 +31,7 @@ To contribute new translations or updates, please read the
 |          Flag           | Language       | Version | Link               |
 | :---------------------: | :------------- | :-----: | :------------------|
 | `r emo::ji("China")` | Chinese, China | 1.0.2 | [zh-CN](zh-CN.html) |
-| `r emo::ji("United_States")` | **English, United States (original version)** | 1.0.2 | [en-US](en-US.html) |
+| `r emo::ji("United_States")` | **English, United States (original version)** | 1.1.0 | [en-US](en-US.html) |
 | `r emo::ji("France")` | French, France | 1.0.2 | [fr-FR](fr-FR.html) |
 | `r emo::ji("Germany")` | German, Germany | 1.0.2 | [de-DE](de-DE.html) |
 | `r emo::ji("India")` | Hindi, India | - | [hi-IN](hi-IN.html) |
