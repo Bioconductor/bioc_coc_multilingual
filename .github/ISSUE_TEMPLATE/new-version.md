@@ -13,6 +13,7 @@ A new English version of the Bioconductor Code of Conduct has been created (vers
 We kindly ask you to check those latest changes, and update the translation of the language that you maintain or contribute to.
 
 - [ ] Chinese: @XueyiDong
+- [ ] Dutch: @milanmlft
 - [ ] French: @kevinrue
 - [ ] German: @HelenaLC, @lmweber
 - [ ] Italian: @drighelli
