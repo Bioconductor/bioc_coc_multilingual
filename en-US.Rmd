@@ -105,3 +105,5 @@ This procedure is briefly summarized [here](https://bioconductor.github.io/CodeO
 * Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) he/him [FR, EN] (CAB)
 * Charlotte Soneson charlottesoneson@gmail.com (until 2023) she/her [EN, SE] (TAB, European Bioconductor Society)
 * (Ombusdperson) Beatriz Serrano-Solano beatrizserrano.galaxy@gmail.com (Galaxy project) she/her [ES,EN]
+
+[1]: https://bioc2020.bioconductor.org/code_of_conduct

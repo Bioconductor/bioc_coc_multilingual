@@ -8,6 +8,8 @@ navbar:
       menu:
       - text: "Chinese, China"
         href: zh-CN.html
+      - text: "Dutch; Belgium, The Netherlands"
+        href: nl-BE.html
       - text: "English, United States"
         href: en-US.html
       - text: "French, France"
