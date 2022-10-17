@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>🇧🇪 🇳🇱 Projectbrede Gedragscode voor het Bioconductor project (Nederlands; België/Nederland)</title>
+
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Bioconductor Code of Conduct</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Languages
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="zh-CN.html">Chinese, China</a>
+    </li>
+    <li>
+      <a href="nl-BE.html">Dutch; Belgium, The Netherlands</a>
+    </li>
+    <li>
+      <a href="en-US.html">English, United States</a>
+    </li>
+    <li>
+      <a href="fr-FR.html">French, France</a>
+    </li>
+    <li>
+      <a href="de-DE.html">German, Germany</a>
+    </li>
+    <li>
+      <a href="hi-IN.html">Hindi, India</a>
+    </li>
+    <li>
+      <a href="it-IT.html">Italian, Italy</a>
+    </li>
+    <li>
+      <a href="jp-JP.html">Japanese, Japan</a>
+    </li>
+    <li>
+      <a href="pt-BR.html">Portuguese, Brazil</a>
+    </li>
+    <li>
+      <a href="ru-RU.html">Russian, Russian Federation</a>
+    </li>
+    <li>
+      <a href="es-ES.html">Spanish, Spain</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="contribute.html">Contribute</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="http://bioconductor.org/">Bioconductor.org</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">🇧🇪 🇳🇱 Projectbrede Gedragscode voor het Bioconductor project (Nederlands; België/Nederland)</h1>
+
+</div>
+
+
+<p>(Aangepast van de <a href="https://bioc2020.bioconductor.org/code_of_conduct">Gedragscode voor het BioC 2020 congres</a>, vertaald uit het <a href="en-US.html">Engels</a>).</p>
+<div id="gedragscode" class="section level1">
+<h1>Gedragscode</h1>
+<div id="versie-1.1.0-16-juli-2022" class="section level2">
+<h2>Versie 1.1.0 (16 juli, 2022)</h2>
+<p><em>Initiële gedragscode, uitbreiding van voorgaande congres-specifieke documenten</em></p>
+<p>De Bioconductor gemeenschapswaarden een open benadering van wetenschap die bevordert</p>
+<ul>
+<li>delen van ideeën, code, software en expertise</li>
+<li>samenwerking</li>
+<li>diversiteit en inclusiviteit</li>
+<li>een vriendelijke en gastvrije omgeving</li>
+<li>bijdragen door de gemeenschap</li>
+</ul>
+<p>In lijn met deze waarden zet Bioconductor zich in om een gastvrije, ondersteunende, collegiale ervaring te bieden zonder intimidatie, bedreiging en pesten, ongeacht:</p>
+<ul>
+<li>identiteit: geslacht, genderidentiteit en -expressie, seksuele geaardheid, handicap, uiterlijk, etniciteit, lichaamsgrootte, ras, leeftijd, religie, taal, enz.</li>
+<li>intellectuele positie: benaderingen van data-analyse, software-voorkeuren, codeerstijl, wetenschappelijk perspectief, loopbaanfase, enz.</li>
+</ul>
+<p>Door deel te nemen aan deze community, stemt u ermee in zich niet in te laten met gedrag dat in strijd is met deze waarden tijdens een door Bioconductor gesponsord evenement (persoonlijk of virtueel, inclusief maar niet beperkt tot lezingen, workshops, postersessies, sociale activiteiten) of elektronische communicatiekanalen ( inclusief maar niet beperkt tot de “community-bioc” Slack, de ondersteuningssite, online forums, de beoordelingssite voor packages en communicatie via sociale media). Verder eisen we dat alle deelnemers identificeerbare accounts hebben op de online fora van Bioconductor. Accounts die zich hier niet aan houden na verzoek tot de-anonimisering kunnen worden verwijderd.</p>
+<p>We tolereren geen intimidatie of pesterijen van leden van de gemeenschap. Seksuele taal en beelden zijn niet gepast in presentaties, communicatie of op online locaties, inclusief chats.</p>
+<p>Elke persoon/personen die de Gedragscode overtreedt, kan naar goeddunken van de Gedragscodecommissie worden bestraft of tijdelijk of permanent worden verwijderd van een elektronisch platform of evenement.</p>
+<div id="voorbeelden-van-onaanvaardbare-intimidatie-en-pestgedrag" class="section level4">
+<h4><em>Voorbeelden van onaanvaardbare intimidatie en pestgedrag</em></h4>
+<p>Intimidatie omvat, maar is niet beperkt tot:</p>
+<ul>
+<li>Opmerkingen maken in chats, voor een publiek of persoonlijk, die een andere persoon kleineren of vernederen</li>
+<li>Online seksuele afbeeldingen delen</li>
+<li>Intimiderend fotograferen of opnemen</li>
+<li>Aanhoudende verstoring van gesprekken of andere evenementen</li>
+<li>Ongewenste seksuele aandacht</li>
+<li>Pleiten voor, of aanmoedigen van, een van de bovenstaande gedragingen</li>
+</ul>
+<p>Bedreiging en pesten omvatten, maar zijn niet beperkt tot:</p>
+<ul>
+<li>Agressief of brutaal gedrag</li>
+<li>Het bespotten of beledigen van iemands intellect, werk, perspectief of vraag/opmerking</li>
+<li>Verwijzen naar iemands geslacht, genderidentiteit en -expressie, seksuele geaardheid, handicap, fysieke verschijning, lichaamsgrootte, ras, leeftijd, religie of andere persoonlijke kenmerken in de context van een wetenschappelijke discussie</li>
+<li>Iemand opzettelijk onwelkom laten voelen</li>
+<li>“Trolling” gedrag (opzettelijk opruiende of beledigende berichten)</li>
+<li>Aanhoudende off-topic berichten</li>
+</ul>
+</div>
+</div>
+<div id="handhaving" class="section level2">
+<h2>Handhaving</h2>
+<p>Iedereen die wordt gevraagd om te stoppen met intimiderend of pestend gedrag, wordt geacht dit onmiddellijk te doen.</p>
+<p>Als een persoon de Gedragscode schendt, behoudt de Gedragscodecommissie zich het recht om elke actie te ondernemen die zorgt voor een gastvrije omgeving voor alle leden van de gemeenschap. Dit omvat het waarschuwen van de vermeende overtreder of tijdelijke/permanente verwijdering van het evenement en/of elektronische platforms onder controle van Bioconductor.</p>
+<p>De gedragscodecommissie kan actie ondernemen om alles dat is ontworpen om, of met de duidelijke impact van, het verstoren van een evenement of elektronisch communicatieplatform of het vijandig maken van de omgeving voor een lid van de gemeenschap recht te zetten .</p>
+<p>We verwachten dat iedereen in de Bioconductor-gemeenschap de Gedragscode naleeft bij deelname aan Bioconductor-evenementen en online communicatieplatforms.</p>
+</div>
+<div id="aangifte" class="section level2">
+<h2>Aangifte</h2>
+<p>Als iemand u of iemand anders een onveilig of onwelkom gevoel geeft, meld dit dan zo snel mogelijk. U kunt zowel anoniem als persoonlijk een melding doen. Alle meldingen worden beoordeeld door de Gedragscodecommissie en vertrouwelijk behandeld.</p>
+<div id="elektronisch" class="section level4">
+<h4><em>Elektronisch</em></h4>
+<p>U kunt een anonieme of niet-anonieme melding doen via de volgende link: <a href="https://forms.gle/gEWHBWnXvZbEdFsq5" class="uri">https://forms.gle/gEWHBWnXvZbEdFsq5</a>. Dit is een vrije tekstbox die wordt doorgestuurd naar de Gedragscodecommissie. U kunt ook een e-mail sturen naar de Gedragscodecommissie (<a href="mailto:code-of-conduct@bioconductor.org" class="email">code-of-conduct@bioconductor.org</a>). Als u zich niet op uw gemak voelt om aan de Gedragscodecommissie als groep te rapporteren, kunt u contact opnemen met elk individueel commissielid via e-mail of een direct bericht op het “community-bioc” Slack-kanaal. Voeg indien mogelijk screenshots/kopieën van alle relevante elektronische gesprekken toe (u hoeft uw anonimiteit niet in gevaar te brengen!).</p>
+<p>We kunnen een anonieme melding niet rechtstreeks met u opnemen, maar we zullen deze volledig onderzoeken en alle nodige maatregelen nemen om herhaling te voorkomen.</p>
+</div>
+<div id="persoonlijk-rapport-voor-alle-bioconductor-evenementen-persoonlijk-of-virtueel" class="section level4">
+<h4><em>Persoonlijk rapport (voor alle Bioconductor-evenementen: persoonlijk of virtueel)</em></h4>
+<p>U kunt een persoonlijke melding doen bij elk lid van de gedragscodecommissie dat aanwezig is op een evenement.</p>
+<p>Bij een persoonlijke melding zorgen wij ervoor dat u veilig bent en niet kunt worden afgeluisterd. We kunnen andere evenementenmedewerkers inschakelen om ervoor te zorgen dat uw melding op de juiste manier wordt beheerd. Als het veilig is, vragen we u om ons te vertellen wat er is gebeurd. Dit kan verontrustend zijn, maar we gaan er zo respectvol mogelijk mee om en u kunt iemand meenemen om u te ondersteunen. U wordt niet gevraagd om iemand te confronteren, en we zullen niemand vertellen wie u bent.</p>
+<p>Ons team helpt u graag om de relevante ondersteuning te krijgen (bijvoorbeeld hulp bij het contacteren van hotel-/locatiebeveiliging, lokale wetshandhaving, lokale ondersteuningsdiensten, het bieden van escortes of anderszins helpen om u veilig te voelen gedurende de duur van het evenement).</p>
+<p>We waarderen uw aanwezigheid en deelname aan Bioconductor-evenementen en in onze gemeenschap.</p>
+</div>
+<div id="ombudspersoon" class="section level4">
+<h4><em>Ombudspersoon</em></h4>
+<p>We begrijpen dat u misschien wilt dat een persoon die geen familie is van Bioconductor toezicht houdt op uw conflictoplossing. Om dit te faciliteren zal de Gedragscodecommissie een ombudspersoon aanstellen uit een andere open source community dan leden van het Bioconductor-project. Hoewel ze niet de bevoegdheid hebben om besluiten van de Gedragscodecommissie vast te stellen, te wijzigen of opzij te zetten, kunnen ze leden van de gemeenschap helpen door advies, bemiddeling, coaching en doorverwijzing naar andere bronnen. De ombudspersoon is rechtstreeks bereikbaar via e-mail (zie hieronder) om te zorgen voor een vertrouwelijk, onpartijdig, informeel en onafhankelijk proces.</p>
+</div>
+<div id="incident-procedure" class="section level4">
+<h4><em>Incident procedure</em></h4>
+<p>De Gedragscodecommissie volgt een standaardprocedure voor het omgaan met conflicten. Deze procedure wordt <a href="https://bioconductor.github.io/CodeOfConduct/incident_response.html">hier</a> kort samengevat.</p>
+</div>
+<div id="gedragscodecommissie" class="section level3">
+<h3>Gedragscodecommissie</h3>
+<ul>
+<li>(Voorzitter) Saskia Freytag <a href="mailto:sas.freytag@gmail.com" class="email">sas.freytag@gmail.com</a> (tot 2023) zij/haar [EN, DE]</li>
+<li>Yagoub Adam <a href="mailto:yagoub@alumni.usp.br" class="email">yagoub@alumni.usp.br</a> (tot 2022) hij/hem [EN] (CAB)</li>
+<li>Leonardo Collado-Torres <a href="mailto:lcolladotor@gmail.com" class="email">lcolladotor@gmail.com</a> (tot 2022) hij/hem [EN, ES]</li>
+<li>Laurent Gatto <a href="mailto:laurent.gatto@gmail.com" class="email">laurent.gatto@gmail.com</a> (tot 2023) hij/hem [FR, EN] (TAB, European Bioconductor Society)</li>
+<li>Michael Love <a href="mailto:michaelisaiahlove@gmail.com" class="email">michaelisaiahlove@gmail.com</a> (tot 2024) hij/hem [EN] (TAB)</li>
+<li>Federico Marini <a href="mailto:fede.maro@gmail.com" class="email">fede.maro@gmail.com</a> (tot 2024) hij/hem [EN, IT, DE]</li>
+<li>Sowmya Parthiban <a href="mailto:sowmyaparthiban@gmail.com" class="email">sowmyaparthiban@gmail.com</a> (tot 2024) zij/haar [EN, Tamil]</li>
+<li>Anna Quaglieri <a href="mailto:anna.quaglieri16@gmail.com" class="email">anna.quaglieri16@gmail.com</a> (tot 2024) zij/haar [EN, IT]</li>
+<li>Johannes Rainer <a href="mailto:johannes.rainer@eurac.edu" class="email">johannes.rainer@eurac.edu</a> (tot 2023) hij/hem [EN, DE, IT] (CAB, European Bioconductor Society)</li>
+<li>Lluís Revilla <a href="mailto:lluis.revilla@gmail.com" class="email">lluis.revilla@gmail.com</a> (tot 2024) hij/hem [CAT, ES, EN]</li>
+<li>Kevin Rue-Albrecht <a href="mailto:kevinrue67@gmail.com" class="email">kevinrue67@gmail.com</a> (tot 2024) hij/hem [FR, EN] (CAB)</li>
+<li>Charlotte Soneson <a href="mailto:charlottesoneson@gmail.com" class="email">charlottesoneson@gmail.com</a> (tot 2023) zij/haar [EN, SE] (TAB, European Bioconductor Society)</li>
+<li>(Ombusdpersoon) Beatriz Serrano-Solano <a href="mailto:beatrizserrano.galaxy@gmail.com" class="email">beatrizserrano.galaxy@gmail.com</a> (Galaxy-project) zij/haar [ES,EN]</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

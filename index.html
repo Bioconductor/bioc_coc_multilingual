@@ -13,7 +13,7 @@
 
 <title>Project-wide Code of Conduct statement for Bioconductor</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -149,11 +149,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -182,8 +186,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -191,16 +195,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -265,6 +262,9 @@ $(document).ready(function () {
   <ul class="dropdown-menu" role="menu">
     <li>
       <a href="zh-CN.html">Chinese, China</a>
+    </li>
+    <li>
+      <a href="nl-BE.html">Dutch; Belgium, The Netherlands</a>
     </li>
     <li>
       <a href="en-US.html">English, United States</a>
@@ -347,54 +347,60 @@ $(document).ready(function () {
 <td align="left"><a href="zh-CN.html">zh-CN</a></td>
 </tr>
 <tr class="even">
+<td align="center">🇧🇪 🇳🇱</td>
+<td align="left">Dutch; Belgium, The Netherlands</td>
+<td align="center">1.1.0</td>
+<td align="left"><a href="nl-BE.html">nl-BE</a></td>
+</tr>
+<tr class="odd">
 <td align="center">🇺🇸</td>
 <td align="left"><strong>English, United States (original version)</strong></td>
 <td align="center">1.1.0</td>
 <td align="left"><a href="en-US.html">en-US</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="center">🇫🇷</td>
 <td align="left">French, France</td>
 <td align="center">1.0.2</td>
 <td align="left"><a href="fr-FR.html">fr-FR</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="center">🇩🇪</td>
 <td align="left">German, Germany</td>
 <td align="center">1.0.2</td>
 <td align="left"><a href="de-DE.html">de-DE</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="center">🇮🇳</td>
 <td align="left">Hindi, India</td>
 <td align="center">-</td>
 <td align="left"><a href="hi-IN.html">hi-IN</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="center">🇮🇹</td>
 <td align="left">Italian, Italy</td>
 <td align="center">1.0.2</td>
 <td align="left"><a href="it-IT.html">it-IT</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="center">🇯🇵</td>
 <td align="left">Japanese, Japan</td>
 <td align="center">1.0.2</td>
 <td align="left"><a href="jp-JP.html">jp-JP</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="center">🇧🇷</td>
 <td align="left">Portuguese, Brazil</td>
 <td align="center">1.0.1</td>
 <td align="left"><a href="pt-BR.html">pt-BR</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="center">🇷🇺</td>
 <td align="left">Russian, Russian Federation</td>
 <td align="center">1.0.2</td>
 <td align="left"><a href="ru-RU.html">ru-RU</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="center">🇪🇸</td>
 <td align="left">Spanish, Spain</td>
 <td align="center">1.0.2</td>
@@ -406,7 +412,7 @@ $(document).ready(function () {
 <div id="code-of-conduct-english-united-states" class="section level2">
 <h2>Code of Conduct (English, United States)</h2>
 <p>This is the latest version of the original project-wide Code of Conduct statement for Bioconductor. Linked from <a href="en-US.html">en-US</a>.</p>
-<p>(Adapted from the [BioC 2020 Code of Conduct][1])</p>
+<p>(Adapted from the <a href="https://bioc2020.bioconductor.org/code_of_conduct">BioC 2020 Code of Conduct</a>)</p>
 </div>
 <div id="code-of-conduct" class="section level1">
 <h1>Code of Conduct</h1>
