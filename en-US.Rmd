@@ -6,7 +6,7 @@ title: "`r emo::ji('United_States')` Project-wide Code of Conduct statement for 
 
 # Code of Conduct
 
-## Version 1.1.0 (July 16, 2022)
+## Version 1.2.0 (25th of November, 2022)
 
 _Initial project-wide Code of Conduct, expanded from previous conference-specific documents_
 
@@ -24,7 +24,7 @@ In line with these values, Bioconductor is dedicated to providing a welcoming, s
 * identity: gender, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, body size, race, age, religion, language, etc.
 * intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, stage of career, etc.
 
-By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), or electronic communication channel (including but not limited to community-bioc Slack, the support site, online forums, package review site, and social media communications). Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums. Accounts that do not adhere to this after request to de-anonymise may be deleted.
+By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), electronic communication channels (including but not limited to community-bioc Slack, the support site, online forums, package review site, and social media communications), or packages (including commits). Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums. Accounts that do not adhere to this after request to de-anonymise may be deleted.
 
 We do not tolerate harassment, intimidation, or bullying of community members. Sexual language and imagery are not appropriate in presentations, communications or in online venues, including chats.
 
@@ -87,23 +87,24 @@ ensure a confidential, impartial, informal and independent process.
 #### _Incident procedure_
 
 The Code of Conduct Committee follows a standard procedure to deal with conflicts. 
-This procedure is briefly summarized [here](https://bioconductor.github.io/CodeOfConduct/incident_response.html). 
+This procedure is briefly summarized [here](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Incident procedures are based on the book "How to Respond to Code of Conduct Reports" 
+by Valerie Aurora and Mary Gardiner.
 
 
 ### Code of Conduct Committee 
 
 * (Chair) Saskia Freytag sas.freytag@gmail.com (until 2023) she/her [EN, DE]
-* Yagoub Adam yagoub@alumni.usp.br (until 2022) he/him [EN] (CAB)
-* Leonardo Collado-Torres lcolladotor@gmail.com (until 2022) he/him [EN, ES]
 * Laurent Gatto laurent.gatto@gmail.com (until 2023) he/him [FR, EN] (TAB, European Bioconductor Society)
+* Martín Dávila-Cervantes aldntmi@gmail.com (until 2025) he/him [EN, FR, ES] 
+* Federica Gazzelloni fede.gazzelloni@gmail.com (until 2025) she/her [IT,EN]
+* Gerry Tonkin-Hill g.tonkinhill@gmail.com (until 2025) he/him [EN] 
 * Michael Love michaelisaiahlove@gmail.com (until 2024) he/him [EN] (TAB)
 * Federico Marini fede.maro@gmail.com (until 2024) he/him [EN, IT, DE]
 * Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024) she/her [EN, Tamil]
+* Shixiang Wang wangshx@shanghaitech.edu.cn (until 2025) he/him [CN,EN]
 * Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
-* Johannes Rainer johannes.rainer@eurac.edu (until 2023) he/him [EN, DE, IT] (CAB, European Bioconductor Society)
 * Lluís Revilla lluis.revilla@gmail.com (until 2024) he/him [CAT, ES, EN]
 * Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) he/him [FR, EN] (CAB)
-* Charlotte Soneson charlottesoneson@gmail.com (until 2023) she/her [EN, SE] (TAB, European Bioconductor Society)
-* (Ombudsperson) Beatriz Serrano-Solano beatrizserrano.galaxy@gmail.com (Galaxy project) she/her [ES,EN]
+* (Ombudsperson) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES,EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
