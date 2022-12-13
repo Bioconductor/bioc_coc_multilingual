@@ -75,8 +75,8 @@ Tutte le segnalazioni saranno valutate dalla Commissione del Codice di Comportam
 
 #### _Segnalazione per via Elettronica_
 
-Puoi fare una segnalazione anonima o non-anonima al seguente link [https://forms.gle/gEWHBWnXvZbEdFsq5](https://forms.gle/gEWHBWnXvZbEdFsq5).
-Dove è presente un box di testo in formato libero che verrà inviato alla Commissione del Codice di Comportamento.
+Puoi fare una segnalazione anonima o non-anonima al seguente link [https://forms.gle/gEWHBWnXvZbEdFsq5](https://forms.gle/gEWHBWnXvZbEdFsq5) 
+dove è presente un box di testo in formato libero che verrà inviato alla Commissione del Codice di Comportamento.
 In alternativa puoi inviare una email alla Commissione del Codice di Comportamento (code-of-conduct@bioconductor.org).
 Se non ti senti a tuo agio a fare una segnalazione all'intera Commissione del Codice di Comportamento, puoi contattare individualmente un qualsiasi membro della Commissione del Codice di Comportamento tramite email o con un messaggio privato sul canale Slack \"community-bioc\". Per favore includi \"screenshots\"/copie di tutte le conversazioni rilevanti ogni volta possibile (non c'è bisogno di compromettere il tuo anonimato!).
 
@@ -98,14 +98,14 @@ Diamo valore alla tua presenza e partecipazione agli eventi di Bioconductor e al
 
 #### _Mediatore/Mediatrice_
 
-Capiamo che tu possa volere una persona non collegata a Bioconductor che superviosioni la risoluzione del tuo conflitto. Per facilitare ciò, la Commissione del Codice di Comportamento nominerà un/una mediatore/mediatrice da una comunità open-source differente rispetto ai membri del progetto di Bioconductor. Mentre loro non hanno il potere di stabilire, cambiare o impostare decisione prese dalla Commissione del Codice di Comportamento, possono assistere i membri della comunità offrendo loro consultazione, mediazione, istruzione e riferimenti ad altre risorse. Il/La mediatore/mediatrice possono essere contattati direttamente via mail per assicurare un processo confidenziale, imparziale, informale e indipendente.
+Capiamo che tu possa volere una persona non collegata a Bioconductor che supervisioni la risoluzione del tuo conflitto. Per facilitare ciò, la Commissione del Codice di Comportamento nominerà un/una mediatore/mediatrice da una comunità open-source differente rispetto ai membri del progetto di Bioconductor. Seppur non avendo l'autorità di stabilire, cambiare o impostare decisioni prese dalla Commissione del Codice di Comportamento, possono assistere i membri della comunità offrendo loro consultazione, mediazione, istruzione e riferimenti ad altre risorse. Il/La mediatore/mediatrice può essere contattato/a direttamente via mail per assicurare un processo confidenziale, imparziale, informale e indipendente.
 
 #### _Procedura dell'incidente_
 
 La Commissione del Codice di Comportamento segue una procedura standard per trattare i conflitti.
 Questa procedura è spigata brevemente [qui](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Le procedure d'incidente sono basate sul libro "How to Respond to Code of Conduct Reports" di Valerie Aurora e Mary Gardiner.
 
-###  Commissione del Codice di Buon Comportamento
+###  Commissione del Codice di Comportamento
 
 * (Presidente) Saskia Freytag sas.freytag@gmail.com (until 2023) she/her [EN, DE]
 * Laurent Gatto laurent.gatto@gmail.com (until 2023) he/him [FR, EN] (TAB, European Bioconductor Society)
@@ -119,6 +119,6 @@ Questa procedura è spigata brevemente [qui](https://bioconductor.github.io/Code
 * Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
 * Lluís Revilla lluis.revilla@gmail.com (until 2024) he/him [CAT, ES, EN]
 * Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) he/him [FR, EN] (CAB)
-* (Ombusdperson) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES,EN]
+* (Mediatrice) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES,EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
