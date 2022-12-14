@@ -23,7 +23,7 @@ En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporc
 * la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, complexión física, raza, edad, religión, idioma, etc.
 * la posición intelectual: aproximaciones al análisis de datos, preferencias de software, estilo de programación, perspectiva científica, etapa profesional, etc.
 
-La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento (en persona o virtual, incluyendo pero no limitado a charlas, talleres, sesiones de póster, actividades sociales), canales de comunicación electrónicos (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online, la revisión de paquetes y comunicaciones en medios sociales) o paquetes de software (incluyendo los mensajes de confirmación de Git) auspiciados por Bioconductor.
+La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento (en persona o virtual, incluyendo pero no limitado a charlas, talleres, sesiones de póster, actividades sociales), canales de comunicación electrónicos (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online, la revisión de paquetes y comunicaciones en medios sociales) o paquetes de software (incluyendo los cambios guardados) auspiciados por Bioconductor.
 Además, requerimos a todos los participantes utilizar cuentas identificables en los foros online de Bioconductor. 
 Las cuentas que no se adhieran a este requisito después de una solicitud para desanonimizarlas pueden ser eliminadas.
 
