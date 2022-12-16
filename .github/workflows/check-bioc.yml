@@ -293,6 +293,5 @@ jobs:
         if: github.ref == 'refs/heads/main' && github.event_name == 'push' && runner.os == 'Linux'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
           branch: gh-pages
           folder: _site
