@@ -6,7 +6,7 @@ title: "`r emo::ji('Germany')` Projektweite Erklärung zum Verhaltenskodex von B
 
 # Verhaltenskodex
 
-## Version 1.0.2 (27. July, 2021)
+## Version 1.2.0 (25. November, 2022)
 
 _Erster projektweiter Verhaltenskodex, erweitert von vorherigen konferenzspezifischen Dokumenten_
 
@@ -23,7 +23,7 @@ Im Einklang mit diesen Werten ist Bioconductor dazu bestrebt, eine einladende, u
 * Identität: Geschlecht, Geschlechtsidentität und Ausdruck der Geschlechtlichkeit, sexuelle Orientierung, Erscheinungsbild, Ethnizität, Körpergröße, Rasse, Alter, Religion, Sprache usw.
 * intellektueller Position: Herangehensweisen an Datenanalyse, Softwarepräferenzen, Programmierstil, wissenschaftliche Sichtweise, Karrierestadium usw. 
 
-Mit der Teilnahme an dieser Gemeinschaft stimmen Sie zu, sich an keinen durch Bioconductor geförderten Veranstaltungen (in Person oder virtuell, einschließlich von, jedoch nicht beschränkt auf, Vorträge, Workshops, Postersessions, soziale Aktivitäten) oder elektronischen Kommunikationskanälen (einschließlich von, jedoch nicht beschränkt auf, \"community-bioc\" Slack, die Supportseite, Onlineforen und Social Media Kommunikation) entgegen diesen Werte zu verhalten.
+Mit der Teilnahme an dieser Gemeinschaft stimmen Sie zu, sich an keinen durch Bioconductor geförderten Veranstaltungen (in Person oder virtuell, einschließlich von, jedoch nicht beschränkt auf, Vorträge, Workshops, Postersessions, soziale Aktivitäten), elektronischen Kommunikationskanälen (einschließlich von, jedoch nicht beschränkt auf, \"community-bioc\" Slack, die Supportseite, Onlineforen, die Bewertungsseite von Softwarepaketen, und Social Media Kommunikation) oder Softwarepaketen (inclusive *commits*) entgegen diesen Werte zu verhalten.
 
 Wir tolerieren keine Belästigung, Einschüchterung oder Mobbing von Mitgliedern der Gemeinschaft. Sexuelle Sprache und Symbolik sind in Präsentationen, Kommunikation oder Onlineplattformen, (inklusive Chats) unangebracht.
 
@@ -79,19 +79,28 @@ Unser Team hilft Ihnen gerne dabei, die passende Unterstützung zu erhalten (z.B
 
 Wir schätzen Ihre Teilnahme an und Mitwirkung bei Bioconductor-Veranstaltungen und in unserer Gemeinschaft.
 
+#### _Ombudsperson_
+
+Wir verstehen, dass sie sich gegebenenfalls eine Person wünschen, die nicht im Zusammenhang mit Bioconductor steht, um die Konfliktlösung zu überschauen. Um dies zu erleichern wird der Verhaltenskodex-Ausschuss eine Ombudsperson ernennen, die einer anderen Open-Source-Gemeinschaft als Bioconductor angehört. Obwohl diese nicht befugt ist, Entscheidungen des Verhaltenskodex-Ausschuss zu treffen, ändern oder verwerfen, kann sie Gemeinschaftsmitgliedern durch das Anbieten von Beratung, Vermittlung, Coaching oder Vermittlung an andere Resourcen unterstützen. Die Ombudsperson kann direkt per E-Mail kontaktiert werden (siehe unten), um einen vertraulichen, unparteiischen, informellen und unabhängigen Process zu gewährleisten.
+
+#### _Vorfallsverfahren_
+
+Der Verhaltenskodex-Ausschuss folgt einem standardmäßigen Verfahren, um mit Konflikten umzugehen. Dieses Verfahren ist in Kürze [hier](https://bioconductor.github.io/CodeOfConduct/incident_response.html) zusammengefasst. Vorfallsverfahren sind auf dem Buch "How to Respond to Code of Conduct Reports" on Valerie Aurora and Mary Gardiner basiert.
+
 ### Verhaltenskodex-Ausschuss
 
-* (Chair) Saskia Freytag <sas.freytag@gmail.com> (until 2023)
-* Yagoub Adam <yagoub@alumni.usp.br> (until 2022)
-* Leonardo Collado-Torres <lcolladotor@gmail.com> (until 2022)
-* Laurent Gatto <laurent.gatto@gmail.com> (until 2023)
-* Michael Love <michaelisaiahlove@gmail.com> (until 2024)
-* Federico Marini <fede.maro@gmail.com> (until 2024)
-* Sowmya Parthiban <sowmyaparthiban@gmail.com> (until 2024)
-* Anna Quaglieri <anna.quaglieri16@gmail.com> (until 2024)
-* Johannes Rainer <johannes.rainer@eurac.edu> (until 2023)
-* Lluís Revilla <lluis.revilla@gmail.com> (until 2024)
-* Charlotte Soneson <charlottesoneson@gmail.com> (until 2023)
+* (Chair) Saskia Freytag sas.freytag@gmail.com (until 2023) she/her [EN, DE]
+* Laurent Gatto laurent.gatto@gmail.com (until 2023) he/him [FR, EN] (TAB, European Bioconductor Society)
+* Martín Dávila-Cervantes aldntmi@gmail.com (until 2025) he/him [EN, FR, ES] 
+* Federica Gazzelloni fede.gazzelloni@gmail.com (until 2025) she/her [IT, EN]
+* Gerry Tonkin-Hill g.tonkinhill@gmail.com (until 2025) he/him [EN] 
+* Michael Love michaelisaiahlove@gmail.com (until 2024) he/him [EN] (TAB)
+* Federico Marini fede.maro@gmail.com (until 2024) he/him [EN, IT, DE]
+* Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024) she/her [EN, Tamil]
+* Shixiang Wang wangshx@shanghaitech.edu.cn (until 2025) he/him [CN, EN]
+* Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
+* Lluís Revilla lluis.revilla@gmail.com (until 2024) he/him [CAT, ES, EN]
+* Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) he/him [FR, EN] (CAB)
+* (Ombusdperson) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES, EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
-
