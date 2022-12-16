@@ -24,7 +24,7 @@ In line with these values, Bioconductor is dedicated to providing a welcoming, s
 * identity: gender, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, body size, race, age, religion, language, etc.
 * intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, stage of career, etc.
 
-By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), electronic communication channels (including but not limited to community-bioc Slack, the support site, online forums, package review site, and social media communications), or packages (including commits). Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums. Accounts that do not adhere to this after request to de-anonymise may be deleted.
+By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), electronic communication channels (including but not limited to community-bioc [Slack](https://slack.bioconductor.org/), the support site, online forums, package review site, and social media communications), or packages (including commits). Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums. Accounts that do not adhere to this after request to de-anonymise may be deleted.
 
 We do not tolerate harassment, intimidation, or bullying of community members. Sexual language and imagery are not appropriate in presentations, communications or in online venues, including chats.
 
@@ -80,15 +80,12 @@ We value your attendance and participation at Bioconductor events and in our com
 
 #### _Ombudsperson_
 
-We understand that you may want a person unrelated to Bioconductor overseeing your conflict resolution. To facilitate this, the Code of Conduct Committee will appoint an ombudsperson from a different open source community than members of the Bioconductor project. While they do not have power to establish, change or set aside decisions made by the Code of Conduct Committee, they can assist community members by offering consultation, mediation, coaching and referrals to other 
-resources. The ombudsperson can be contacted directly via email (see below) to
-ensure a confidential, impartial, informal and independent process. 
+We understand that you may want a person unrelated to Bioconductor overseeing your conflict resolution. To facilitate this, the Code of Conduct Committee will appoint an ombudsperson from a different open source community than members of the Bioconductor project. While they do not have power to establish, change or set aside decisions made by the Code of Conduct Committee, they can assist community members by offering consultation, mediation, coaching and referrals to other resources. The ombudsperson can be contacted directly via email (see below) to ensure a confidential, impartial, informal and independent process. 
 
 #### _Incident procedure_
 
 The Code of Conduct Committee follows a standard procedure to deal with conflicts. 
-This procedure is briefly summarized [here](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Incident procedures are based on the book "How to Respond to Code of Conduct Reports" 
-by Valerie Aurora and Mary Gardiner.
+This procedure is briefly summarized [here](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Incident procedures are based on the book "How to Respond to Code of Conduct Reports" by Valerie Aurora and Mary Gardiner.
 
 
 ### Code of Conduct Committee 
