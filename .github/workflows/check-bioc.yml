@@ -285,14 +285,14 @@ jobs:
 
       # deploy needs rsync? Seems so.
       - name: Install deploy dependencies
-        if: github.ref == 'refs/heads/main' && github.event_name == 'push' && runner.os == 'Linux'
+        #if: github.ref == 'refs/heads/main' && github.event_name == 'push' && runner.os == 'Linux'
         run: |
           apt-get update && apt-get -y install rsync
 
       - name: Deploy 🚀
-        if: github.ref == 'refs/heads/main' && github.event_name == 'push' && runner.os == 'Linux'
+        #if: github.ref == 'refs/heads/main' && github.event_name == 'push' && runner.os == 'Linux'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
+          #token: ${{ secrets.ACCESS_TOKEN }}
           branch: gh-pages
           folder: _site
