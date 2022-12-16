@@ -8,6 +8,8 @@ navbar:
       menu:
       - text: "Chinese, China"
         href: zh-CN.html
+      - text: "Dutch; Belgium, The Netherlands"
+        href: nl-BE.html
       - text: "English, United States"
         href: en-US.html
       - text: "French, France"
@@ -30,6 +32,9 @@ navbar:
       href: contribute.html
     - text: "About"
       href: about.html
+  right:
+    - text: "Bioconductor.org"
+      href: http://bioconductor.org/
 # for output, see https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html#a-simple-example
 output:
   html_document:

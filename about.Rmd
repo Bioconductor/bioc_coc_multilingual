@@ -8,32 +8,38 @@ This website provides community-contributed translations of the project-wide Cod
 
 #### `r emo::ji("China")` Chinese, China
 
-- [Xueyi Dong](https://github.com/XueyiDong)
+- **Maintainer:** [Xueyi Dong](https://github.com/XueyiDong)
+
+#### `r paste(emo::ji('Belgium'), emo::ji('Netherlands'))` Dutch; Belgium, The Netherlands
+
+- **Maintainer:** [Milan Malfait](https://github.com/milanmlft)
 
 #### `r emo::ji("United_States")` English, United States
 
 - [BioC 2020 Organizing committee](https://bioc2020.bioconductor.org/organizers)
 - **Maintainer:** [Bioconductor Code of Conduct Committee](https://www.bioconductor.org/about/code-of-conduct/)
 
-#### `r emo::ji("France")` Français, France
+#### `r emo::ji("France")` French, France
 
 - **Maintainer:** [Kevin Rue-Albrecht](https://github.com/kevinrue)
 
 #### `r emo::ji("Germany")` German, Germany
 
-n/a
+- **Maintainer:** [Helena L. Crowell](https://github.com/HelenaLC)
+- [Lukas M. Weber](https://github.com/lmweber)
 
 #### `r emo::ji("India")` Hindi, India
 
 n/a
 
-#### `r emo::ji("Italy")` Italiano, Italia
+#### `r emo::ji("Italy")` Italian, Italia
 
-- [Dario Righelli](https://github.com/drighelli)
+- **Maintainer:** [Dario Righelli](https://github.com/drighelli)
+- [Davide Risso](https://github.com/drisso)
 
 #### `r emo::ji("Japan")` Japanese, Japan
 
-- [Kozo Nishida](https://github.com/kozo2)
+- **Maintainer:** [Kozo Nishida](https://github.com/kozo2)
 
 #### `r emo::ji("Brazil")` Portuguese, Brazil
 
@@ -41,11 +47,11 @@ n/a
 
 #### `r emo::ji("Russia")` Russian, Russian Federation
 
-- [Mikhail Dozmorov](https://github.com/mdozmorov)
+- **Maintainer:** [Mikhail Dozmorov](https://github.com/mdozmorov)
 
 #### `r emo::ji("Spain")` Spanish, Spain
 
-- [Robert Castelo](https://github.com/rcastelo)
+- **Maintainer:** [Robert Castelo](https://github.com/rcastelo)
 - [Lluís Revilla](https://github.com/llrs)
 - [Mireia Ramos-Rodríguez](https://github.com/mireia-bioinfo)
 - [Estefania Mancini](https://github.com/estepi)
