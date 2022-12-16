@@ -6,7 +6,7 @@ title: "`r emo::ji('Spain')` Declaración del Código de Conducta del Proyecto B
 
 # Código de Conducta
 
-## Versión 1.0.2 (27 de julio del 2021)
+## Versión 1.2.0 (25 de noviembre del 2022)
 
 _Código de Conducta inicial del proyecto, ampliado a partir de documentos previos elaborados específicamente para conferencias_
 
@@ -23,7 +23,7 @@ En línea con estos valores, el proyecto Bioconductor tiene por objetivo proporc
 * la identidad: género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, etnia, complexión física, raza, edad, religión, idioma, etc.
 * la posición intelectual: aproximaciones al análisis de datos, preferencias de software, estilo de programación, perspectiva científica, etapa profesional, etc.
 
-La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento (en persona o virtual, incluyendo pero no limitado a charlas, talleres, sesiones de póster, actividades sociales) o canal de comunicación electrónico (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online, la revisión de paquetes y comunicaciones en medios sociales) auspiciado por Bioconductor.
+La participación en esta comunidad implica el compromiso de no tomar parte en comportamientos contrarios a estos valores en ningún evento (en persona o virtual, incluyendo pero no limitado a charlas, talleres, sesiones de póster, actividades sociales), canales de comunicación electrónicos (incluyendo pero no limitado al Slack comunity-bioc, el sitio web de soporte al usuario, foros online, la revisión de paquetes y comunicaciones en medios sociales) o paquetes de software (incluyendo los cambios guardados) auspiciados por Bioconductor.
 Además, requerimos a todos los participantes utilizar cuentas identificables en los foros online de Bioconductor. 
 Las cuentas que no se adhieran a este requisito después de una solicitud para desanonimizarlas pueden ser eliminadas.
 
@@ -57,7 +57,7 @@ La intimidación y el abuso incluyen, pero no están limitados a:
 
 Se espera que cualquier persona a quien se le pida cesar un comportamiento intimidatorio o de acoso lo cumpla inmediatamente.
 
-Si una persona, o personas, contravienen el Código de Conducta, el Comité del Código de Conducta se reserva el derecho a actuar de la forma que asegure un entorno acogedor para todos los miembros de la comunidad.
+Si una persona contraviene el Código de Conducta, el Comité del Código de Conducta se reserva el derecho a actuar de la forma que asegure un entorno acogedor para todos los miembros de la comunidad.
 Esto incluye advertir o expulsar al presunto infractor, temporal o permanentemente, del evento y/o plataformas electrónicas bajo el control de Bioconductor.
 
 El comité del Código de Conducta puede tomar decisiones para remediar cualquier situación diseñada para,
@@ -97,18 +97,31 @@ Nuestro equipo estará encantado de ayudarte a encontrar el apoyo oportuno (por 
 
 Apreciamos tu asistencia y participación en eventos de Bioconductor y en nuestra comunidad.
 
+#### _Mediador_
+
+Entendemos que puedas preferir que la persona que supervisa la resolución de tu conflicto no esté relacionada con Bioconductor. Para facilitarlo, el Comité del Código de Conducta nombrarà un mediador, o mediadora, de otra comunidad de código abierto y distinta de los miembros del proyecto Bioconductor. Si bien el mediador no tiene la capacidad para establecer, cambiar or descartar las decisiones alcanzadas por el Comité del Código de Conducta, puede asistir los miembros de la comunidad ofreciendo consejo, mediación, orientación y referencias a otros recursos. El mediador puede ser contactado directamente por email (ver más abajo) para asegurar un proceso confidencial, imparcial, informal e independiente.
+
+#### _Procedimiento de incidente_
+
+El Comité del Código de Conducta sigue un procedimiento estándard para tratar conflictos.
+Este procedimiento está resumido brevemente
+[aquí](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Los procedimientos
+de incidentes están basados en el libro "How to respond to Code of Conduct Reports" de Valerie Aurora y Mary Gardiner.
+
 ### Comité del Código de Conducta
 
-* (Chair) Saskia Freytag <sas.freytag@gmail.com> (hasta 2023)
-* Yagoub Adam <yagoub@alumni.usp.br> (hasta 2022)
-* Leonardo Collado-Torres <lcolladotor@gmail.com> (hasta 2022)
-* Laurent Gatto <laurent.gatto@gmail.com> (hasta 2023)
-* Michael Love <michaelisaiahlove@gmail.com> (hasta 2024)
-* Federico Marini <fede.maro@gmail.com> (hasta 2024)
-* Sowmya Parthiban <sowmyaparthiban@gmail.com> (hasta 2024)
-* Anna Quaglieri <anna.quaglieri16@gmail.com> (hasta 2024)
-* Johannes Rainer <johannes.rainer@eurac.edu> (hasta 2023)
-* Lluís Revilla <lluis.revilla@gmail.com> (hasta 2024)
-* Charlotte Soneson <charlottesoneson@gmail.com> (hasta 2023)
+* (Chair) Saskia Freytag <sas.freytag@gmail.com> (hasta 2023) ella [EN, DE]
+* Laurent Gatto <laurent.gatto@gmail.com> (hasta 2023) él [FR, EN] (TAB, European Bioconductor Society)
+* Martín Dávila-Cervantes aldntmi@gmail.com (until 2025) él [EN, FR, ES]
+* Federica Gazzelloni fede.gazzelloni@gmail.com (until 2025) ella [IT,EN]
+* Gerry Tonkin-Hill g.tonkinhill@gmail.com (until 2025) él [EN]
+* Michael Love <michaelisaiahlove@gmail.com> (hasta 2024) él [EN] (TAB)
+* Federico Marini <fede.maro@gmail.com> (hasta 2024) él [EN, IT, DE]
+* Sowmya Parthiban <sowmyaparthiban@gmail.com> (hasta 2024) ella [EN, Tamil]
+* Shixiang Wang wangshx@shanghaitech.edu.cn (until 2025) él [CN,EN]
+* Anna Quaglieri <anna.quaglieri16@gmail.com> (hasta 2024) ella [EN, IT]
+* Lluís Revilla <lluis.revilla@gmail.com> (hasta 2024) él [CA, ES, EN]
+* Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) él [FR, EN] (CAB)
+* (Mediadora) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) ella [ES,EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
