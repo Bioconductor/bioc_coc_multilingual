@@ -6,7 +6,7 @@ title: "`r paste(emo::ji('Belgium'), emo::ji('Netherlands'))` Projectbrede Gedra
 
 # Gedragscode
 
-## Versie 1.1.0 (16 juli, 2022)
+## Versie 1.2.0 (25 november, 2022)
 
 _Initiële gedragscode, uitbreiding van voorgaande congres-specifieke documenten_
 
@@ -24,7 +24,7 @@ In lijn met deze waarden zet Bioconductor zich in om een gastvrije, ondersteunen
 * identiteit: geslacht, genderidentiteit en -expressie, seksuele geaardheid, handicap, uiterlijk, etniciteit, lichaamsgrootte, ras, leeftijd, religie, taal, enz.
 * intellectuele positie: benaderingen van data-analyse, software-voorkeuren, codeerstijl, wetenschappelijk perspectief, loopbaanfase, enz.
 
-Door deel te nemen aan deze community, stemt u ermee in zich niet in te laten met gedrag dat in strijd is met deze waarden tijdens een door Bioconductor gesponsord evenement (persoonlijk of virtueel, inclusief maar niet beperkt tot lezingen, workshops, postersessies, sociale activiteiten) of elektronische communicatiekanalen ( inclusief maar niet beperkt tot de "community-bioc" Slack, de ondersteuningssite, online forums, de beoordelingssite voor packages en communicatie via sociale media). Verder eisen we dat alle deelnemers identificeerbare accounts hebben op de online fora van Bioconductor. Accounts die zich hier niet aan houden na verzoek tot de-anonimisering kunnen worden verwijderd.
+Door deel te nemen aan deze community, stemt u ermee in zich niet in te laten met gedrag dat in strijd is met deze waarden tijdens een door Bioconductor gesponsord evenement (persoonlijk of virtueel, inclusief maar niet beperkt tot lezingen, workshops, postersessies, sociale activiteiten), elektronische communicatiekanalen ( inclusief maar niet beperkt tot de "community-bioc" [Slack](https://slack.bioconductor.org), de ondersteuningssite, online forums, de beoordelingssite voor packages en communicatie via sociale media), of packages (commits inbegrepen). Verder eisen we dat alle deelnemers identificeerbare accounts hebben op de online fora van Bioconductor. Accounts die zich hier niet aan houden na verzoek tot de-anonimisering kunnen worden verwijderd.
 
 We tolereren geen intimidatie of pesterijen van leden van de gemeenschap. Seksuele taal en beelden zijn niet gepast in presentaties, communicatie of op online locaties, inclusief chats.
 
@@ -81,7 +81,7 @@ We waarderen uw aanwezigheid en deelname aan Bioconductor-evenementen en in onze
 
 #### _Ombudspersoon_
 
-We begrijpen dat u misschien wilt dat een persoon die geen familie is van Bioconductor toezicht houdt op uw conflictoplossing. Om dit te faciliteren zal de Gedragscodecommissie een ombudspersoon aanstellen uit een andere open source community dan leden van het Bioconductor-project. Hoewel ze niet de bevoegdheid hebben om besluiten van de Gedragscodecommissie vast te stellen, te wijzigen of opzij te zetten, kunnen ze leden van de gemeenschap helpen door advies, bemiddeling, coaching en doorverwijzing naar andere
+We begrijpen dat u misschien wilt dat een persoon die geen relatie heeft met Bioconductor toezicht houdt op uw conflictoplossing. Om dit te faciliteren zal de Gedragscodecommissie een ombudspersoon aanstellen uit een andere open source community dan leden van het Bioconductor-project. Hoewel ze niet de bevoegdheid hebben om besluiten van de Gedragscodecommissie vast te stellen, te wijzigen of opzij te zetten, kunnen ze leden van de gemeenschap helpen door advies, bemiddeling, coaching en doorverwijzing naar andere
 bronnen. De ombudspersoon is rechtstreeks bereikbaar via e-mail (zie hieronder) om te
 zorgen voor een vertrouwelijk, onpartijdig, informeel en onafhankelijk proces.
 
@@ -89,22 +89,22 @@ zorgen voor een vertrouwelijk, onpartijdig, informeel en onafhankelijk proces.
 
 De Gedragscodecommissie volgt een standaardprocedure voor het omgaan met conflicten.
 Deze procedure wordt [hier](https://bioconductor.github.io/CodeOfConduct/incident_response.html) kort samengevat.
+Deze procedure is gebaseerd op het boek "How to Respond to Code of Conduct Reports" van Valerie Aurora en Mary Gardiner.
 
 
 ### Gedragscodecommissie
 
 * (Voorzitter) Saskia Freytag sas.freytag@gmail.com (tot 2023) zij/haar [EN, DE]
-* Yagoub Adam yagoub@alumni.usp.br (tot 2022) hij/hem [EN] (CAB)
-* Leonardo Collado-Torres lcolladotor@gmail.com (tot 2022) hij/hem [EN, ES]
 * Laurent Gatto laurent.gatto@gmail.com (tot 2023) hij/hem [FR, EN] (TAB, European Bioconductor Society)
+* Martín Dávila-Cervantes aldntmi@gmail.com (tot 2025) hij/hem [EN, FR, ES] 
+* Federica Gazzelloni fede.gazzelloni@gmail.com (tot 2025) zij/haar [IT,EN]
+* Gerry Tonkin-Hill g.tonkinhill@gmail.com (tot 2025) hij/hem [EN] 
 * Michael Love michaelisaiahlove@gmail.com (tot 2024) hij/hem [EN] (TAB)
 * Federico Marini fede.maro@gmail.com (tot 2024) hij/hem [EN, IT, DE]
 * Sowmya Parthiban sowmyaparthiban@gmail.com (tot 2024) zij/haar [EN, Tamil]
 * Anna Quaglieri anna.quaglieri16@gmail.com (tot 2024) zij/haar [EN, IT]
-* Johannes Rainer johannes.rainer@eurac.edu (tot 2023) hij/hem [EN, DE, IT] (CAB, European Bioconductor Society)
 * Lluís Revilla lluis.revilla@gmail.com (tot 2024) hij/hem [CAT, ES, EN]
 * Kevin Rue-Albrecht kevinrue67@gmail.com (tot 2024) hij/hem [FR, EN] (CAB)
-* Charlotte Soneson charlottesoneson@gmail.com (tot 2023) zij/haar [EN, SE] (TAB, European Bioconductor Society)
-* (Ombusdpersoon) Beatriz Serrano-Solano beatrizserrano.galaxy@gmail.com (Galaxy-project) zij/haar [ES,EN]
+* (Ombudspersoon) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy-project) zij/haar [ES,EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
