@@ -6,7 +6,7 @@ title: "`r emo::ji('France')` Code de bonne conduite applicable à l'intégralit
 
 # Code de bonne conduite
 
-**Version 1.0.2 (25 November 2022)**
+**Version 1.2.0 (25 November 2022)**
 
 _Version initiale du Code de Bonne Conduite applicable à l’intégralité du projet Bioconductor, étendu sur la base de documents rédigés spécifiquement pour des conférences antérieures_
 
