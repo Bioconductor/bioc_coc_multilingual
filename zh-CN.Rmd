@@ -107,8 +107,8 @@ Bioconductor 社区重视以开放的科学方法促进
 
 ### 行为准则委员会
 
-* （主席）Saskia Freytag <sas.freytag@gmail.com>（至2023年）
-* Laurent Gatto <laurent.gatto@gmail.com>（至2023年）
+* （主席）Saskia Freytag sas.freytag@gmail.com（至2023年）
+* Laurent Gatto laurent.gatto@gmail.com（至2023年）
 * Martín Dávila-Cervantes aldntmi@gmail.com（至2025年）
 * Federica Gazzelloni fede.gazzelloni@gmail.com（至2025年）
 * Gerry Tonkin-Hill g.tonkinhill@gmail.com（至2025年）
