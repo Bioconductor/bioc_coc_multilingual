@@ -10,6 +10,10 @@ This website provides community-contributed translations of the project-wide Cod
 
 - **Maintainer:** [Xueyi Dong](https://github.com/XueyiDong)
 
+#### `r emo::ji("China")` Chinese, China
+
+- **Maintainer:** [Shixiang Wang](https://github.com/ShixiangWang)
+
 #### `r paste(emo::ji('Belgium'), emo::ji('Netherlands'))` Dutch; Belgium, The Netherlands
 
 - **Maintainer:** [Milan Malfait](https://github.com/milanmlft)
