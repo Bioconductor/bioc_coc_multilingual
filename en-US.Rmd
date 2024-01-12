@@ -6,12 +6,11 @@ title: "`r emo::ji('United_States')` Project-wide Code of Conduct statement for 
 
 # Code of Conduct
 
-## Version 1.3.0 (9th January, 2024)
+## Version 1.3.0 (12th January, 2024)
 
 _Initial project-wide Code of Conduct, expanded from previous conference-specific documents_
 
-The Bioconductor community values
-an open approach to science that promotes 
+The Bioconductor community values an open approach to science that promotes 
 
 * sharing of ideas, code, software and expertise
 * collaboration
@@ -24,11 +23,16 @@ In line with these values, Bioconductor is dedicated to providing a welcoming, s
 * identity: gender, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, body size, race, age, religion, language, etc.
 * intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, stage of career, etc.
 
-By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), electronic communication channels (including but not limited to community-bioc [Slack](https://slack.bioconductor.org/), the support site, online forums, package review site, and social media communications), or packages (including commits). Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums. Accounts that do not adhere to this after request to de-anonymise may be deleted.
+By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), electronic communication channels (including but not limited to community-bioc [Slack](https://slack.bioconductor.org/), the support site, online forums, package review site, and social media communications), or packages (including commits).
+Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums.
+Accounts that do not adhere to this after request to de-anonymise may be deleted.
 
 We do not tolerate harassment, intimidation, or bullying of community members. Sexual language and imagery are not appropriate in presentations, communications or in online venues, including chats.
 
 Any person/s violating the Code of Conduct may be sanctioned or expelled temporarily or permanently from an electronic platform or event at the discretion of the Code of Conduct committee.
+
+The Bioconductor community is committed to ethical partnerships and avoiding partnerships with entities whose practices are inconsistent with Bioconductor values.
+We encourage community members to report or raise concerns about partnerships they deem unethical to the Code of Conduct committee via the reporting form.
 
 #### _Examples of unacceptable harassment, intimidation, and bullying behavior_
 
@@ -51,6 +55,7 @@ Intimidation and bullying include, but are not limited to:
 * Sustained off-topic posts
 
 ## Enforcement
+
 Anyone asked to stop harassing or intimidating behavior are expected to comply immediately.
 
 If a person contravene the Code of Conduct, the Code of Conduct committee retains the right to take any action that ensures a welcoming environment for all community members. This includes warning the alleged offender or temporary/permanent expulsion from the event and/or electronic platforms under Bioconductor’s control.
@@ -60,6 +65,7 @@ The Code of Conduct committee may take action to redress anything designed to, o
 We expect everyone in the Bioconductor community to comply with the Code of Conduct when participating in Bioconductor events and online communication platforms.
 
 ## Reporting
+
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. You can make a report either anonymously or personally. All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
 
 #### _Electronically_
