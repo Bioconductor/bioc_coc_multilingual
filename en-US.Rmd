@@ -27,7 +27,8 @@ By participating in this community, you agree not to engage in behavior contrary
 Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums.
 Accounts that do not adhere to this after request to de-anonymise may be deleted.
 
-We do not tolerate harassment, intimidation, or bullying of community members. Sexual language and imagery are not appropriate in presentations, communications or in online venues, including chats.
+We do not tolerate harassment, intimidation, or bullying of community members.
+Sexual language and imagery are not appropriate in presentations, communications or in online venues, including chats.
 
 Any person/s violating the Code of Conduct may be sanctioned or expelled temporarily or permanently from an electronic platform or event at the discretion of the Code of Conduct committee.
 
