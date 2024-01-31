@@ -30,7 +30,7 @@ To contribute new translations or updates, please read the
 
 |          Flag           | Language       | Version | Link               |
 | :---------------------: | :------------- | :-----: | :------------------|
-| `r emo::ji("China")` | Chinese, China | 1.2.0 | [zh-CN](zh-CN.html) |
+| `r emo::ji("China")` | Chinese, China | 1.3.0 | [zh-CN](zh-CN.html) |
 | `r paste(emo::ji('Belgium'), emo::ji('Netherlands'))` | Dutch; Belgium, The Netherlands | 1.1.0 | [nl-BE](nl-BE.html) |
 | `r emo::ji("United_States")` | **English, United States (original version)** | 1.3.0 | [en-US](en-US.html) |
 | `r emo::ji("France")` | French, France | 1.2.0 | [fr-FR](fr-FR.html) |
