@@ -6,13 +6,12 @@ title: "`r emo::ji('Italy')` Project-wide Codice di Comportamento per Bioconduct
 
 # Codice di Comportamento
 
-## Versione 1.2.0 (25 Novembre, 2022)
+## Versione 1.3.0 (12 Gennaio, 2024)
 
 _Codice di Comportamento iniziale, esteso dai precedenti documenti specificamente redatti per le conferenze precedenti._
 
 
-I valori della Comunità di Bioconductor comprendono
-un approccio aperto alla scienza che promuove
+I valori della Comunità di Bioconductor comprendono un approccio aperto alla scienza che promuove
 
 * la condivisione di idee, codice software ed esperienze
 * collaborazione
@@ -25,7 +24,7 @@ In linea con questi valori, Bioconductor si dedica a creare una comunità accogl
 * identità: genere, identità e espressione di genere, orientamento sessuale, disabilità, apparenza fisica, etnia, corporatura, età, religione, lingua, ecc.
 * opinioni intellettuali: approcci all'analisi dati, preferenze nella scelta di software, stile del codice, posizioni scientifiche, fase della carriera, ecc.
 
-Partecipando a questa comunità, acconsenti a non avere comportamenti contrari a questi valori ad ogni evento sponsorizzato da Bioconductor (in presenza o virtuale, inclusi, ma non limitatatamente a presentazioni, seminari, sessioni poster, attività sociali), canali di comunicazione elettronica (inclusi, ma non limitatamente al _workspace_ Slack \"community-bioc\", il sito di supporto, i forum online e le comunicazioni sui social media), o pacchetti (commit inclusi).
+Partecipando a questa comunità, acconsenti a non avere comportamenti contrari a questi valori ad ogni evento sponsorizzato da Bioconductor (in presenza o virtuale, inclusi, ma non limitatatamente a presentazioni, workshops, sessioni poster, attività sociali), canali di comunicazione elettronica (inclusi, ma non limitatamente al community-bioc [Slack] (https://slack.bioconductor.org/), il sito di supporto, i forum online, il sito per il referaggio dei pacchetti e le comunicazioni sui social media), o pacchetti (commit inclusi).
 
 Inoltre, richiediamo a tutti i partecipanti di avere account identificabili nei forum online di Bioconductor. Gli account che non aderiscono a ciò dopo la richiesta di de-anonimizzazione potranno essere cancellati. 
 
@@ -34,6 +33,8 @@ Linguaggio e immagini a sfondo sessuale non sono appropriate nelle presentazioni
 
 Chiunque violi il Codice di Comportamento può essere sanzionato o espulso temporaneamente o permanentemente dalla piattaforma elettronica o da un evento a discrezione della Commissione del Codice di Comportamento.
 
+La comunità di Bioconductor è impegnata a collaborazioni etiche e ad evitare collaborazioni con entità i cui comportamenti sono inconsistenti con i valori di Bioconductor.
+Incoraggiamo i membri della comunità a riportare o a sollevare preoccupazioni che ritengono non etiche alla commissione del Codice di Comportamento tramite il modulo di segnalazione.
 
 #### _Esempi inaccettabili di comportamento denigratorio, molesto, intimidatorio, e bullismo_
 
@@ -107,18 +108,19 @@ Questa procedura è spigata brevemente [qui](https://bioconductor.github.io/Code
 
 ###  Commissione del Codice di Comportamento
 
-* (Presidente) Saskia Freytag sas.freytag@gmail.com (until 2023) she/her [EN, DE]
-* Laurent Gatto laurent.gatto@gmail.com (until 2023) he/him [FR, EN] (TAB, European Bioconductor Society)
+* (Co-Presidente) Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
+* (Co-Presidente) Gerry Tonkin-Hill g.tonkinhill@gmail.com (until 2025) he/him [EN]
 * Martín Dávila-Cervantes aldntmi@gmail.com (until 2025) he/him [EN, FR, ES] 
 * Federica Gazzelloni fede.gazzelloni@gmail.com (until 2025) she/her [IT,EN]
-* Gerry Tonkin-Hill g.tonkinhill@gmail.com (until 2025) he/him [EN] 
 * Michael Love michaelisaiahlove@gmail.com (until 2024) he/him [EN] (TAB)
 * Federico Marini fede.maro@gmail.com (until 2024) he/him [EN, IT, DE]
 * Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024) she/her [EN, Tamil]
-* Shixiang Wang wangshx@shanghaitech.edu.cn (until 2025) he/him [CN,EN]
-* Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
+* Shixiang Wang wangshx@shanghaitech.edu.cn (until 2025) he/him [CN, EN]
 * Lluís Revilla lluis.revilla@gmail.com (until 2024) he/him [CAT, ES, EN]
 * Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) he/him [FR, EN] (CAB)
+* Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (until 2025) she/her [EN, Akan]
+* Peace Sandy peacesandy04@gmail.com she/her (until 2025) [EN]
+* Sinmisoluwa Adesanya adesanyasinmisoluwa@gmail.com she/her (until 2025) [EN, Yoruba]
 * (Mediatrice) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES,EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
