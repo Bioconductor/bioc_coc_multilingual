@@ -1,19 +1,18 @@
 ---
-title: "`r paste(emo::ji('Belgium'), emo::ji('Netherlands'))` Projectbrede Gedragscode voor het Bioconductor project (Nederlands; België/Nederland)"
+title: "`r paste(emo::ji('Belgium'), emo::ji('Netherlands'))` Gedragscode voor het Bioconductor project (Nederlands; België/Nederland)"
 ---
 
 (Aangepast van de [Gedragscode voor het BioC 2020 congres][1], vertaald uit het [Engels](en-US.html)).
 
 # Gedragscode
 
-## Versie 1.2.0 (25 november, 2022)
+## Versie 1.3.0 (12 januari, 2024)
 
 _Initiële gedragscode, uitbreiding van voorgaande congres-specifieke documenten_
 
-De Bioconductor gemeenschapswaarden
-een open benadering van wetenschap die bevordert
+De Bioconductor gemeenschap waardeert een open benadering tot wetenschap die de volgende waarden nastreeft:
 
-* delen van ideeën, code, software en expertise
+* het delen van ideeën, code, software en expertise
 * samenwerking
 * diversiteit en inclusiviteit
 * een vriendelijke en gastvrije omgeving
@@ -24,11 +23,16 @@ In lijn met deze waarden zet Bioconductor zich in om een gastvrije, ondersteunen
 * identiteit: geslacht, genderidentiteit en -expressie, seksuele geaardheid, handicap, uiterlijk, etniciteit, lichaamsgrootte, ras, leeftijd, religie, taal, enz.
 * intellectuele positie: benaderingen van data-analyse, software-voorkeuren, codeerstijl, wetenschappelijk perspectief, loopbaanfase, enz.
 
-Door deel te nemen aan deze community, stemt u ermee in zich niet in te laten met gedrag dat in strijd is met deze waarden tijdens een door Bioconductor gesponsord evenement (persoonlijk of virtueel, inclusief maar niet beperkt tot lezingen, workshops, postersessies, sociale activiteiten), elektronische communicatiekanalen ( inclusief maar niet beperkt tot de "community-bioc" [Slack](https://slack.bioconductor.org), de ondersteuningssite, online forums, de beoordelingssite voor packages en communicatie via sociale media), of packages (commits inbegrepen). Verder eisen we dat alle deelnemers identificeerbare accounts hebben op de online fora van Bioconductor. Accounts die zich hier niet aan houden na verzoek tot de-anonimisering kunnen worden verwijderd.
+Door deel te nemen aan deze gemeenschap stemt u ermee in zich niet in te laten met gedrag dat in strijd is met deze waarden tijdens een door Bioconductor gesponsord evenement (persoonlijk of virtueel, inclusief maar niet beperkt tot lezingen, workshops, postersessies, sociale activiteiten), elektronische communicatiekanalen ( inclusief maar niet beperkt tot de "community-bioc" [Slack](https://slack.bioconductor.org), de ondersteuningssite, online forums, de beoordelingssite voor packages en communicatie via sociale media), of packages (commits inbegrepen). 
+
+Verder eisen we dat alle deelnemers identificeerbare accounts hebben op de online fora van Bioconductor. Accounts die zich hier niet aan houden na verzoek tot de-anonimisering kunnen worden verwijderd.
 
 We tolereren geen intimidatie of pesterijen van leden van de gemeenschap. Seksuele taal en beelden zijn niet gepast in presentaties, communicatie of op online locaties, inclusief chats.
 
 Elke persoon/personen die de Gedragscode overtreedt, kan naar goeddunken van de Gedragscodecommissie worden bestraft of tijdelijk of permanent worden verwijderd van een elektronisch platform of evenement.
+
+De Bioconductor gemeenschap zet zich in voor ethische partnerschappen en vermijdt partnerschappen met entiteiten waarvan de praktijken niet in overeenstemming zijn met de waarden van Bioconductor.
+Wij moedigen leden van de gemeenschap aan om hun zorgen over partnerschappen die zij onethisch achten te melden bij de gedragscodecommissie via het meldingsformulier.
 
 #### _Voorbeelden van onaanvaardbare intimidatie en pestgedrag_
 
@@ -61,6 +65,7 @@ De gedragscodecommissie kan actie ondernemen om alles dat is ontworpen om, of me
 We verwachten dat iedereen in de Bioconductor-gemeenschap de Gedragscode naleeft bij deelname aan Bioconductor-evenementen en online communicatieplatforms.
 
 ## Aangifte
+
 Als iemand u of iemand anders een onveilig of onwelkom gevoel geeft, meld dit dan zo snel mogelijk. U kunt zowel anoniem als persoonlijk een melding doen. Alle meldingen worden beoordeeld door de Gedragscodecommissie en vertrouwelijk behandeld.
 
 #### _Elektronisch_
@@ -91,11 +96,10 @@ De Gedragscodecommissie volgt een standaardprocedure voor het omgaan met conflic
 Deze procedure wordt [hier](https://bioconductor.github.io/CodeOfConduct/incident_response.html) kort samengevat.
 Deze procedure is gebaseerd op het boek "How to Respond to Code of Conduct Reports" van Valerie Aurora en Mary Gardiner.
 
-
 ### Gedragscodecommissie
 
-* (Voorzitter) Saskia Freytag sas.freytag@gmail.com (tot 2023) zij/haar [EN, DE]
-* Laurent Gatto laurent.gatto@gmail.com (tot 2023) hij/hem [FR, EN] (TAB, European Bioconductor Society)
+* (Co-voorzitter) Anna Quaglieri anna.quaglieri16@gmail.com (tot 2024) zij/haar [EN, IT]
+* (Co-voorzitter) Gerry Tonkin-Hill g.tonkinhill@gmail.com (tot 2025) hij/hem [EN]
 * Martín Dávila-Cervantes aldntmi@gmail.com (tot 2025) hij/hem [EN, FR, ES] 
 * Federica Gazzelloni fede.gazzelloni@gmail.com (tot 2025) zij/haar [IT,EN]
 * Gerry Tonkin-Hill g.tonkinhill@gmail.com (tot 2025) hij/hem [EN] 
