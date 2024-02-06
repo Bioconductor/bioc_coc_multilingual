@@ -36,7 +36,7 @@ To contribute new translations or updates, please read the
 | `r emo::ji("France")` | French, France | 1.2.0 | [fr-FR](fr-FR.html) |
 | `r emo::ji("Germany")` | German, Germany | 1.2.0 | [de-DE](de-DE.html) |
 | `r emo::ji("India")` | Hindi, India | - | [hi-IN](hi-IN.html) |
-| `r emo::ji("Italy")` | Italian, Italy | 1.2.0 | [it-IT](it-IT.html) |
+| `r emo::ji("Italy")` | Italian, Italy | 1.3.0 | [it-IT](it-IT.html) |
 | `r emo::ji("Japan")` | Japanese, Japan | 1.0.2 | [jp-JP](jp-JP.html) |
 | `r emo::ji("Brazil")` | Portuguese, Brazil | 1.0.1 | [pt-BR](pt-BR.html) |
 | `r emo::ji("Russia")` | Russian, Russian Federation | 1.2.0 | [ru-RU](ru-RU.html) |
