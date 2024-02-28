@@ -6,7 +6,7 @@ title: "`r emo::ji('Germany')` Projektweite Erklärung zum Verhaltenskodex von B
 
 # Verhaltenskodex
 
-## Version 1.2.0 (25. November, 2022)
+## Version 1.3.0 (12. Januar, 2024)
 
 _Erster projektweiter Verhaltenskodex, erweitert von vorherigen konferenzspezifischen Dokumenten_
 
@@ -23,11 +23,15 @@ Im Einklang mit diesen Werten ist Bioconductor dazu bestrebt, eine einladende, u
 * Identität: Geschlecht, Geschlechtsidentität und Ausdruck der Geschlechtlichkeit, sexuelle Orientierung, Erscheinungsbild, Ethnizität, Körpergröße, Rasse, Alter, Religion, Sprache usw.
 * intellektueller Position: Herangehensweisen an Datenanalyse, Softwarepräferenzen, Programmierstil, wissenschaftliche Sichtweise, Karrierestadium usw. 
 
-Mit der Teilnahme an dieser Gemeinschaft stimmen Sie zu, sich an keinen durch Bioconductor geförderten Veranstaltungen (in Person oder virtuell, einschließlich von, jedoch nicht beschränkt auf, Vorträge, Workshops, Postersessions, soziale Aktivitäten), elektronischen Kommunikationskanälen (einschließlich von, jedoch nicht beschränkt auf, \"community-bioc\" Slack, die Supportseite, Onlineforen, die Bewertungsseite von Softwarepaketen, und Social Media Kommunikation) oder Softwarepaketen (inclusive *commits*) entgegen diesen Werte zu verhalten.
+Mit der Teilnahme an dieser Gemeinschaft stimmen Sie zu, sich an keinen durch Bioconductor geförderten Veranstaltungen (in Person oder virtuell, einschließlich von, jedoch nicht beschränkt auf, Vorträge, Workshops, Postersessions, soziale Aktivitäten), elektronischen Kommunikationskanälen (einschließlich von, jedoch nicht beschränkt auf, \"community-bioc\" Slack, die Supportseite, Onlineforen, die Bewertungsseite von Softwarepaketen, und Social Media Kommunikation) oder Softwarepaketen (inclusive *commits*) entgegen diesen Werte zu verhalten. 
+
+Des Weiteren verlangen von allen Teilnehmern, dass sie identifizierbare Accounts auf der Bioconductor Supportseite haben. Accounts, welche dieser Bitte nach Aufforderung zur Deanonymisierung nicht nachkommen, werden gelöscht. 
 
 Wir tolerieren keine Belästigung, Einschüchterung oder Mobbing von Mitgliedern der Gemeinschaft. Sexuelle Sprache und Symbolik sind in Präsentationen, Kommunikation oder Onlineplattformen, (inklusive Chats) unangebracht.
 
 Jede Person, die gegen den Verhaltenskodex verstößt, kann im Ermessen des Verhaltenskodex-Ausschusses bestraft oder vorübergehend oder dauerhaft von einer elektronischen Plattform oder Veranstaltung ausgeschlossen werden. 
+
+Die Bioconductor Gemeinschaft ist ethischen Partnerschaften verschrieben und meidet Partnerschaften mit Instanzen, deren Praktiken den Werten Bioconductors widersprüchlich sind. Wir regen Gemeinschaftsmitgliedern dazu an, Partnerschaften, die sie als unethisch erachten, dem Verhaltenskodex zu melden oder Bedenken über diese zu äußern.
 
 #### _Beispiele von inakzeptablen Verhaltens von Belästigung, Einschüchterung und Mobbing_
 
@@ -89,18 +93,19 @@ Der Verhaltenskodex-Ausschuss folgt einem standardmäßigen Verfahren, um mit Ko
 
 ### Verhaltenskodex-Ausschuss
 
-* (Chair) Saskia Freytag sas.freytag@gmail.com (until 2023) she/her [EN, DE]
-* Laurent Gatto laurent.gatto@gmail.com (until 2023) he/him [FR, EN] (TAB, European Bioconductor Society)
+* (Co-Chair) Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
+* (Co-Chair) Gerry Tonkin-Hill g.tonkinhill@gmail.com (until 2025) he/him [EN]
 * Martín Dávila-Cervantes aldntmi@gmail.com (until 2025) he/him [EN, FR, ES] 
 * Federica Gazzelloni fede.gazzelloni@gmail.com (until 2025) she/her [IT, EN]
-* Gerry Tonkin-Hill g.tonkinhill@gmail.com (until 2025) he/him [EN] 
 * Michael Love michaelisaiahlove@gmail.com (until 2024) he/him [EN] (TAB)
 * Federico Marini fede.maro@gmail.com (until 2024) he/him [EN, IT, DE]
 * Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024) she/her [EN, Tamil]
 * Shixiang Wang wangshx@shanghaitech.edu.cn (until 2025) he/him [CN, EN]
-* Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
 * Lluís Revilla lluis.revilla@gmail.com (until 2024) he/him [CAT, ES, EN]
 * Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) he/him [FR, EN] (CAB)
-* (Ombusdperson) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES, EN]
+* Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (until 2025) she/her [EN, Akan]
+* Peace Sandy peacesandy04@gmail.com she/her (until 2025) [EN]
+* Sinmisoluwa Adesanya adesanyasinmisoluwa@gmail.com she/her (until 2025) [EN, Yoruba]
+* (Ombudsperson) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES, EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
