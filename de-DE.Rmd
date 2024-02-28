@@ -25,7 +25,7 @@ Im Einklang mit diesen Werten ist Bioconductor dazu bestrebt, eine einladende, u
 
 Mit der Teilnahme an dieser Gemeinschaft stimmen Sie zu, sich an keinen durch Bioconductor geförderten Veranstaltungen (in Person oder virtuell, einschließlich von, jedoch nicht beschränkt auf, Vorträge, Workshops, Postersessions, soziale Aktivitäten), elektronischen Kommunikationskanälen (einschließlich von, jedoch nicht beschränkt auf, \"community-bioc\" Slack, die Supportseite, Onlineforen, die Bewertungsseite von Softwarepaketen, und Social Media Kommunikation) oder Softwarepaketen (inclusive *commits*) entgegen diesen Werte zu verhalten. 
 
-Des Weiteren verlangen von allen Teilnehmern, dass sie identifizierbare Accounts auf der Bioconductor Supportseite haben. Accounts, welche dieser Bitte nach Aufforderung zur Deanonymisierung nicht nachkommen, werden gelöscht. 
+Des Weiteren verlangen wir von allen Teilnehmern, dass sie identifizierbare Accounts auf der Bioconductor Supportseite haben. Accounts, welche dieser Bitte nach Aufforderung zur Deanonymisierung nicht nachkommen, werden gelöscht. 
 
 Wir tolerieren keine Belästigung, Einschüchterung oder Mobbing von Mitgliedern der Gemeinschaft. Sexuelle Sprache und Symbolik sind in Präsentationen, Kommunikation oder Onlineplattformen, (inklusive Chats) unangebracht.
 
