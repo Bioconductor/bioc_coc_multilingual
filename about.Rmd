@@ -44,7 +44,7 @@ n/a
 
 #### `r emo::ji("Lithuania")` Lithuanian, Lithuania
 
-- **Maintainer:** [FirstName LastName](https://github.com/mantvydasl)
+- **Maintainer:** [Mantvydas Lopeta](https://github.com/mantvydasl)
 
 #### `r emo::ji("Brazil")` Portuguese, Brazil
 
