@@ -22,6 +22,8 @@ navbar:
         href: it-IT.html
       - text: "Japanese, Japan"
         href: jp-JP.html
+      - text: "Lithuanian, Lithuania"
+        href: lt-LT.html
       - text: "Portuguese, Brazil"
         href: pt-BR.html
       - text: "Russian, Russian Federation"
