@@ -18,6 +18,7 @@ We kindly ask you to check those latest changes, and update the translation of t
 - [ ] German: @HelenaLC, @lmweber
 - [ ] Italian: @drighelli
 - [ ] Japanese: @kozo2
+- [ ] Lithuanian: @mantvydasl
 - [ ] Portuguese: @dcassol
 - [ ] Russian: @mdozmorov
 - [ ] Spanish: @rcastelo, @llrs, @mireia-bioinfo, @estepi

@@ -38,6 +38,7 @@ To contribute new translations or updates, please read the
 | `r emo::ji("India")` | Hindi, India | - | [hi-IN](hi-IN.html) |
 | `r emo::ji("Italy")` | Italian, Italy | 1.3.0 | [it-IT](it-IT.html) |
 | `r emo::ji("Japan")` | Japanese, Japan | 1.0.2 | [jp-JP](jp-JP.html) |
+| `r emo::ji("Lithuania")` | Lithuanian, Lithuania | 1.3.0 | [lt-LT](lt-LT.html) |
 | `r emo::ji("Brazil")` | Portuguese, Brazil | 1.0.1 | [pt-BR](pt-BR.html) |
 | `r emo::ji("Russia")` | Russian, Russian Federation | 1.2.0 | [ru-RU](ru-RU.html) |
 | `r emo::ji("Spain")` | Spanish, Spain | 1.3.0 | [es-ES](es-ES.html) |

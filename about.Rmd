@@ -42,6 +42,10 @@ n/a
 
 - **Maintainer:** [Kozo Nishida](https://github.com/kozo2)
 
+#### `r emo::ji("Lithuania")` Lithuanian, Lithuania
+
+- **Maintainer:** [Mantvydas Lopeta](https://github.com/mantvydasl)
+
 #### `r emo::ji("Brazil")` Portuguese, Brazil
 
 - **Maintainer:** [Daniela Cassol](https://github.com/dcassol)
