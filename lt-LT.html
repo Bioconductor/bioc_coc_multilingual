@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>🇱🇹 „Bioconductor“ projekto elgesio kodeksas (lietuvių, Lietuva)</title>
+
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Bioconductor Code of Conduct</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Languages
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="zh-CN.html">Chinese, China</a>
+    </li>
+    <li>
+      <a href="nl-BE.html">Dutch; Belgium, The Netherlands</a>
+    </li>
+    <li>
+      <a href="en-US.html">English, United States</a>
+    </li>
+    <li>
+      <a href="fr-FR.html">French, France</a>
+    </li>
+    <li>
+      <a href="de-DE.html">German, Germany</a>
+    </li>
+    <li>
+      <a href="hi-IN.html">Hindi, India</a>
+    </li>
+    <li>
+      <a href="it-IT.html">Italian, Italy</a>
+    </li>
+    <li>
+      <a href="jp-JP.html">Japanese, Japan</a>
+    </li>
+    <li>
+      <a href="lt-LT.html">Lithuanian, Lithuania</a>
+    </li>
+    <li>
+      <a href="pt-BR.html">Portuguese, Brazil</a>
+    </li>
+    <li>
+      <a href="ru-RU.html">Russian, Russian Federation</a>
+    </li>
+    <li>
+      <a href="es-ES.html">Spanish, Spain</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="contribute.html">Contribute</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="http://bioconductor.org/">Bioconductor.org</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">🇱🇹 „Bioconductor“ projekto elgesio kodeksas
+(lietuvių, Lietuva)</h1>
+
+</div>
+
+
+<p>(Parengta pagal <a
+href="https://bioc2020.bioconductor.org/code_of_conduct">„BioC 2020“
+elgesio kodeksą</a>)</p>
+<div id="elgesio-kodeksas" class="section level1">
+<h1>Elgesio kodeksas</h1>
+<div id="versija-1.3.0-2024-m.-sausio-12-d." class="section level2">
+<h2>Versija 1.3.0 (2024 m. sausio 12 d.)</h2>
+<p><em>Pradinis elgesio kodeksas, papildytas dokumentų ištraukomis iš
+ankstesnių konferencijų</em></p>
+<p>„Bioconductor“ bendruomenė vertina atvirą požiūrį į mokslą, kuris
+skatina</p>
+<ul>
+<li>dalijimąsi idėjomis, kodu, programine įranga ir žiniomis</li>
+<li>bendradarbiavimą</li>
+<li>įvairovę ir įtrauktį</li>
+<li>draugišką ir svetingą aplinką</li>
+<li>bendruomenės indėlį</li>
+</ul>
+<p>Vadovaudamasi šiomis vertybėmis, „Bioconductor“ siekia užtikrinti
+svetingą, palaikančią, kolegialią aplinką be priekabiavimo, bauginimo ir
+patyčių, nepriklausomai nuo:</p>
+<ul>
+<li>tapatybės: lyties, lytinės tapatybės ir raiškos, seksualinės
+orientacijos, negalios, fizinės išvaizdos, etninės priklausomybės, kūno
+sudėjimo, rasės, amžiaus, religijos, kalbos ir pan.</li>
+<li>intelektualinės pozicijos: duomenų analizės metodų pasirinkimo,
+programinės įrangos pasirinkimo, kodo stiliaus, mokslinių įžvalgų,
+karjeros etapo ir pan.</li>
+</ul>
+<p>Būdami bendruomenės nariu jūs sutinkate elgtis laikydamiesi
+bendruomenės vertybių visuose „Bioconductor“ remiamuose renginiuose
+(gyvai ar virtualiai, įskaitant, bet neapsiribojant, paskaitomis,
+mokymais, stendinių pranešimų sesijomis, socialine veikla),
+elektroniniuose komunikacijos kanaluose (įskaitant, bet neapsiribojant,
+community-bioc <a href="https://slack.bioconductor.org/">Slack
+kanalu</a>, internetine pagalbos svetaine, internetiniais forumais, kodo
+paketų peržiūros svetaine ir bendravimu socialiniuose tinkluose), ar
+rašant bet kokius tekstus susietus su programinės įrangos paketais
+(įskaitant išsaugotus paketų pakeitimus). Be to, reikalaujame, kad visi
+dalyviai turėtų neanonimines paskyras „Bioconductor“ interneto
+forumuose. Paskyros, kurios nepaiso reikalavimo panaikinti anonimiškumą,
+gali būti ištrintos.</p>
+<p>Netoleruojame priekabiavimo prie bendruomenės narių, jų bauginimo ar
+patyčių. Seksualinė kalba ir vaizdai yra netinkami pristatymuose,
+bendraujant gyvai ar interneto svetainėse, įskaitant pokalbių
+kambarius.</p>
+<p>Bet kuris asmuo, pažeidęs Elgesio kodeksą, gali būti laikinai arba
+visam laikui pašalintas iš elektroninės platformos ar renginio Elgesio
+kodekso komiteto nuožiūra.</p>
+<p>„Bioconductor“ bendruomenė yra įsipareigojusi palaikyti etišką
+bendradarbiavimą, vengdama bendradarbiavimo su subjektais, kurių
+praktika neatitinka „Bioconductor“ vertybių. Raginame bendruomenės
+narius pranešti Elgesio kodekso komitetui arba pareikšti susirūpinimą
+dėl bendradarbiavimo, kuris gali būti laikomas neetišku, naudojant
+pranešimo formą.</p>
+<div
+id="nepriimtino-priekabiavimo-bauginimo-ir-patyčių-elgesio-pavyzdžiai"
+class="section level4">
+<h4><em>Nepriimtino priekabiavimo, bauginimo ir patyčių elgesio
+pavyzdžiai</em></h4>
+<p>Priekabiavimas apima, bet neapsiriboja:</p>
+<ul>
+<li>Komentarais žodinio pranešimo metu, auditorijai ar asmeniškai,
+kuriais menkinamas ar žeminamas kitas asmuo</li>
+<li>Dalijimusi seksualinio pobūdžio vaizdais internete</li>
+<li>Priekabiavimu fotografuojant ar įrašinėjant</li>
+<li>Nuolatiniu konferencijos žodinių pranešimų ar kitų renginių
+trukdymu</li>
+<li>Nepageidaujamu seksualiniu dėmesiu</li>
+<li>Bet kurio iš aukščiau nurodytų veiksmų propagavimu ar skatinimu</li>
+</ul>
+<p>Bauginimas ir patyčios apima, bet neapsiriboja:</p>
+<ul>
+<li>Agresyviu ar užgauliu elgesiu</li>
+<li>Tyčiojimusi ar šaipymusi iš kito asmens intelekto, darbo, požiūrio,
+užduoto klausimo ar išsakyto komentaro</li>
+<li>Argumentais nukreiptais į kieno nors lytį, lytinę tapatybę ir
+raišką, seksualinę orientaciją, negalią, fizinę išvaizdą, kūno sudėjimą,
+rasę, amžių, religiją ar kitas asmenines savybes mokslinės diskusijos
+kontekste</li>
+<li>Tyčiniu vertimu kitą asmenį jaustis nepageidaujamu</li>
+<li>Trolinimu (tyčia kurstančios ar įžeidžiančios žinutės)</li>
+<li>Nuolatiniais pranešimais, kurie nesusiję su pokalbio tema</li>
+</ul>
+</div>
+</div>
+<div id="kodekso-taikymas" class="section level2">
+<h2>Kodekso taikymas</h2>
+<p>Tikimasi, kad bet kuris asmuo, kurio bus prašoma nutraukti
+priekabiavimą ar bauginantį elgesį, nedelsdamas paklus.</p>
+<p>Jei asmuo pažeidžia Elgesio kodeksą, Elgesio kodekso komitetas
+pasilieka teisę imtis bet kokių veiksmų, kurie užtikrintų svetingą
+aplinką visiems bendruomenės nariams. Tai apima įspėjimą įtariamam
+pažeidėjui arba laikiną ar nuolatinį pašalinimą iš renginio ir/arba
+elektroninių platformų, kurias valdo „Bioconductor“.</p>
+<p>Elgesio kodekso komitetas gali imtis veiksmų, kad ištaisytų
+susidariusią situaciją dėl bet ko, kuo siekiama sutrikdyti renginį ar
+elektroninio bendravimo platformą arba paversti aplinką priešišką bet
+kuriam bendruomenės nariui.</p>
+<p>Tikimės, kad visi „Bioconductor“ bendruomenės nariai laikysis elgesio
+kodekso dalyvaudami „Bioconductor“ renginiuose ir elektroninėse
+bendravimo platformose.</p>
+</div>
+<div id="pranešimas-apie-pažeidimus" class="section level2">
+<h2>Pranešimas apie pažeidimus</h2>
+<p>Jei kas nors verčia jus ar kitus asmenis jaustis nesaugiai ar
+nepageidaujamai, praneškite apie tai kuo greičiau. Pranešimą galite
+pateikti anonimiškai arba asmeniškai. Visus pranešimus peržiūrės Elgesio
+kodekso komitetas ir jie bus konfidencialūs.</p>
+<div id="pranešimas-elektroniniu-būdu" class="section level4">
+<h4><em>Pranešimas elektroniniu būdu</em></h4>
+<p>Anoniminį arba neanoniminį pranešimą galite pateikti naudodami šią
+nuorodą: <a href="https://forms.gle/gEWHBWnXvZbEdFsq5"
+class="uri">https://forms.gle/gEWHBWnXvZbEdFsq5</a>. Laisvo teksto lauke
+užrašytas pranešimas bus perduotas Elgesio kodekso komitetui. Taip pat
+galite Elgesio kodekso komitetui rašyti el. paštu (<a
+href="mailto:code-of-conduct@bioconductor.org"
+class="email">code-of-conduct@bioconductor.org</a>). Jei jaučiatės
+nepatogiai rašydami Elgesio kodekso komitetui kaip grupei, galite
+susisiekti su bet kuriuo komiteto nariu el. paštu arba tiesiogine žinute
+community-bioc Slack kanale. Jeigu tik įmanoma, pridėkite visų susijusių
+elektroninių pokalbių ekrano nuotraukas arba kopijas (tai darant jums
+nereikia pažeisti savo anonimiškumo!).</p>
+<p>Mes negalime su jumis susisiekti tiesiogiai dėl anoniminio pranešimo,
+tačiau visapusiškai jį ištirsime ir imsimės visų būtinų veiksmų, kad
+žalingi veiksmai nepasikartotų.</p>
+</div>
+<div
+id="pranešimas-asmeniškai-tinka-visiems-bioconductor-renginiams-vykstantiems-gyvai-ar-virtualiai"
+class="section level4">
+<h4><em>Pranešimas asmeniškai (tinka visiems „Bioconductor“ renginiams:
+vykstantiems gyvai ar virtualiai)</em></h4>
+<p>Asmeninį pranešimą galite pateikti bet kuriam renginyje
+dalyvaujančiam Elgesio kodekso komiteto nariui.</p>
+<p>Priimdami asmeninį pranešimą, užtikrinsime, kad esate saugūs ir jūsų
+neišgirs pašaliniai asmenys. Galime įtraukti kitus renginio darbuotojus,
+kad užtikrintume tinkamą jūsų pranešimo tvarkymą. Kai būsite saugūs,
+paprašysime jūsų papasakoti, kas nutiko. Tai gali jus nuliūdinti, bet
+mes su jumis elgsimės kuo pagarbiau, be to, galite atsivesti žmogų,
+kuris jus palaikys. Jūsų nebus prašoma stoti akis į akį su bet kokiu
+kitu asmeniu ir mes niekam neatskleisime, kas jūs esate.</p>
+<p>Mūsų komanda mielai padės jums gauti reikiamą pagalbą (pvz., padės
+susisiekti su viešbučio ar susirinkimų vietos apsauga, vietos
+teisėsaugos institucijomis, vietos pagalbos tarnybomis, suteiks palydą
+ar kitaip padės jums jaustis saugiai renginio metu).</p>
+<p>Vertiname jūsų dalyvavimą „Bioconductor“ renginiuose ir mūsų
+bendruomenės veikloje.</p>
+</div>
+<div id="ombudsmenas" class="section level4">
+<h4><em>Ombudsmenas</em></h4>
+<p>Suprantame, kad galite pageidauti, jog konflikto sprendimą
+prižiūrintis asmuo būtų nesusijęs su „Bioconductor“. Siekdamas tai
+palengvinti, Elgesio kodekso komitetas paskirs ombudsmeną iš kitos
+atvirojo kodo bendruomenės nei „Bioconductor“. Nors ombudsmenas neturi
+įgaliojimų nustatyti, pakeisti ar panaikinti Elgesio kodekso komiteto
+priimtų sprendimų, jis gali padėti bendruomenės nariams teikdamas
+patarimus, tarpininkaudamas, instruktuodamas ir nukreipdamas į kitus
+išteklius. Siekiant užtikrinti konfidencialų, nešališką, neformalų ir
+nepriklausomą procesą, su ombudsmenu galima susisiekti tiesiogiai el.
+paštu (žr. toliau).</p>
+</div>
+<div id="konfliktų-sprendimo-procedūra" class="section level4">
+<h4><em>Konfliktų sprendimo procedūra</em></h4>
+<p>Elgesio kodekso komitetas taiko standartinę konfliktų sprendimo
+procedūrą. Ši procedūra yra apibendrinta <a
+href="https://bioconductor.github.io/CodeOfConduct/incident_response.html">čia</a>.
+Konfliktų sprendimo procedūra yra pagrįsta knyga „Kaip reaguoti į
+elgesio kodekso pranešimus“, kurios autoriai yra Valerie Aurora ir Mary
+Gardiner.</p>
+</div>
+<div id="elgesio-kodekso-komitetas" class="section level3">
+<h3>Elgesio kodekso komitetas</h3>
+<ul>
+<li>(Vienas iš pirmininkų) Anna Quaglieri <a
+href="mailto:anna.quaglieri16@gmail.com"
+class="email">anna.quaglieri16@gmail.com</a> (iki 2024 m.) ji/jos [EN,
+IT]</li>
+<li>(Vienas iš pirmininkų) Gerry Tonkin-Hill <a
+href="mailto:g.tonkinhill@gmail.com"
+class="email">g.tonkinhill@gmail.com</a> (iki 2025 m.) jis/jo [EN]</li>
+<li>Martín Dávila-Cervantes <a href="mailto:aldntmi@gmail.com"
+class="email">aldntmi@gmail.com</a> (iki 2025 m.) jis/jo [EN, FR,
+ES]</li>
+<li>Federica Gazzelloni <a href="mailto:fede.gazzelloni@gmail.com"
+class="email">fede.gazzelloni@gmail.com</a> (iki 2025 m.) ji/jos [IT,
+EN]</li>
+<li>Michael Love <a href="mailto:michaelisaiahlove@gmail.com"
+class="email">michaelisaiahlove@gmail.com</a> (iki 2024 m.) jis/jo [EN]
+(TAB)</li>
+<li>Federico Marini <a href="mailto:fede.maro@gmail.com"
+class="email">fede.maro@gmail.com</a> (iki 2024 m.) jis/jo [EN, IT,
+DE]</li>
+<li>Sowmya Parthiban <a href="mailto:sowmyaparthiban@gmail.com"
+class="email">sowmyaparthiban@gmail.com</a> (iki 2024 m.) ji/jos [EN,
+Tamil]</li>
+<li>Shixiang Wang <a href="mailto:wangshx@shanghaitech.edu.cn"
+class="email">wangshx@shanghaitech.edu.cn</a> (iki 2025 m.) jis/jo [CN,
+EN]</li>
+<li>Lluís Revilla <a href="mailto:lluis.revilla@gmail.com"
+class="email">lluis.revilla@gmail.com</a> (iki 2024 m.) jis/jo [CAT, ES,
+EN]</li>
+<li>Kevin Rue-Albrecht <a href="mailto:kevinrue67@gmail.com"
+class="email">kevinrue67@gmail.com</a> (iki 2024 m.) jis/jo [FR, EN]
+(CAB)</li>
+<li>Paulina Boadiwaa Mensah <a href="mailto:pabbyboadiwaa@gmail.com"
+class="email">pabbyboadiwaa@gmail.com</a> (iki 2025 m.) ji/jos [EN,
+Akan]</li>
+<li>Peace Sandy <a href="mailto:peacesandy04@gmail.com"
+class="email">peacesandy04@gmail.com</a> ji/jos (iki 2025 m.) [EN]</li>
+<li>Sinmisoluwa Adesanya <a href="mailto:adesanyasinmisoluwa@gmail.com"
+class="email">adesanyasinmisoluwa@gmail.com</a> ji/jos (iki 2025 m.)
+[EN, Yoruba]</li>
+<li>(Ombudsmenas) Michelle Savage <a
+href="mailto:michellesavage.galaxy@gmail.com"
+class="email">michellesavage.galaxy@gmail.com</a> (projektas „Galaxy“)
+ji/jos [ES, EN]</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
