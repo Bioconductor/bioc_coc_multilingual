@@ -97,19 +97,19 @@ Tämä menettely on lyhyesti tiivistetty [täällä](https://bioconductor.github
 
 ### Käytännesääntökomitea
 
-* (Yhteispuheenjohtaja) Anna Quaglieri anna.quaglieri16@gmail.com (vuoteen 2024 asti) she/her [EN, IT]
-* (Yhteispuheenjohtaja) Gerry Tonkin-Hill g.tonkinhill@gmail.com (vuoteen 2025 asti) he/him [EN]
-* Martín Dávila-Cervantes aldntmi@gmail.com (vuoteen 2025 asti) he/him [EN, FR, ES] 
-* Federica Gazzelloni fede.gazzelloni@gmail.com (vuoteen 2025 asti) she/her [IT, EN]
-* Michael Love michaelisaiahlove@gmail.com (vuoteen 2024 asti) he/him [EN] (TAB)
-* Federico Marini fede.maro@gmail.com (vuoteen 2024 asti) he/him [EN, IT, DE]
-* Sowmya Parthiban sowmyaparthiban@gmail.com (vuoteen 2024 asti) she/her [EN, Tamil]
-* Shixiang Wang wangshx@shanghaitech.edu.cn (vuoteen 2025 asti) he/him [CN, EN]
-* Lluís Revilla lluis.revilla@gmail.com (vuoteen 2024 asti) he/him [CAT, ES, EN]
-* Kevin Rue-Albrecht kevinrue67@gmail.com  (vuoteen 2024 asti) he/him [FR, EN] (CAB)
-* Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (vuoteen 2025 asti) she/her [EN, Akan]
+* (Yhteispuheenjohtajuus) Anna Quaglieri anna.quaglieri16@gmail.com (vuoteen 2024 asti) [EN, IT]
+* (Yhteispuheenjohtajuus) Gerry Tonkin-Hill g.tonkinhill@gmail.com (vuoteen 2025 asti) [EN]
+* Martín Dávila-Cervantes aldntmi@gmail.com (vuoteen 2025 asti) [EN, FR, ES] 
+* Federica Gazzelloni fede.gazzelloni@gmail.com (vuoteen 2025 asti) [IT, EN]
+* Michael Love michaelisaiahlove@gmail.com (vuoteen 2024 asti) [EN] (TAB)
+* Federico Marini fede.maro@gmail.com (vuoteen 2024 asti) [EN, IT, DE]
+* Sowmya Parthiban sowmyaparthiban@gmail.com (vuoteen 2024 asti) [EN, tamili]
+* Shixiang Wang wangshx@shanghaitech.edu.cn (vuoteen 2025 asti) [CN, EN]
+* Lluís Revilla lluis.revilla@gmail.com (vuoteen 2024 asti) [CAT, ES, EN]
+* Kevin Rue-Albrecht kevinrue67@gmail.com  (vuoteen 2024 asti) [FR, EN] (CAB)
+* Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (vuoteen 2025 asti) [EN, akan]
 * Peace Sandy peacesandy04@gmail.com (vuoteen 2025 asti) she/her [EN]
-* Sinmisoluwa Adesanya adesanyasinmisoluwa@gmail.com (vuoteen 2025 asti) she/her [EN, Yoruba]
-* (Välittäjähenkilö) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES, EN]
+* Sinmisoluwa Adesanya adesanyasinmisoluwa@gmail.com (vuoteen 2025 asti) [EN, joruba]
+* (Välittäjähenkilö) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) [ES, EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
