@@ -1,0 +1,115 @@
+---
+title: "`r emo::ji('Finland')` Bioconductor-projektin yleiset käytännesäännöt (suomi, Suomi)"
+---
+
+(Mukautettu [BioC 2020:n käytännesäännöistä][1])
+
+# Käytännesäännöt
+
+## Versio 1.3.0 (30. marraskuuta 2024)
+
+_Projektin yleiset käytännesäännöt, jotka perustuvat aiempiin konferenssikohtaisiin asiakirjoihin_
+
+Bioconductor-yhteisö arvostaa avointa tiedettä, joka edistää
+
+* ideoiden, koodin, ohjelmistojen ja asiantuntemuksen jakamista
+* yhteistyötä
+* monimuotoisuutta ja osallisuutta
+* ystävällistä ja avointa ilmapiiriä
+* yhteisön panoksia
+
+Näiden arvojen mukaisesti Bioconductor on sitoutunut tarjoamaan ystävällisen, tukevan ja yhteistyöhön kannustavan ilmapiirin, jossa häirintää, pelottelua tai kiusaamista ei hyväksytä riippumatta taustasta tai muista henkilökohtaisista tekijöistä, kuten:
+
+* identiteetti: sukupuoli, sukupuoli-identiteetti ja sukupuolen ilmaisu, seksuaalinen suuntautuminen, vammaisuus, fyysinen ulkonäkö, etnisyys, kehon koko, rotu, ikä, uskonto, kieli jne.
+* ajattelutapa: lähestymistavat tiedon analysointiin, ohjelmistovalinnat, ohjelmointityyli, tieteellinen näkökulma, uran vaihe jne.
+
+Osallistumalla tähän yhteisöön sitoudut olemaan osallistumatta toimintaan, joka on näiden arvojen vastaista missä tahansa Bioconductorin sponsoroimassa tapahtumassa (paikan päällä tai virtuaalisesti mukaan lukien mutta ei rajoittuen esitelmiin, työpajoihin, posterinäyttelyihin ja sosiaalisiin tapahtumiin), sähköisissä viestintäkanavissa (kuten yhteisön [Slack](https://slack.bioconductor.org/), tukisivusto, verkkokeskustelut, pakettien arviointisivusto ja sosiaalinen media) tai ohjelmistopaketeissa (mukaan lukien git-sitoumukset).
+Lisäksi vaadimme, että kaikilla osallistujilla on tunnistettavat tilit Bioconductorin keskustelupalstoilla. 
+Tunnistamattomat tilit voidaan poistaa, jollei henkilö korjaa asiaa pyynnöstä huolimatta.
+
+Emme hyväksy häirintää, uhkailua tai kiusaamista.
+Seksuaalinen kieli ja kuvamateriaali ei ole sopivaa esityksissä, viestinnässä tai verkkoalustoilla mukaan lukien keskustelupalstoilla.
+
+Käytännesäännön rikkomisesta voi seurata sanktioita, ja henkilö voidaan käytännesääntökomitean harkinnan mukaan poistaa sähköiseltä alustalta tai tapahtumasta joko tilapäisesti tai pysyvästi.
+
+Bioconductor-yhteisö on sitoutunut eettisiin kumppanuuksiin ja välttämään kumppanuuksia sellaisten tahojen kanssa, joiden toimintatavat eivät vastaa Bioconductorin arvoja.
+Kannustamme yhteisön jäseniä ilmaisemaan huolensa epäeettisistä kumppanuuksista raportointilomakkeen avulla.
+
+#### _Esimerkkejä käytöksestä, jota ei hyväksytä_
+
+Häirintään kuuluu muun muassa:
+
+* Kommentit, jotka vähättelevät tai halventavat henkilöä, yleisessä tai yksityisessä keskustelussa
+* Seksuaalisten kuvien jakaminen verkossa
+* Häiritsevä valokuvaaminen tai nauhoittaminen
+* Jatkuva esitysten tai muiden tapahtumien häiritseminen
+* Ei-toivottu seksuaalinen huomio
+* Yllä mainitun käytöksen puolustaminen tai siihen kannustaminen
+
+Uhkailuun ja kiusaamiseen kuuluu muun muassa:
+
+* Aggressiivinen tai painostava käytös
+* Toisen henkilön älykkyyden, työn, näkökulman tai kysymyksen/kommentin pilkkaaminen
+* Henkilöön viittaaminen sukupuolen, sukupuoli-identiteetin ja ilmaisun, seksuaalisen suuntautumisen, vamman, fyysisen ulkonäön, kehon koon, rodun, iän, uskonnon tai muiden henkilökohtaisten ominaisuuksien perusteella tieteellisen keskustelun yhteydessä
+* Tarkoituksellinen ulkopuolisuuden tunteen luominen
+* Trollaaminen (tahallisesti provosoivat tai loukkaavat viestit)
+* Jatkuvat aiheesta poikkeavat viestit
+
+## Toimeenpano
+
+Kaikkien, joita pyydetään lopettamaan häiritsevä tai uhkaava käytös, odotetaan noudattavan pyyntöä välittömästi.
+
+Jos joku rikkoo käytännesääntöä, käytännesääntökomitealla on oikeus ryhtyä toimenpiteisiin, jotka takaavat kaikille yhteisön jäsenille sellaisen ilmapiirin, jossa on mukava ja turvallinen olla. Toimenpiteet voivat sisältää varoituksen antamisen tai tilapäisen/pysyvän poistamisen Bioconductorin tapahtumasta ja/tai sähköisiltä alustoilta.
+
+Käytännesääntökomitea voi ryhtyä toimenpiteisiin ja puuttua toimintaan, jonka tarkoitus on tapahtuman tai sähköisen alustan häiriköinti tai luoda ympäristöstä vihamielinen jollekin yhteisön jäsenelle, tai jos toiminta on johtamassa siihen.
+
+Odotamme, että kaikki Bioconductor-yhteisön jäsenet noudattavat käytännesääntöjä osallistuessaan Bioconductorin tapahtumiin ja viestintäalustoille.
+
+## Raportointi
+
+Jos joku saa sinut tai jonkun muun tuntemaan olonsa turvattomaksi tai ei-tervetulleeksi, ilmoita siitä mahdollisimman pian. Voit tehdä ilmoituksen joko omalla nimelläsi tai nimettömänä. Käytännesääntökomitea käsittelee kaikki ilmoitukset luottamuksellisesti.
+
+#### _Sähköisesti_
+
+Voit tehdä ilmoituksen omalla nimelläsi tai nimettömänä osoitteessa: https://forms.gle/gEWHBWnXvZbEdFsq5. Lomake sisältää vapaamuotoisen tekstikentän, joka lähetetään käytännesääntökomitealle. Vaihtoehtoisesti voit lähettää käytännesääntökomitealle sähköpostin osoitteeseen code-of-conduct@bioconductor.org. Jos et halua ottaa yhteyttä koko käytännesääntökomiteaan, voit olla yhteydessä kehen tahansa komitean jäseneen sähköpostitse tai yksityisviestillä Bioconductorin Slack-kanavalla. Liitä ilmoitukseen mukaan kuvakaappauksia tai kopioita kaikista olennaisista keskusteluista  (anonymiteettiä ei tarvitse vaarantaa &ndash; voit peittää nimesi!).
+
+Emme voi ottaa yhteyttä nimettömään ilmoittajaan ja kertoa asian edistymisestä, mutta lupaamme tutkia asian perusteellisesti ja ryhtyä tarvittaviin toimiin estääksemme sen toistumisen.
+
+#### _Ilmoitus henkilökohtaisesti (kaikissa Bioconductorin tapahtumissa: paikan päällä tai virtuaalisesti)_
+
+Voit ilmoittaa henkilökohtaisesti kelle tahansa tapahtumassa olevalle käytännesääntökomitean jäsenelle.
+
+Kun otamme ilmoituksen vastaan, varmistamme, että olet turvassa eikä ulkopuoliset voi kuulla keskusteluamme. Voimme tarvittaessa pyytää muiden tapahtumahenkilökunnan jäsenten apua varmistaaksemme, että ilmoituksesi käsitellään asianmukaisesti. Kun tilanne on turvallinen, pyydämme sinua kertomaan, mitä tapahtui. Ymmärrämme, että se voi olla järkyttävää, mutta käsittelemme sen mahdollisimman kunnioittavasti. Voit halutessasi pyytää tueksesi jonkun henkilön. Sinua ei pyydetä kohtaamaan ketään, emmekä paljasta kenellekään, kuka olet.
+
+Autamme mielellämme sinua saamaan tarvitsemasi tuen (voimme esimerkiksi auttaa ottamaan yhteyttä hotellin tai tilaisuuden turvapalveluihin, paikallisiin viranomaisiin tai sosiaalipäivystykseen, tai voimme järjestää tukihenkilön tai avustaa muilla tavoin varmistaaksemme, että tunnet olosi turvalliseksi tapahtuman ajan).
+
+Arvostamme osallistumistasi ja läsnäoloasi Bioconductor-tapahtumissa ja -yhteisössämme.
+
+#### _Välittäjähenkilö_
+
+Ymmärrämme, että saatat haluta, että Bioconductorista riippumaton henkilö valvoo tilanteen ratkaisua. Tämän mahdollistamiseksi käytännesääntökomitea nimittää Bioconductorista riippumattoman välittäjän toisesta avoimen lähdekoodin yhteisöstä. Vaikka hänellä ei ole valtuuksia asettaa, muuttaa tai kumota käytännesääntökomitean tekemiä päätöksiä, hän voi tukea yhteisön jäseniä tarjoamalla neuvontaa, välitystä, valmennusta ja ohjausta muihin resursseihin. Välittäjään voi olla suoraan yhteydessä sähköpostitse (katso alla), jotta prosessi on luottamuksellinen, puolueeton, epävirallinen ja itsenäinen.
+
+#### _Konfliktien käsittelyprosessi_
+
+Käytännesääntökomitea noudattaa vakiintunutta menettelyä konfliktien käsittelemiseksi ja ratkaisemiseksi.
+Tämä menettely on lyhyesti tiivistetty [täällä](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Toimintatavat perustuvat Valerie Auroran ja Mary Gardinerin kirjoittamaan kirjaan "How to Respond to Code of Conduct Reports".
+
+
+### Käytännesääntökomitea
+
+* (Yhteispuheenjohtaja) Anna Quaglieri anna.quaglieri16@gmail.com (vuoteen 2024 asti) she/her [EN, IT]
+* (Yhteispuheenjohtaja) Gerry Tonkin-Hill g.tonkinhill@gmail.com (vuoteen 2025 asti) he/him [EN]
+* Martín Dávila-Cervantes aldntmi@gmail.com (vuoteen 2025 asti) he/him [EN, FR, ES] 
+* Federica Gazzelloni fede.gazzelloni@gmail.com (vuoteen 2025 asti) she/her [IT, EN]
+* Michael Love michaelisaiahlove@gmail.com (vuoteen 2024 asti) he/him [EN] (TAB)
+* Federico Marini fede.maro@gmail.com (vuoteen 2024 asti) he/him [EN, IT, DE]
+* Sowmya Parthiban sowmyaparthiban@gmail.com (vuoteen 2024 asti) she/her [EN, Tamil]
+* Shixiang Wang wangshx@shanghaitech.edu.cn (vuoteen 2025 asti) he/him [CN, EN]
+* Lluís Revilla lluis.revilla@gmail.com (vuoteen 2024 asti) he/him [CAT, ES, EN]
+* Kevin Rue-Albrecht kevinrue67@gmail.com  (vuoteen 2024 asti) he/him [FR, EN] (CAB)
+* Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (vuoteen 2025 asti) she/her [EN, Akan]
+* Peace Sandy peacesandy04@gmail.com (vuoteen 2025 asti) she/her [EN]
+* Sinmisoluwa Adesanya adesanyasinmisoluwa@gmail.com (vuoteen 2025 asti) she/her [EN, Yoruba]
+* (Välittäjähenkilö) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES, EN]
+
+[1]: https://bioc2020.bioconductor.org/code_of_conduct

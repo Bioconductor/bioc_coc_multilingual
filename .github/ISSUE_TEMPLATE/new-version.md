@@ -14,6 +14,7 @@ We kindly ask you to check those latest changes, and update the translation of t
 
 - [ ] Chinese: @XueyiDong
 - [ ] Dutch: @milanmlft
+- [ ] Finnish: @TuomasBorman
 - [ ] French: @kevinrue
 - [ ] German: @HelenaLC, @lmweber
 - [ ] Italian: @drighelli
