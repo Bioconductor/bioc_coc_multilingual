@@ -12,6 +12,8 @@ navbar:
         href: nl-BE.html
       - text: "English, United States"
         href: en-US.html
+      - text: "Finnish, Finland"
+        href: fi-FI.html
       - text: "French, France"
         href: fr-FR.html
       - text: "German, Germany"
