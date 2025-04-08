@@ -97,18 +97,17 @@ This procedure is briefly summarized [here](https://bioconductor.github.io/CodeO
 
 ### Code of Conduct Committee 
 
-* (Co-Chair) Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
+* (Co-Chair) Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2026) he/him [FR, EN] (CAB)
 * (Co-Chair) Gerry Tonkin-Hill g.tonkinhill@gmail.com (until 2025) he/him [EN]
 * Martín Dávila-Cervantes aldntmi@gmail.com (until 2025) he/him [EN, FR, ES] 
 * Federica Gazzelloni fede.gazzelloni@gmail.com (until 2025) she/her [IT, EN]
-* Michael Love michaelisaiahlove@gmail.com (until 2024) he/him [EN] (TAB)
-* Federico Marini fede.maro@gmail.com (until 2024) he/him [EN, IT, DE]
-* Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024) she/her [EN, Tamil]
+* Federico Marini fede.maro@gmail.com (until 2025) he/him [EN, IT, DE]
 * Shixiang Wang wangshx@shanghaitech.edu.cn (until 2025) he/him [CN, EN]
-* Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) he/him [FR, EN] (CAB)
 * Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (until 2025) she/her [EN, Akan]
 * Peace Sandy peacesandy04@gmail.com she/her (until 2025) [EN]
 * Sinmisoluwa Adesanya adesanyasinmisoluwa@gmail.com she/her (until 2025) [EN, Yoruba]
+* Obuli Abraham obuliabraham@gmail.com he/him (until 2026) [En]
+* Maria Doyle maria.doyle@ul.ie she/her (until 2026) [En]
 * (Ombudsperson) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES, EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
