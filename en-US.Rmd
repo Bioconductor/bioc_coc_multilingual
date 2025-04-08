@@ -105,7 +105,6 @@ This procedure is briefly summarized [here](https://bioconductor.github.io/CodeO
 * Federico Marini fede.maro@gmail.com (until 2024) he/him [EN, IT, DE]
 * Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024) she/her [EN, Tamil]
 * Shixiang Wang wangshx@shanghaitech.edu.cn (until 2025) he/him [CN, EN]
-* Lluís Revilla lluis.revilla@gmail.com (until 2024) he/him [CAT, ES, EN]
 * Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) he/him [FR, EN] (CAB)
 * Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (until 2025) she/her [EN, Akan]
 * Peace Sandy peacesandy04@gmail.com she/her (until 2025) [EN]
