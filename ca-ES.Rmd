@@ -1,0 +1,114 @@
+---
+title: '![](img/ca-ES.webp){width="5%"} Declaració del Codi de Conducta del Projecte Bioconductor (Català; Espanya/França)'
+---
+
+(Adaptat del [BioC 2020 Code of Conduct][1])
+
+# Codi de Conducta
+
+## Versió 1.3.0 (12 de gener del 2024)
+
+_Codi de Conducta inicial del projecte, ampliat a partir de documents previs elaborats específicament per conferències_
+
+La comunitat Bioconductor valora un apropament obert a la ciència que promou
+
+* compartir idees, codi, programari i coneixements
+* col·laboració
+* diversitat i inclusió
+* un entorn amable i acollidor
+* contribucions de la comunitat
+
+En línia amb aquests valors, el projecte Bioconductor té per objectiu proporcionar una experiència acollidora, solidària i respectuosa, lliure d'assetjament, intimidació i abús, independentment de:
+
+* la identitat: gènere, identitat i expressió de gènere, orientació sexual, discapacitat, aparença física, ètnia, complexió física, raça, edat, religió, llengua, etc.
+* la posició intel·lectual: aproximacions a l'anàlisi de dades, preferències de programari, estil de programació, perspectiva científica, etapa professional, etc.
+
+La participació en aquesta comunitat implica el compromís de no prendre part en comportaments contraris a aquests valors en cap esdeveniment (en persona o virtual, incloent-hi però no limitat a xerrades, tallers, sessions de pòster, activitats socials), canals de comunicació electrònics (incloent-hi però no limitat al [Slack](https://slack.bioconductor.org/) comunity-bioc, el lloc web de suport a l'usuari, fòrums en línia, la revisió de paquets i comunicacions en mitjans socials) o paquets de programari (incloent-hi els canvis guardats) patrocinats per Bioconductor.
+A més a més, requerim a tots els participants utilitzar comptes identificables en els fòrums en línia de Bioconductor.
+Els comptes que no s'adhereixin a aquest requisit després d'una sol·licitud per desanonimitzar-los poden ser eliminats.
+
+No tolerem l'assetjament, la intimidació, o l'abús de membres de la comunitat. El llenguatge i la iconografia sexuals no són apropiats en presentacions, comunicacions o plataformes en línia, incloent-hi xats.
+
+Qualsevol persona que violi el Codi de Conducta pot ser sancionada o expulsada temporal o permanentment d'una plataforma electrònica o esdeveniment a discreció del Comitè del Codi de Conducta.
+
+La comunitat Bioconductor està compromesa amb l'establiment de col·laboracions ètiques, evitant aquelles amb entitats les pràctiques de les quals no siguin coherents amb els valors de Bioconductor.
+Animem als membres de la comunitat a denunciar or plantejar qualsevol inquietud sobre col·laboracions que es puguin considerar poc ètiques, al comitè del Codi de Conducta a través del formulari de denúncia.
+
+#### _Exemples de comportaments inacceptables d'assetjament, intimidació i abús_
+
+L'assetjament inclou, però no està limitat a:
+
+* Fer comentaris en xats, a una audiència o de forma personal, que degradin o menyspreïn a una altra persona
+* Compartir imatges sexuals en línia
+* Fotografies o enregistraments que representin assetjament
+* Disrupció sostinguda de xerrades o d'altres esdeveniments
+* Atenció sexual no desitjada
+* Promoure o encoratjar qualsevol dels comportaments anteriors
+
+La intimidació i l'abús inclouen, però no estan limitats a:
+
+* Comportaments agressius o intimidatoris
+* Insultar o burlar-se de l'intel·lecte, treball, perspectiva o pregunta/comentari d'una altra persona
+* Fer referència al gènere, identitat i expressió de gènere, orientació sexual, discapacitat, aparença física, complexió física, raça, edat, religió, i d'altres atributs personals d'algú en el context d'una discussió científica
+* Fer sentir a algú que no és benvingut de forma intencionada
+* Comportament ofensiu (missatges ofensius o amb intenció de provocar)
+* Publicació contínua de missatges sense relació al tema
+
+## Aplicació
+
+S'espera que qualsevol persona a qui se li demana aturar un comportament intimidatori o d'assetjament, ho compleixi immediatament.
+
+Si una persona contravé el Codi de Conducta, el Comitè del Codi de Conducta es reserva el dret a actuar de la forma que asseguri un entorn acollidor per a tots els membres de la comunitat.
+Això inclou advertir o expulsar al presumpte infractor, temporal o permanentment, de l'esdeveniment i/o plataformes electròniques sota el control de Bioconductor.
+
+El Comitè del Codi de Conducta pot prendre decisions per redreçar qualsevol situació dissenyada per,
+o amb un impacte clar de, perjudicar un esdeveniment o plataforma de comunicació electrònica, o convertir l'entorn en
+desagradable per a qualsevol membre de la comunitat.
+
+Esperem que tothom en la comunitat Bioconductor compleixi amb el Codi de Conducta quan participa en esdeveniment i plataformes de comunicació en línia de Bioconductor.
+
+## Denúncies
+
+Si algú et fa a tu, o a qualsevol altra persona, sentir insegur o no ben rebut, si us plau denúncia-ho tan aviat com sigui possible. Pots denunciar de forma anònima o personalment. Totes les denúncies seran revisades pel Comitè del Codi de Conducta i seran gestionades de forma confidencial.
+
+#### _Electrònicament_
+
+Pots fer una denúncia anònima o no-anònima a través del següent enllaç: <https://forms.gle/gEWHBWnXvZbEdFsq5>. Aquesta pàgina conté una caixa de text lliure que serà reenviada al Comitè del Codi de Conducta. Alternativament, pots enviar un missatge per correu electrònic al Comitè del Codi de Conducta (<code-of-conduct@bioconductor.org>). Si et sents incòmode denunciant davant el Comitè del Codi de Conducta com a grup, pots contactar amb qualsevol membre del comitè per correu electrònic o a través d'un missatge directe en el canal de Slack community-bioc. Si us plau, inclou captures de pantalla o còpies de totes les converses electròniques rellevants sempre que sigui possible (no cal que comprometis la teva anonimitat!).
+
+No podem fer un seguiment d'una denúncia anònima directament amb tu, però la investigarem a fons i prendrem la decisió que sigui necessària per a prevenir que torni a passar.
+
+#### _Personalment (en qualsevol esdeveniment Bioconductor: en persona o virtual)_
+
+Pots formular una denúncia personalment davant qualsevol membre del Comitè del Codi de Conducta present en un esdeveniment.
+
+Quan rebem una denúncia personalment, ens assegurarem què ho fem en un entorn segur que eviti la possibilitat de ser escoltada. En alguns casos necessitarem involucrar personal addicional de l'esdeveniment per a garantir que la denúncia sigui gestionada apropiadament. Un cop en un entorn segur, et demanarem que ens expliquis què ha passat. Sabem que aquest procés pot resultar incòmode, però el gestionarem de la forma més respectuosa possible i pots portar un acompanyant que et doni suport. No se't demanarà confrontar a ningú, i no li direm a ningú qui ets.
+
+El nostre equip estarà encantat d'ajudar-te a trobar el suport oportú (per exemple, ajudant-te a contactar amb la seguretat de l'hotel/seu de l'esdeveniment, autoritats locals d'ordre públic, serveis de support locals, proporcionar escorta, o en qualsevol altre cas ajudar-te a sentir-te segura o segur durant l'esdeveniment).
+
+Apreciem la teva assistència i participació en esdeveniments de Bioconductor i en la nostra comunitat.
+
+#### _Síndic de greuges_
+
+Entenem que pots preferir que la persona que supervisa la resolució del teu conflicte no estigui relacionada amb Bioconductor. Para facilitar-ho, el Comitè del Codi de Conducta nomenarà un síndic de greuges d'una altra comunitat de codi obert i distinta dels membres del projecte Bioconductor. Si bé el síndic no té la capacitat per a establir, canviar or descartar les decisions preses pel Comitè del Codi de Conducta, pot assistir els membres de la comunitat oferint consell, mediació, orientació i referències a altres recursos. El síndic pot ser contactat directament per email (vegeu més avall) per assegurar un procés confidencial, imparcial, informal i independent.
+
+#### _Procediment en un incident_
+
+El Comitè del Codi de Conducta segueix un procediment estàndard per tractar conflictes.
+Aquest procediment està resumit breument [aquí](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Els procediments d'incidents estan basats en el llibre "How to respond to Code of Conduct Reports" de Valerie Aurora i Mary Gardiner.
+
+### Comitè del Codi de Conducta
+
+* (Co-Chair) Kevin Rue-Albrecht kevinrue67@gmail.com (fins a 2026) ell [EN, IT]
+* (Co-Chair) Gerry Tonkin-Hill g.tonkinhill@gmail.com (fins a 2025) ell [EN]
+* Martín Dávila-Cervantes aldntmi@gmail.com (fins a 2025) ell [EN, FR, ES]
+* Federica Gazzelloni fede.gazzelloni@gmail.com (fins a 2025) ella [IT, EN]
+* Federico Marini <fede.maro@gmail.com> (fins a 2025) ell [EN, IT, DE]
+* Shixiang Wang wangshx@shanghaitech.edu.cn (fins a 2025) ell [CN, EN]
+* Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (fins a 2025) ella [EN, Akan]
+* Peace Sandy peacesandy04@gmail.com (fins a 2025) ella [EN]
+* Sinmisoluwa Adesanya adesanyasinmisoluwa@gmail.com (fins a 2025) ella [EN, Yoruba]
+* Obuli Abraham obuliabraham@gmail.com (fins a 2026) ell [EN]
+* Maria Doyle maria.doyle@ul.ie (fins a 2026) ella [EN]
+* (Síndic) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) ella [ES, EN]
+
+[1]: https://bioc2020.bioconductor.org/code_of_conduct

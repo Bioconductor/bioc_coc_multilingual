@@ -32,6 +32,8 @@ navbar:
         href: ru-RU.html
       - text: "Spanish, Spain"
         href: es-ES.html
+      - text: "Catalan; Spain, France"
+        href: ca-ES.html
     - text: "Contribute"
       href: contribute.html
     - text: "About"
