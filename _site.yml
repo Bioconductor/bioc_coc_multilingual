@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: Languages
       menu:
+      - text: "Catalan; Spain, France"
+        href: ca-ES.html
       - text: "Chinese, China"
         href: zh-CN.html
       - text: "Dutch; Belgium, The Netherlands"
@@ -32,8 +34,6 @@ navbar:
         href: ru-RU.html
       - text: "Spanish, Spain"
         href: es-ES.html
-      - text: "Catalan; Spain, France"
-        href: ca-ES.html
     - text: "Contribute"
       href: contribute.html
     - text: "About"
