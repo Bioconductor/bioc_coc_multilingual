@@ -30,6 +30,7 @@ To contribute new translations or updates, please read the
 
 |          Flag           | Language       | Version | Link               |
 | :---------------------: | :------------- | :-----: | :------------------|
+| ![](img/ca-ES.webp){width="5%"} | Catalan; Spain, France | 1.3.0 | [ca-ES](ca-ES.html) |
 | `r emo::ji("China")` | Chinese, China | 1.3.0 | [zh-CN](zh-CN.html) |
 | `r paste(emo::ji('Belgium'), emo::ji('Netherlands'))` | Dutch; Belgium, The Netherlands | 1.3.0 | [nl-BE](nl-BE.html) |
 | `r emo::ji("United_States")` | **English, United States (original version)** | 1.3.0 | [en-US](en-US.html) |
@@ -42,8 +43,7 @@ To contribute new translations or updates, please read the
 | `r emo::ji("Lithuania")` | Lithuanian, Lithuania | 1.3.0 | [lt-LT](lt-LT.html) |
 | `r emo::ji("Brazil")` | Portuguese, Brazil | 1.0.1 | [pt-BR](pt-BR.html) |
 | `r emo::ji("Russia")` | Russian, Russian Federation | 1.2.0 | [ru-RU](ru-RU.html) |
-| `r emo::ji("Spain")` | Spanish; Spain, France | 1.3.0 | [es-ES](es-ES.html) |
-| ![](img/ca-ES.webp){width="5%"} | Catalan, Spain | 1.3.0 | [ca-ES](ca-ES.html) |
+| `r emo::ji("Spain")` | Spanish; Spain | 1.3.0 | [es-ES](es-ES.html) |
 
 ## Code of Conduct (English, United States)
 
