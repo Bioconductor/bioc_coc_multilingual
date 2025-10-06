@@ -6,7 +6,7 @@ title: "`r emo::ji('United_States')` Project-wide Code of Conduct statement for 
 
 # Code of Conduct
 
-## Version 1.3.0 (12th January, 2024)
+## Version 1.4.0 (06th October, 2025)
 
 _Initial project-wide Code of Conduct, expanded from previous conference-specific documents_
 
@@ -92,7 +92,7 @@ We understand that you may want a person unrelated to Bioconductor overseeing yo
 #### _Incident procedure_
 
 The Code of Conduct Committee follows a standard procedure to deal with conflicts. 
-This procedure is briefly summarized [here](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Incident procedures are based on the book "How to Respond to Code of Conduct Reports" by Valerie Aurora and Mary Gardiner.
+This procedure is briefly summarized [here](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Incident procedures are based on the book "[How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/files/coc/books/cocguide.pdf)" by Valerie Aurora and Mary Gardiner.
 
 
 ### Code of Conduct Committee 
