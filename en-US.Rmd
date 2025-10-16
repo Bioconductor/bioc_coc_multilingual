@@ -23,7 +23,7 @@ In line with these values, Bioconductor is dedicated to providing a welcoming, s
 * identity: gender, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, body size, race, age, religion, language, etc.
 * intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, stage of career, etc.
 
-By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), electronic communication channels (including but not limited to the [Bioconductor Zulip](https://community-bioc.zulipchat.com/), the support site, online forums, the package review site, and social media communications), or packages (including commits).
+By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), electronic communication channels (including but not limited to the [Bioconductor Zulip space](https://chat.bioconductor.org/), the support site, online forums, the package review site, and social media communications), or packages (including commits).
 Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums.
 Accounts that do not adhere to this after request to de-anonymise may be deleted.
 
@@ -59,7 +59,7 @@ Intimidation and bullying include, but are not limited to:
 
 Anyone asked to stop harassing or intimidating behavior is expected to comply immediately.
 
-If a person contravene the Code of Conduct, the Code of Conduct committee retains the right to take any action that ensures a welcoming environment for all community members.
+If a person contravenes the Code of Conduct, the Code of Conduct committee retains the right to take any action that ensures a welcoming environment for all community members.
 This includes warning the alleged offender or temporary/permanent expulsion from the event and/or electronic platforms under Bioconductor’s control.
 
 The Code of Conduct committee may take action to redress anything designed to, or with the clear impact of, disrupting an event or electronic communication platform or making the environment hostile for any community member.
