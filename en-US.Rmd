@@ -6,7 +6,7 @@ title: "`r emo::ji('United_States')` Project-wide Code of Conduct statement for 
 
 # Code of Conduct
 
-## Version 1.4.0 (6th October, 2025)
+## Version 1.5.0 (25th February, 2026)
 
 _Initial project-wide Code of Conduct, expanded from previous conference-specific documents_
 
@@ -111,15 +111,13 @@ Incident procedures are based on the book "[How to Respond to Code of Conduct Re
 
 ### Code of Conduct Committee 
 
-* (Co-Chair) Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2026) he/him [FR, EN] (CAB)
-* (Co-Chair) Gerry Tonkin-Hill g.tonkinhill@gmail.com (until 2025) he/him [EN]
-* Martín Dávila-Cervantes aldntmi@gmail.com (until 2025) he/him [EN, FR, ES] 
-* Federica Gazzelloni fede.gazzelloni@gmail.com (until 2025) she/her [IT, EN]
-* Federico Marini fede.maro@gmail.com (until 2025) he/him [EN, IT, DE]
-* Shixiang Wang wangshx@shanghaitech.edu.cn (until 2025) he/him [CN, EN]
-* Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (until 2025) she/her [EN, Akan]
-* Peace Sandy peacesandy04@gmail.com she/her (until 2025) [EN]
-* Sinmisoluwa Adesanya adesanyasinmisoluwa@gmail.com she/her (until 2025) [EN, Yoruba]
-* Obuli Abraham obuliabraham@gmail.com he/him (until 2026) [En]
-* Maria Doyle maria.doyle@ul.ie she/her (until 2026) [En]
-* (Ombudsperson) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) she/her [ES, EN]
+* (Co-Chair) Kevin Rue-Albrecht <kevinrue67@gmail.com> (until 2026) he/him [French, English]
+* (Co-Chair) Gerry Tonkin-Hill <g.tonkinhill@gmail.com> (until 2025) he/him [EN]
+* Martín Dávila-Cervantes <aldntmi@gmail.com> (until 2025) he/him [EN, FR, ES] 
+* Federica Gazzelloni <fede.gazzelloni@gmail.com> (until 2025) she/her [IT, EN]
+* Federico Marini <fede.maro@gmail.com> (until 2025) he/him [EN, IT, DE]
+* Maria Doyle <maria.doyle@ul.ie> she/her (until 2026) [EN]
+* Tim Triche <Tim.Triche@vai.org> (until 2028)
+* Andres Wokaty <andres.wokaty@sph.cuny.edu> (until 2028) they/them [EN]
+* Svetlana Ugarcina Perovic <svetlana.ugarcina@gmail.com> (until 2028) she/her [Serbian, English]
+* (Ombudsperson) Michelle Savage <michellesavage.galaxy@gmail.com> (Galaxy project) she/her [ES, EN]
